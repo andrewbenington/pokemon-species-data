@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "outDir": "out",
+    "rootDir": "..",
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "moduleResolution": "node",
+    "lib": ["dom", "es2017"],
+    "types": ["node"],
+    "resolveJsonModule": true
+  },
+  "include": ["./**/*.ts", "./**/*.mts", "./*.ts"]
+}

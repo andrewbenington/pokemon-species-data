@@ -24,7 +24,7 @@ generate/typescript/out/typescript/generate.js:
 generate: generate/typescript/out/typescript/generate.js
 	@echo "generating typescript..."
 	@ts-node ./generate/typescript/generate.ts
-	@npx prettier --loglevel error --write  src/data/**/*.ts
+	@npx prettier --log-level error --write  "{,!(node_modules)/**/}*.ts"
 
 generate/out/syncPKHexResources.js: generate/syncPKHexResources.ts
 	@echo "compiling generate/syncPKHexResources.ts..."

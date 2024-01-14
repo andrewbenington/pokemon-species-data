@@ -1,17 +1,24 @@
 /* eslint-disable global-require */
-import fs from 'fs';
-import YAML from 'yaml';
-import { GenerateObjectFromPokemon, GenerateObjects } from './objects';
+import PokemonData from '../JSON/Pokemon.json'
+import { generateEnumFromList } from './enums'
+import { GenerateObjects } from './objects'
 
 interface EnumConfig {
-  name: string;
-  source: string;
-  dest: string;
-  getKeyAndStr?: string;
+  name: string
+  source: string
+  dest: string
+  getKeyAndStr?: string
 }
 
 interface Config {
-  enums: EnumConfig[];
+  enums: EnumConfig[]
 }
 
-GenerateObjects();
+GenerateObjects()
+
+generateEnumFromList(
+  'NationalDex',
+  ['Egg', ...Object.values(PokemonData).map((mon) => mon.name)],
+  'national-dex.ts',
+  undefined
+)

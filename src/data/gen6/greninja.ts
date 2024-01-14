@@ -67,7 +67,7 @@ const Greninja: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'greninja-ash',
-      spriteIndex: [27, 23],
+      spriteIndex: [28, 23],
     },
   ],
 };

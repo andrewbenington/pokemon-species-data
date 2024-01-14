@@ -36,7 +36,7 @@ const Orbeetle: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'orbeetle',
-      spriteIndex: [11, 30],
+      spriteIndex: [13, 30],
     },
   ],
 };

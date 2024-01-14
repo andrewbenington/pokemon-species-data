@@ -36,7 +36,7 @@ const Toxapex: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'toxapex',
-      spriteIndex: [1, 28],
+      spriteIndex: [3, 28],
     },
   ],
 };

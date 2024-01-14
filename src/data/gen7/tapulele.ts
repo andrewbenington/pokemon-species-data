@@ -36,7 +36,7 @@ const TapuLele: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'tapu-lele',
-      spriteIndex: [3, 29],
+      spriteIndex: [5, 29],
     },
   ],
 };

@@ -36,7 +36,7 @@ const Revavroom: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'revavroom',
-      spriteIndex: [0, 35],
+      spriteIndex: [2, 35],
     },
   ],
 };

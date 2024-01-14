@@ -36,7 +36,7 @@ const MrRime: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'mr-rime',
-      spriteIndex: [18, 31],
+      spriteIndex: [20, 31],
     },
   ],
 };

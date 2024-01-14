@@ -36,7 +36,7 @@ const Pangoro: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'pangoro',
-      spriteIndex: [5, 25],
+      spriteIndex: [6, 25],
     },
   ],
 };

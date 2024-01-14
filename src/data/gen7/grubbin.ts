@@ -36,7 +36,7 @@ const Grubbin: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'grubbin',
-      spriteIndex: [19, 27],
+      spriteIndex: [21, 27],
     },
   ],
 };

@@ -36,7 +36,7 @@ const Mudbray: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'mudbray',
-      spriteIndex: [2, 28],
+      spriteIndex: [4, 28],
     },
   ],
 };

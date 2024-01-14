@@ -39,7 +39,7 @@ const Tandemaus: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'tandemaus',
-      spriteIndex: [25, 33],
+      spriteIndex: [27, 33],
     },
   ],
 };

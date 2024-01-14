@@ -36,7 +36,7 @@ const Trevenant: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'trevenant',
-      spriteIndex: [16, 26],
+      spriteIndex: [17, 26],
     },
   ],
 };

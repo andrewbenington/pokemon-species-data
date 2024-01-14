@@ -36,7 +36,7 @@ const Kingambit: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'kingambit',
-      spriteIndex: [19, 35],
+      spriteIndex: [21, 35],
     },
   ],
 };

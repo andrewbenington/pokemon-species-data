@@ -36,7 +36,7 @@ const Corvisquire: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'corvisquire',
-      spriteIndex: [7, 30],
+      spriteIndex: [9, 30],
     },
   ],
 };

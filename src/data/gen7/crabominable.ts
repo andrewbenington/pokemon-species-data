@@ -36,7 +36,7 @@ const Crabominable: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'crabominable',
-      spriteIndex: [23, 27],
+      spriteIndex: [25, 27],
     },
   ],
 };

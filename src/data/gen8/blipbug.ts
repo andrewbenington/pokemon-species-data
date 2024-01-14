@@ -36,7 +36,7 @@ const Blipbug: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'blipbug',
-      spriteIndex: [9, 30],
+      spriteIndex: [11, 30],
     },
   ],
 };

@@ -36,7 +36,7 @@ const Yveltal: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'yveltal',
-      spriteIndex: [32, 26],
+      spriteIndex: [33, 26],
     },
   ],
 };

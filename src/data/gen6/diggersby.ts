@@ -36,7 +36,7 @@ const Diggersby: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'diggersby',
-      spriteIndex: [29, 23],
+      spriteIndex: [30, 23],
     },
   ],
 };

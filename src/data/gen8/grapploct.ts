@@ -36,7 +36,7 @@ const Grapploct: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'grapploct',
-      spriteIndex: [5, 31],
+      spriteIndex: [7, 31],
     },
   ],
 };

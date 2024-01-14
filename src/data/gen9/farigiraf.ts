@@ -36,7 +36,7 @@ const Farigiraf: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'farigiraf',
-      spriteIndex: [17, 35],
+      spriteIndex: [19, 35],
     },
   ],
 };

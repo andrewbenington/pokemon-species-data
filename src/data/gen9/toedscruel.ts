@@ -36,7 +36,7 @@ const Toedscruel: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'toedscruel',
-      spriteIndex: [18, 34],
+      spriteIndex: [20, 34],
     },
   ],
 };

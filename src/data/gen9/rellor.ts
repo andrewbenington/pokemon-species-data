@@ -36,7 +36,7 @@ const Rellor: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'rellor',
-      spriteIndex: [22, 34],
+      spriteIndex: [24, 34],
     },
   ],
 };

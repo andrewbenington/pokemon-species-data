@@ -36,7 +36,7 @@ const Melmetal: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'melmetal',
-      spriteIndex: [30, 29],
+      spriteIndex: [32, 29],
     },
   ],
 };

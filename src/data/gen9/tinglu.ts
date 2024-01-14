@@ -36,7 +36,7 @@ const TingLu: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'ting-lu',
-      spriteIndex: [4, 36],
+      spriteIndex: [6, 36],
     },
   ],
 };

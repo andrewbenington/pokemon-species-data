@@ -36,7 +36,7 @@ const Spidops: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'spidops',
-      spriteIndex: [19, 33],
+      spriteIndex: [21, 33],
     },
   ],
 };

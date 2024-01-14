@@ -36,7 +36,7 @@ const IronBundle: Pokemon = {
       paradox: true,
       cosmeticForme: false,
       sprite: 'iron-bundle',
-      spriteIndex: [27, 35],
+      spriteIndex: [29, 35],
     },
   ],
 };

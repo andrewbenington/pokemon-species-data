@@ -36,7 +36,7 @@ const IronMoth: Pokemon = {
       paradox: true,
       cosmeticForme: false,
       sprite: 'iron-moth',
-      spriteIndex: [30, 35],
+      spriteIndex: [32, 35],
     },
   ],
 };

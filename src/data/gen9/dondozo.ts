@@ -36,7 +36,7 @@ const Dondozo: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'dondozo',
-      spriteIndex: [11, 35],
+      spriteIndex: [13, 35],
     },
   ],
 };

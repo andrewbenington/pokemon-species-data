@@ -36,7 +36,7 @@ const Quaquaval: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'quaquaval',
-      spriteIndex: [14, 33],
+      spriteIndex: [16, 33],
     },
   ],
 };

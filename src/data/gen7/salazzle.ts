@@ -36,7 +36,7 @@ const Salazzle: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'salazzle',
-      spriteIndex: [11, 28],
+      spriteIndex: [13, 28],
     },
     {
       name: 'Salazzle',
@@ -67,7 +67,7 @@ const Salazzle: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'salazzle',
-      spriteIndex: [11, 28],
+      spriteIndex: [13, 28],
     },
   ],
 };

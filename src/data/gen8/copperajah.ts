@@ -36,7 +36,7 @@ const Copperajah: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'copperajah',
-      spriteIndex: [6, 32],
+      spriteIndex: [8, 32],
     },
   ],
 };

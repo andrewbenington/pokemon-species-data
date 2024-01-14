@@ -36,7 +36,7 @@ const Furfrou: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'furfrou',
-      spriteIndex: [6, 25],
+      spriteIndex: [7, 25],
     },
     {
       name: 'Furfrou',
@@ -67,7 +67,7 @@ const Furfrou: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'furfrou',
-      spriteIndex: [7, 25],
+      spriteIndex: [8, 25],
     },
     {
       name: 'Furfrou',
@@ -98,7 +98,7 @@ const Furfrou: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'furfrou',
-      spriteIndex: [8, 25],
+      spriteIndex: [9, 25],
     },
     {
       name: 'Furfrou',
@@ -129,7 +129,7 @@ const Furfrou: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'furfrou',
-      spriteIndex: [9, 25],
+      spriteIndex: [10, 25],
     },
     {
       name: 'Furfrou',
@@ -160,7 +160,7 @@ const Furfrou: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'furfrou',
-      spriteIndex: [10, 25],
+      spriteIndex: [11, 25],
     },
     {
       name: 'Furfrou',
@@ -191,7 +191,7 @@ const Furfrou: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'furfrou',
-      spriteIndex: [11, 25],
+      spriteIndex: [12, 25],
     },
     {
       name: 'Furfrou',
@@ -222,7 +222,7 @@ const Furfrou: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'furfrou',
-      spriteIndex: [12, 25],
+      spriteIndex: [13, 25],
     },
     {
       name: 'Furfrou',
@@ -253,7 +253,7 @@ const Furfrou: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'furfrou',
-      spriteIndex: [13, 25],
+      spriteIndex: [14, 25],
     },
     {
       name: 'Furfrou',
@@ -284,7 +284,7 @@ const Furfrou: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'furfrou',
-      spriteIndex: [14, 25],
+      spriteIndex: [15, 25],
     },
     {
       name: 'Furfrou',
@@ -315,7 +315,7 @@ const Furfrou: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'furfrou',
-      spriteIndex: [15, 25],
+      spriteIndex: [16, 25],
     },
   ],
 };

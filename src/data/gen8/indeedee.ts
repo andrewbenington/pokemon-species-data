@@ -36,7 +36,7 @@ const Indeedee: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'indeedee',
-      spriteIndex: [1, 32],
+      spriteIndex: [3, 32],
     },
     {
       name: 'Indeedee',
@@ -67,7 +67,7 @@ const Indeedee: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'indeedee-f',
-      spriteIndex: [2, 32],
+      spriteIndex: [4, 32],
     },
   ],
 };

@@ -36,7 +36,7 @@ const Milcery: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'milcery',
-      spriteIndex: [20, 31],
+      spriteIndex: [22, 31],
     },
   ],
 };

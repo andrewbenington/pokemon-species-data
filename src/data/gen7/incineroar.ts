@@ -36,7 +36,7 @@ const Incineroar: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'incineroar',
-      spriteIndex: [10, 27],
+      spriteIndex: [12, 27],
     },
   ],
 };

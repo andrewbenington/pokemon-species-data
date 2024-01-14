@@ -36,7 +36,7 @@ const Stakataka: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'stakataka',
-      spriteIndex: [26, 29],
+      spriteIndex: [28, 29],
     },
   ],
 };

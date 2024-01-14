@@ -36,7 +36,7 @@ const Rabsca: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'rabsca',
-      spriteIndex: [23, 34],
+      spriteIndex: [25, 34],
     },
   ],
 };

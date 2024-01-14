@@ -36,7 +36,7 @@ const Xurkitree: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'xurkitree',
-      spriteIndex: [13, 29],
+      spriteIndex: [15, 29],
     },
   ],
 };

@@ -36,7 +36,7 @@ const Hatenna: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'hatenna',
-      spriteIndex: [8, 31],
+      spriteIndex: [10, 31],
     },
   ],
 };

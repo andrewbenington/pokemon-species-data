@@ -36,7 +36,7 @@ const Flapple: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'flapple',
-      spriteIndex: [26, 30],
+      spriteIndex: [28, 30],
     },
   ],
 };

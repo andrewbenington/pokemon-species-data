@@ -36,7 +36,7 @@ const Tinkaton: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'tinkaton',
-      spriteIndex: [28, 34],
+      spriteIndex: [30, 34],
     },
   ],
 };

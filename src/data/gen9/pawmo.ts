@@ -36,7 +36,7 @@ const Pawmo: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'pawmo',
-      spriteIndex: [23, 33],
+      spriteIndex: [25, 33],
     },
   ],
 };

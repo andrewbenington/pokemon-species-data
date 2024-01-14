@@ -36,7 +36,7 @@ const Tinkatuff: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'tinkatuff',
-      spriteIndex: [27, 34],
+      spriteIndex: [29, 34],
     },
   ],
 };

@@ -36,7 +36,7 @@ const Cinderace: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'cinderace',
-      spriteIndex: [0, 30],
+      spriteIndex: [2, 30],
     },
   ],
 };

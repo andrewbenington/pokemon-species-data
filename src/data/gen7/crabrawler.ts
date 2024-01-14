@@ -36,7 +36,7 @@ const Crabrawler: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'crabrawler',
-      spriteIndex: [22, 27],
+      spriteIndex: [24, 27],
     },
   ],
 };

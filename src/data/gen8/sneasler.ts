@@ -36,7 +36,7 @@ const Sneasler: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'sneasler',
-      spriteIndex: [2, 33],
+      spriteIndex: [4, 33],
     },
   ],
 };

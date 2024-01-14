@@ -36,7 +36,7 @@ const Eternatus: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'eternatus',
-      spriteIndex: [19, 32],
+      spriteIndex: [21, 32],
     },
     {
       name: 'Eternatus',
@@ -67,7 +67,7 @@ const Eternatus: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'eternatus-eternamax',
-      spriteIndex: [20, 32],
+      spriteIndex: [22, 32],
     },
   ],
 };

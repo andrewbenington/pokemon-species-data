@@ -36,7 +36,7 @@ const Inkay: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'inkay',
-      spriteIndex: [27, 25],
+      spriteIndex: [28, 25],
     },
   ],
 };

@@ -36,7 +36,7 @@ const Volcanion: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'volcanion',
-      spriteIndex: [3, 27],
+      spriteIndex: [5, 27],
     },
   ],
 };

@@ -36,7 +36,7 @@ const Noivern: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'noivern',
-      spriteIndex: [29, 26],
+      spriteIndex: [30, 26],
     },
   ],
 };

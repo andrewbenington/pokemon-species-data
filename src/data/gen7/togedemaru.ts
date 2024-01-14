@@ -36,7 +36,7 @@ const Togedemaru: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'togedemaru',
-      spriteIndex: [30, 28],
+      spriteIndex: [32, 28],
     },
     {
       name: 'Togedemaru',
@@ -67,7 +67,7 @@ const Togedemaru: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'togedemaru',
-      spriteIndex: [30, 28],
+      spriteIndex: [32, 28],
     },
   ],
 };

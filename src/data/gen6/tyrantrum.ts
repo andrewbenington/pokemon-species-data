@@ -36,7 +36,7 @@ const Tyrantrum: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'tyrantrum',
-      spriteIndex: [2, 26],
+      spriteIndex: [3, 26],
     },
   ],
 };

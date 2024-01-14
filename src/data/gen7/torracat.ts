@@ -36,7 +36,7 @@ const Torracat: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'torracat',
-      spriteIndex: [9, 27],
+      spriteIndex: [11, 27],
     },
   ],
 };

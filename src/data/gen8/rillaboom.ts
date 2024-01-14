@@ -36,7 +36,7 @@ const Rillaboom: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'rillaboom',
-      spriteIndex: [33, 29],
+      spriteIndex: [35, 29],
     },
   ],
 };

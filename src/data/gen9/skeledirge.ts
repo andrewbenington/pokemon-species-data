@@ -36,7 +36,7 @@ const Skeledirge: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'skeledirge',
-      spriteIndex: [11, 33],
+      spriteIndex: [13, 33],
     },
   ],
 };

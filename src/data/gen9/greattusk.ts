@@ -36,7 +36,7 @@ const GreatTusk: Pokemon = {
       paradox: true,
       cosmeticForme: false,
       sprite: 'great-tusk',
-      spriteIndex: [20, 35],
+      spriteIndex: [22, 35],
     },
   ],
 };

@@ -36,7 +36,7 @@ const Sylveon: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'sylveon',
-      spriteIndex: [5, 26],
+      spriteIndex: [6, 26],
     },
   ],
 };

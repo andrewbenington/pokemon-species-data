@@ -36,7 +36,7 @@ const Wyrdeer: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'wyrdeer',
-      spriteIndex: [32, 32],
+      spriteIndex: [34, 32],
     },
   ],
 };

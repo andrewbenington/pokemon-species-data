@@ -36,7 +36,7 @@ const Quaxly: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'quaxly',
-      spriteIndex: [12, 33],
+      spriteIndex: [14, 33],
     },
   ],
 };

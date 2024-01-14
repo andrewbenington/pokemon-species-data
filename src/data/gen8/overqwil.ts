@@ -36,7 +36,7 @@ const Overqwil: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'overqwil',
-      spriteIndex: [3, 33],
+      spriteIndex: [5, 33],
     },
   ],
 };

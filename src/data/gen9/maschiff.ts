@@ -36,7 +36,7 @@ const Maschiff: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'maschiff',
-      spriteIndex: [11, 34],
+      spriteIndex: [13, 34],
     },
   ],
 };

@@ -36,7 +36,7 @@ const Trumbeak: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'trumbeak',
-      spriteIndex: [15, 27],
+      spriteIndex: [17, 27],
     },
   ],
 };

@@ -36,7 +36,7 @@ const Decidueye: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'decidueye',
-      spriteIndex: [6, 27],
+      spriteIndex: [8, 27],
     },
     {
       name: 'Decidueye',
@@ -67,7 +67,7 @@ const Decidueye: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'decidueye-hisui',
-      spriteIndex: [7, 27],
+      spriteIndex: [9, 27],
     },
   ],
 };

@@ -39,7 +39,7 @@ const Dartrix: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'dartrix',
-      spriteIndex: [5, 27],
+      spriteIndex: [7, 27],
     },
   ],
 };

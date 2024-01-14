@@ -36,7 +36,7 @@ const Hattrem: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'hattrem',
-      spriteIndex: [9, 31],
+      spriteIndex: [11, 31],
     },
   ],
 };

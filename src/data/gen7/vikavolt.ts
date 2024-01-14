@@ -36,7 +36,7 @@ const Vikavolt: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'vikavolt',
-      spriteIndex: [21, 27],
+      spriteIndex: [23, 27],
     },
     {
       name: 'Vikavolt',
@@ -67,7 +67,7 @@ const Vikavolt: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'vikavolt',
-      spriteIndex: [21, 27],
+      spriteIndex: [23, 27],
     },
   ],
 };

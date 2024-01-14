@@ -36,7 +36,7 @@ const Raboot: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'raboot',
-      spriteIndex: [35, 29],
+      spriteIndex: [1, 30],
     },
   ],
 };

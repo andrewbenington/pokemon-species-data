@@ -36,7 +36,7 @@ const Okidogi: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'okidogi',
-      spriteIndex: [15, 36],
+      spriteIndex: [19, 36],
     },
   ],
 };

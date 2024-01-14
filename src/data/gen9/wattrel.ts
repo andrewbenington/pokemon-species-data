@@ -36,7 +36,7 @@ const Wattrel: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'wattrel',
-      spriteIndex: [9, 34],
+      spriteIndex: [11, 34],
     },
   ],
 };

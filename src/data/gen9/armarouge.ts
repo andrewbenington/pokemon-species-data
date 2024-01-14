@@ -36,7 +36,7 @@ const Armarouge: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'armarouge',
-      spriteIndex: [5, 34],
+      spriteIndex: [7, 34],
     },
   ],
 };

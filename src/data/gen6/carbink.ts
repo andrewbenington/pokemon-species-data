@@ -36,7 +36,7 @@ const Carbink: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'carbink',
-      spriteIndex: [8, 26],
+      spriteIndex: [9, 26],
     },
   ],
 };

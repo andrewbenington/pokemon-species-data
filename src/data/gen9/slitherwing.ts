@@ -36,7 +36,7 @@ const SlitherWing: Pokemon = {
       paradox: true,
       cosmeticForme: false,
       sprite: 'slither-wing',
-      spriteIndex: [24, 35],
+      spriteIndex: [26, 35],
     },
   ],
 };

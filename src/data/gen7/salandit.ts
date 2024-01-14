@@ -36,7 +36,7 @@ const Salandit: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'salandit',
-      spriteIndex: [10, 28],
+      spriteIndex: [12, 28],
     },
   ],
 };

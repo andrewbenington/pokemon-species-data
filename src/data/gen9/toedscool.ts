@@ -36,7 +36,7 @@ const Toedscool: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'toedscool',
-      spriteIndex: [17, 34],
+      spriteIndex: [19, 34],
     },
   ],
 };

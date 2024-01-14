@@ -36,7 +36,7 @@ const RoaringMoon: Pokemon = {
       paradox: true,
       cosmeticForme: false,
       sprite: 'roaring-moon',
-      spriteIndex: [6, 36],
+      spriteIndex: [8, 36],
     },
   ],
 };

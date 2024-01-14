@@ -36,7 +36,7 @@ const TapuKoko: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'tapu-koko',
-      spriteIndex: [2, 29],
+      spriteIndex: [4, 29],
     },
   ],
 };

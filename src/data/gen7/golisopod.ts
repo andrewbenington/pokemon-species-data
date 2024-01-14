@@ -36,7 +36,7 @@ const Golisopod: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'golisopod',
-      spriteIndex: [21, 28],
+      spriteIndex: [23, 28],
     },
   ],
 };

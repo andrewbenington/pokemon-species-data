@@ -36,7 +36,7 @@ const Bramblin: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'bramblin',
-      spriteIndex: [15, 34],
+      spriteIndex: [17, 34],
     },
   ],
 };

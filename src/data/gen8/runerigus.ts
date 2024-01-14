@@ -36,7 +36,7 @@ const Runerigus: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'runerigus',
-      spriteIndex: [19, 31],
+      spriteIndex: [21, 31],
     },
   ],
 };

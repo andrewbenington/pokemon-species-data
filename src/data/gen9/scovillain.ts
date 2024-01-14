@@ -36,7 +36,7 @@ const Scovillain: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'scovillain',
-      spriteIndex: [21, 34],
+      spriteIndex: [23, 34],
     },
   ],
 };

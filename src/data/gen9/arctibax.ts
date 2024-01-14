@@ -36,7 +36,7 @@ const Arctibax: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'arctibax',
-      spriteIndex: [33, 35],
+      spriteIndex: [35, 35],
     },
   ],
 };

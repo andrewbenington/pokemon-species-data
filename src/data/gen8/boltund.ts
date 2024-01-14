@@ -36,7 +36,7 @@ const Boltund: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'boltund',
-      spriteIndex: [21, 30],
+      spriteIndex: [23, 30],
     },
   ],
 };

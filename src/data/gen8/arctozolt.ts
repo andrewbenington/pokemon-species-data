@@ -36,7 +36,7 @@ const Arctozolt: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'arctozolt',
-      spriteIndex: [8, 32],
+      spriteIndex: [10, 32],
     },
   ],
 };

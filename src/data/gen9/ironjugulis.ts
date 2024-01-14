@@ -36,7 +36,7 @@ const IronJugulis: Pokemon = {
       paradox: true,
       cosmeticForme: false,
       sprite: 'iron-jugulis',
-      spriteIndex: [29, 35],
+      spriteIndex: [31, 35],
     },
   ],
 };

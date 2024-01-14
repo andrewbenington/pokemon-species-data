@@ -36,7 +36,7 @@ const Bunnelby: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'bunnelby',
-      spriteIndex: [28, 23],
+      spriteIndex: [29, 23],
     },
   ],
 };

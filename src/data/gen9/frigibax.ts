@@ -36,7 +36,7 @@ const Frigibax: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'frigibax',
-      spriteIndex: [32, 35],
+      spriteIndex: [34, 35],
     },
   ],
 };

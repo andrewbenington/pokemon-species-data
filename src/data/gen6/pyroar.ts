@@ -36,7 +36,7 @@ const Pyroar: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'pyroar',
-      spriteIndex: [20, 24],
+      spriteIndex: [21, 24],
     },
   ],
 };

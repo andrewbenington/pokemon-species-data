@@ -36,7 +36,7 @@ const Mareanie: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'mareanie',
-      spriteIndex: [0, 28],
+      spriteIndex: [2, 28],
     },
   ],
 };

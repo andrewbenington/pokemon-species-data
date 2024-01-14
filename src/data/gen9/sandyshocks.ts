@@ -36,7 +36,7 @@ const SandyShocks: Pokemon = {
       paradox: true,
       cosmeticForme: false,
       sprite: 'sandy-shocks',
-      spriteIndex: [25, 35],
+      spriteIndex: [27, 35],
     },
   ],
 };

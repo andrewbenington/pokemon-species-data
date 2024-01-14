@@ -36,7 +36,7 @@ const Litten: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'litten',
-      spriteIndex: [8, 27],
+      spriteIndex: [10, 27],
     },
   ],
 };

@@ -36,7 +36,7 @@ const Mimikyu: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'mimikyu',
-      spriteIndex: [31, 28],
+      spriteIndex: [33, 28],
     },
     {
       name: 'Mimikyu',
@@ -67,7 +67,7 @@ const Mimikyu: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'mimikyu-busted',
-      spriteIndex: [31, 28],
+      spriteIndex: [33, 28],
     },
     {
       name: 'Mimikyu',
@@ -98,7 +98,7 @@ const Mimikyu: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'mimikyu',
-      spriteIndex: [31, 28],
+      spriteIndex: [33, 28],
     },
     {
       name: 'Mimikyu',
@@ -129,7 +129,7 @@ const Mimikyu: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'mimikyu-busted',
-      spriteIndex: [31, 28],
+      spriteIndex: [33, 28],
     },
   ],
 };

@@ -36,7 +36,7 @@ const Clobbopus: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'clobbopus',
-      spriteIndex: [4, 31],
+      spriteIndex: [6, 31],
     },
   ],
 };

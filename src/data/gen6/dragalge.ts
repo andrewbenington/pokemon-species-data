@@ -36,7 +36,7 @@ const Dragalge: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'dragalge',
-      spriteIndex: [32, 25],
+      spriteIndex: [33, 25],
     },
   ],
 };

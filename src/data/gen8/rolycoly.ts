@@ -36,7 +36,7 @@ const Rolycoly: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'rolycoly',
-      spriteIndex: [22, 30],
+      spriteIndex: [24, 30],
     },
   ],
 };

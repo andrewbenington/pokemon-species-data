@@ -36,7 +36,7 @@ const Spritzee: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'spritzee',
-      spriteIndex: [23, 25],
+      spriteIndex: [24, 25],
     },
   ],
 };

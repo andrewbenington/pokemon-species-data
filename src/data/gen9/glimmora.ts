@@ -36,7 +36,7 @@ const Glimmora: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'glimmora',
-      spriteIndex: [4, 35],
+      spriteIndex: [6, 35],
     },
   ],
 };

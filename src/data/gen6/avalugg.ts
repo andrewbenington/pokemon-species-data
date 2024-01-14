@@ -36,7 +36,7 @@ const Avalugg: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'avalugg',
-      spriteIndex: [26, 26],
+      spriteIndex: [27, 26],
     },
     {
       name: 'Avalugg',
@@ -67,7 +67,7 @@ const Avalugg: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'avalugg-hisui',
-      spriteIndex: [27, 26],
+      spriteIndex: [28, 26],
     },
   ],
 };

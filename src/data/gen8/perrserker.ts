@@ -36,7 +36,7 @@ const Perrserker: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'perrserker',
-      spriteIndex: [15, 31],
+      spriteIndex: [17, 31],
     },
   ],
 };

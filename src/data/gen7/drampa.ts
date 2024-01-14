@@ -36,7 +36,7 @@ const Drampa: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'drampa',
-      spriteIndex: [33, 28],
+      spriteIndex: [35, 28],
     },
   ],
 };

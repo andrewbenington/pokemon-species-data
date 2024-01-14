@@ -36,7 +36,7 @@ const Spewpa: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'spewpa',
-      spriteIndex: [34, 23],
+      spriteIndex: [35, 23],
     },
     {
       name: 'Spewpa',
@@ -67,7 +67,7 @@ const Spewpa: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'spewpa',
-      spriteIndex: [34, 23],
+      spriteIndex: [35, 23],
     },
     {
       name: 'Spewpa',
@@ -98,7 +98,7 @@ const Spewpa: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'spewpa',
-      spriteIndex: [34, 23],
+      spriteIndex: [35, 23],
     },
     {
       name: 'Spewpa',
@@ -129,7 +129,7 @@ const Spewpa: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'spewpa',
-      spriteIndex: [34, 23],
+      spriteIndex: [35, 23],
     },
     {
       name: 'Spewpa',
@@ -160,7 +160,7 @@ const Spewpa: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'spewpa',
-      spriteIndex: [34, 23],
+      spriteIndex: [35, 23],
     },
     {
       name: 'Spewpa',
@@ -191,7 +191,7 @@ const Spewpa: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'spewpa',
-      spriteIndex: [34, 23],
+      spriteIndex: [35, 23],
     },
     {
       name: 'Spewpa',
@@ -222,7 +222,7 @@ const Spewpa: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'spewpa',
-      spriteIndex: [34, 23],
+      spriteIndex: [35, 23],
     },
     {
       name: 'Spewpa',
@@ -253,7 +253,7 @@ const Spewpa: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'spewpa',
-      spriteIndex: [34, 23],
+      spriteIndex: [35, 23],
     },
     {
       name: 'Spewpa',
@@ -284,7 +284,7 @@ const Spewpa: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'spewpa',
-      spriteIndex: [34, 23],
+      spriteIndex: [35, 23],
     },
     {
       name: 'Spewpa',
@@ -315,7 +315,7 @@ const Spewpa: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'spewpa',
-      spriteIndex: [34, 23],
+      spriteIndex: [35, 23],
     },
     {
       name: 'Spewpa',
@@ -346,7 +346,7 @@ const Spewpa: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'spewpa',
-      spriteIndex: [34, 23],
+      spriteIndex: [35, 23],
     },
     {
       name: 'Spewpa',
@@ -377,7 +377,7 @@ const Spewpa: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'spewpa',
-      spriteIndex: [34, 23],
+      spriteIndex: [35, 23],
     },
     {
       name: 'Spewpa',
@@ -408,7 +408,7 @@ const Spewpa: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'spewpa',
-      spriteIndex: [34, 23],
+      spriteIndex: [35, 23],
     },
     {
       name: 'Spewpa',
@@ -439,7 +439,7 @@ const Spewpa: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'spewpa',
-      spriteIndex: [34, 23],
+      spriteIndex: [35, 23],
     },
     {
       name: 'Spewpa',
@@ -470,7 +470,7 @@ const Spewpa: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'spewpa',
-      spriteIndex: [34, 23],
+      spriteIndex: [35, 23],
     },
     {
       name: 'Spewpa',
@@ -501,7 +501,7 @@ const Spewpa: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'spewpa',
-      spriteIndex: [34, 23],
+      spriteIndex: [35, 23],
     },
     {
       name: 'Spewpa',
@@ -532,7 +532,7 @@ const Spewpa: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'spewpa',
-      spriteIndex: [34, 23],
+      spriteIndex: [35, 23],
     },
     {
       name: 'Spewpa',
@@ -563,7 +563,7 @@ const Spewpa: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'spewpa',
-      spriteIndex: [34, 23],
+      spriteIndex: [35, 23],
     },
     {
       name: 'Spewpa',
@@ -594,7 +594,7 @@ const Spewpa: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'spewpa',
-      spriteIndex: [34, 23],
+      spriteIndex: [35, 23],
     },
     {
       name: 'Spewpa',
@@ -625,7 +625,7 @@ const Spewpa: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'spewpa',
-      spriteIndex: [34, 23],
+      spriteIndex: [35, 23],
     },
   ],
 };

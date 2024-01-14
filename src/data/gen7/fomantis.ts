@@ -36,7 +36,7 @@ const Fomantis: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'fomantis',
-      spriteIndex: [6, 28],
+      spriteIndex: [8, 28],
     },
   ],
 };

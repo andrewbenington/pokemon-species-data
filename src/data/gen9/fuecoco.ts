@@ -36,7 +36,7 @@ const Fuecoco: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'fuecoco',
-      spriteIndex: [9, 33],
+      spriteIndex: [11, 33],
     },
   ],
 };

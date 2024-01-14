@@ -36,7 +36,7 @@ const Palafin: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'palafin',
-      spriteIndex: [33, 34],
+      spriteIndex: [35, 34],
     },
     {
       name: 'Palafin',
@@ -67,7 +67,7 @@ const Palafin: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'palafin-hero',
-      spriteIndex: [34, 34],
+      spriteIndex: [0, 35],
     },
   ],
 };

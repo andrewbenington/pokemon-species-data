@@ -36,7 +36,7 @@ const Inteleon: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'inteleon',
-      spriteIndex: [3, 30],
+      spriteIndex: [5, 30],
     },
   ],
 };

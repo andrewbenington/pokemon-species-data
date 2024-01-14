@@ -36,7 +36,7 @@ const Zeraora: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'zeraora',
-      spriteIndex: [28, 29],
+      spriteIndex: [30, 29],
     },
   ],
 };

@@ -4,7 +4,7 @@ import { Pokemon } from '../../types';
 
 const Hydrapple: Pokemon = {
   name: 'Hydrapple',
-  nationalDex: 1018,
+  nationalDex: 1019,
   levelUpType: 'Erratic',
   formes: [
     {
@@ -18,15 +18,15 @@ const Hydrapple: Pokemon = {
       alias: 'hydrapple',
       types: ['Grass', 'Dragon'],
       genderRatio: { male: 0.5, female: 0.5 },
-      baseStats: { hp: 88, atk: 75, def: 66, spa: 130, spd: 90, spe: 106 },
+      baseStats: { hp: 106, atk: 80, def: 110, spa: 120, spd: 80, spe: 44 },
       ability1: 'Supersweet Syrup',
-      ability2: null,
-      abilityH: 'Regenerator',
+      ability2: 'Regenerator',
+      abilityH: 'Sticky Hold',
       height: 1.8,
       weight: 93,
       evos: [],
       prevo: { dexNumber: 1011, formeNumber: 0 },
-      eggGroups: ['Grass', 'Dragon'],
+      eggGroups: [],
       gen: 9,
       restrictedLegendary: false,
       regional: null,
@@ -36,7 +36,7 @@ const Hydrapple: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'hydrapple',
-      spriteIndex: [22, 36],
+      spriteIndex: [27, 36],
     },
   ],
 };

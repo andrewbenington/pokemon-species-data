@@ -36,7 +36,7 @@ const Fletchinder: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'fletchinder',
-      spriteIndex: [31, 23],
+      spriteIndex: [32, 23],
     },
   ],
 };

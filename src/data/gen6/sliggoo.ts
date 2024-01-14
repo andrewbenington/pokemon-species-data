@@ -36,7 +36,7 @@ const Sliggoo: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'sliggoo',
-      spriteIndex: [10, 26],
+      spriteIndex: [11, 26],
     },
     {
       name: 'Sliggoo',
@@ -67,7 +67,7 @@ const Sliggoo: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'sliggoo-hisui',
-      spriteIndex: [11, 26],
+      spriteIndex: [12, 26],
     },
   ],
 };

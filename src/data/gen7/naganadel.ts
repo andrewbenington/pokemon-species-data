@@ -36,7 +36,7 @@ const Naganadel: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'naganadel',
-      spriteIndex: [25, 29],
+      spriteIndex: [27, 29],
     },
   ],
 };

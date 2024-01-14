@@ -36,7 +36,7 @@ const Klawf: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'klawf',
-      spriteIndex: [19, 34],
+      spriteIndex: [21, 34],
     },
   ],
 };

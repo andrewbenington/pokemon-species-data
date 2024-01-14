@@ -36,7 +36,7 @@ const Wishiwashi: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'wishiwashi-solo',
-      spriteIndex: [34, 27],
+      spriteIndex: [0, 28],
     },
     {
       name: 'Wishiwashi',
@@ -67,7 +67,7 @@ const Wishiwashi: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'wishiwashi-school',
-      spriteIndex: [35, 27],
+      spriteIndex: [1, 28],
     },
   ],
 };

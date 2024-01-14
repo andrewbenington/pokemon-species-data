@@ -36,7 +36,7 @@ const Meltan: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'meltan',
-      spriteIndex: [29, 29],
+      spriteIndex: [31, 29],
     },
   ],
 };

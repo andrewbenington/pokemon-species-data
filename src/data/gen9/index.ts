@@ -112,7 +112,14 @@ import { Okidogi } from './okidogi';
 import { Munkidori } from './munkidori';
 import { Fezandipiti } from './fezandipiti';
 import { Ogerpon } from './ogerpon';
+import { Archaludon } from './archaludon';
 import { Hydrapple } from './hydrapple';
+import { GougingFire } from './gougingfire';
+import { RagingBolt } from './ragingbolt';
+import { IronBoulder } from './ironboulder';
+import { IronCrown } from './ironcrown';
+import { Terapagos } from './terapagos';
+import { Pecharunt } from './pecharunt';
 
 export * as Sprigatito from './sprigatito';
 export * as Floragato from './floragato';
@@ -226,7 +233,14 @@ export * as Okidogi from './okidogi';
 export * as Munkidori from './munkidori';
 export * as Fezandipiti from './fezandipiti';
 export * as Ogerpon from './ogerpon';
+export * as Archaludon from './archaludon';
 export * as Hydrapple from './hydrapple';
+export * as GougingFire from './gougingfire';
+export * as RagingBolt from './ragingbolt';
+export * as IronBoulder from './ironboulder';
+export * as IronCrown from './ironcrown';
+export * as Terapagos from './terapagos';
+export * as Pecharunt from './pecharunt';
 
 const Gen9PokemonData = {
   906: Sprigatito,
@@ -341,7 +355,14 @@ const Gen9PokemonData = {
   1015: Munkidori,
   1016: Fezandipiti,
   1017: Ogerpon,
-  1018: Hydrapple,
+  1018: Archaludon,
+  1019: Hydrapple,
+  1020: GougingFire,
+  1021: RagingBolt,
+  1022: IronBoulder,
+  1023: IronCrown,
+  1024: Terapagos,
+  1025: Pecharunt,
 };
 
 export { Gen9PokemonData };

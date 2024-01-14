@@ -36,7 +36,7 @@ const FlutterMane: Pokemon = {
       paradox: true,
       cosmeticForme: false,
       sprite: 'flutter-mane',
-      spriteIndex: [23, 35],
+      spriteIndex: [25, 35],
     },
   ],
 };

@@ -1,12 +1,12 @@
-import fs from 'fs';
-import { dirname } from 'path';
-import ts from 'typescript';
-import PokemonData from '../JSON/Pokemon.json';
-import Forme from './types/forme';
-import Pokemon from './types/pokemon';
+import fs from "fs";
+import { dirname } from "path";
+import ts from "typescript";
+import PokemonData from "../JSON/Pokemon.json";
+import Forme from "./types/forme";
+import Pokemon from "./types/pokemon";
 
 function removeDiacritics(str: string) {
-  return str.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+  return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
 }
 
 function convertToPascalCase(input: string): string {
@@ -16,9 +16,9 @@ function convertToPascalCase(input: string): string {
   // Capitalize the first letter of each word and join them
   const pascalCaseString = words
     .map((word) =>
-      word.length === 0 ? '' : word[0].toUpperCase() + word.slice(1)
+      word.length === 0 ? "" : word[0].toUpperCase() + word.slice(1)
     )
-    .join('');
+    .join("");
 
   return pascalCaseString;
 }
@@ -28,10 +28,10 @@ function cleanedName(inputString: string) {
   const pascalString = convertToPascalCase(removeDiacritics(inputString));
 
   // Remove punctuation
-  let stringWithoutPunctuation = pascalString.replace(/[^\w\s]/g, '');
+  let stringWithoutPunctuation = pascalString.replace(/[^\w\s]/g, "");
 
-  if (stringWithoutPunctuation === '' || inputString.includes('???')) {
-    stringWithoutPunctuation = 'Unknown';
+  if (stringWithoutPunctuation === "" || inputString.includes("???")) {
+    stringWithoutPunctuation = "Unknown";
   }
 
   return stringWithoutPunctuation;
@@ -40,120 +40,120 @@ function cleanedName(inputString: string) {
 const generateFormeObjectLiteral = (forme: Forme) => {
   return ts.factory.createObjectLiteralExpression([
     ts.factory.createPropertyAssignment(
-      'name',
+      "name",
       ts.factory.createStringLiteral(forme.name)
     ),
     ts.factory.createPropertyAssignment(
-      'formeName',
+      "formeName",
       ts.factory.createStringLiteral(forme.formeName)
     ),
     ts.factory.createPropertyAssignment(
-      'formeNumber',
+      "formeNumber",
       ts.factory.createNumericLiteral(forme.formeNumber)
     ),
     ts.factory.createPropertyAssignment(
-      'isBaseForme',
+      "isBaseForme",
       forme.isBaseForme ? ts.factory.createTrue() : ts.factory.createFalse()
     ),
     ts.factory.createPropertyAssignment(
-      'isMega',
+      "isMega",
       forme.isMega ? ts.factory.createTrue() : ts.factory.createFalse()
     ),
     ts.factory.createPropertyAssignment(
-      'isGMax',
+      "isGMax",
       forme.isGMax ? ts.factory.createTrue() : ts.factory.createFalse()
     ),
     ts.factory.createPropertyAssignment(
-      'isBattleOnly',
+      "isBattleOnly",
       forme.isBattleOnly ? ts.factory.createTrue() : ts.factory.createFalse()
     ),
     ts.factory.createPropertyAssignment(
-      'alias',
+      "alias",
       ts.factory.createStringLiteral(forme.alias)
     ),
     ts.factory.createPropertyAssignment(
-      'types',
+      "types",
       ts.factory.createArrayLiteralExpression(
         forme.types.map((type) => ts.factory.createStringLiteral(type))
       )
     ),
     ts.factory.createPropertyAssignment(
-      'genderRatio',
+      "genderRatio",
       ts.factory.createObjectLiteralExpression([
         ts.factory.createPropertyAssignment(
-          'male',
+          "male",
           ts.factory.createNumericLiteral(forme.genderRatio.M)
         ),
         ts.factory.createPropertyAssignment(
-          'female',
+          "female",
           ts.factory.createNumericLiteral(forme.genderRatio.F)
         ),
       ])
     ),
     ts.factory.createPropertyAssignment(
-      'baseStats',
+      "baseStats",
       ts.factory.createObjectLiteralExpression([
         ts.factory.createPropertyAssignment(
-          'hp',
+          "hp",
           ts.factory.createNumericLiteral(forme.baseStats.hp)
         ),
         ts.factory.createPropertyAssignment(
-          'atk',
+          "atk",
           ts.factory.createNumericLiteral(forme.baseStats.atk)
         ),
         ts.factory.createPropertyAssignment(
-          'def',
+          "def",
           ts.factory.createNumericLiteral(forme.baseStats.def)
         ),
         ts.factory.createPropertyAssignment(
-          'spa',
+          "spa",
           ts.factory.createNumericLiteral(forme.baseStats.spa)
         ),
         ts.factory.createPropertyAssignment(
-          'spd',
+          "spd",
           ts.factory.createNumericLiteral(forme.baseStats.spd)
         ),
         ts.factory.createPropertyAssignment(
-          'spe',
+          "spe",
           ts.factory.createNumericLiteral(forme.baseStats.spe)
         ),
       ])
     ),
     ts.factory.createPropertyAssignment(
-      'ability1',
+      "ability1",
       ts.factory.createStringLiteral(forme.ability1)
     ),
     ts.factory.createPropertyAssignment(
-      'ability2',
+      "ability2",
       forme.ability2
         ? ts.factory.createStringLiteral(forme.ability2)
         : ts.factory.createNull()
     ),
     ts.factory.createPropertyAssignment(
-      'abilityH',
+      "abilityH",
       forme.abilityH
         ? ts.factory.createStringLiteral(forme.abilityH)
         : ts.factory.createNull()
     ),
     ts.factory.createPropertyAssignment(
-      'height',
+      "height",
       ts.factory.createNumericLiteral(forme.height)
     ),
     ts.factory.createPropertyAssignment(
-      'weight',
+      "weight",
       ts.factory.createNumericLiteral(forme.weight)
     ),
     ts.factory.createPropertyAssignment(
-      'evos',
+      "evos",
       ts.factory.createArrayLiteralExpression(
         (forme.evos ?? []).map((evo) =>
           ts.factory.createObjectLiteralExpression([
             ts.factory.createPropertyAssignment(
-              'dexNumber',
+              "dexNumber",
               ts.factory.createNumericLiteral(evo.dexNumber)
             ),
             ts.factory.createPropertyAssignment(
-              'formeNumber',
+              "formeNumber",
               ts.factory.createNumericLiteral(evo.formeNumber)
             ),
           ])
@@ -161,22 +161,22 @@ const generateFormeObjectLiteral = (forme: Forme) => {
       )
     ),
     ts.factory.createPropertyAssignment(
-      'prevo',
+      "prevo",
       forme.prevo
         ? ts.factory.createObjectLiteralExpression([
             ts.factory.createPropertyAssignment(
-              'dexNumber',
+              "dexNumber",
               ts.factory.createNumericLiteral(forme.prevo.dexNumber)
             ),
             ts.factory.createPropertyAssignment(
-              'formeNumber',
+              "formeNumber",
               ts.factory.createNumericLiteral(forme.prevo.formeNumber)
             ),
           ])
         : ts.factory.createNull()
     ),
     ts.factory.createPropertyAssignment(
-      'eggGroups',
+      "eggGroups",
       ts.factory.createArrayLiteralExpression(
         (forme.eggGroups ?? []).map((eggGroup) =>
           ts.factory.createStringLiteral(eggGroup)
@@ -184,47 +184,47 @@ const generateFormeObjectLiteral = (forme: Forme) => {
       )
     ),
     ts.factory.createPropertyAssignment(
-      'gen',
+      "gen",
       ts.factory.createNumericLiteral(forme.gen)
     ),
     ts.factory.createPropertyAssignment(
-      'restrictedLegendary',
+      "restrictedLegendary",
       forme.restrictedLegendary
         ? ts.factory.createTrue()
         : ts.factory.createFalse()
     ),
     ts.factory.createPropertyAssignment(
-      'regional',
+      "regional",
       forme.regional
         ? ts.factory.createStringLiteral(forme.regional)
         : ts.factory.createNull()
     ),
     ts.factory.createPropertyAssignment(
-      'subLegendary',
+      "subLegendary",
       forme.subLegendary ? ts.factory.createTrue() : ts.factory.createFalse()
     ),
     ts.factory.createPropertyAssignment(
-      'mythical',
+      "mythical",
       forme.mythical ? ts.factory.createTrue() : ts.factory.createFalse()
     ),
     ts.factory.createPropertyAssignment(
-      'ultraBeast',
+      "ultraBeast",
       forme.ultraBeast ? ts.factory.createTrue() : ts.factory.createFalse()
     ),
     ts.factory.createPropertyAssignment(
-      'paradox',
+      "paradox",
       forme.paradox ? ts.factory.createTrue() : ts.factory.createFalse()
     ),
     ts.factory.createPropertyAssignment(
-      'cosmeticForme',
+      "cosmeticForme",
       forme.cosmeticForme ? ts.factory.createTrue() : ts.factory.createFalse()
     ),
     ts.factory.createPropertyAssignment(
-      'sprite',
+      "sprite",
       ts.factory.createStringLiteral(forme.sprite)
     ),
     ts.factory.createPropertyAssignment(
-      'spriteIndex',
+      "spriteIndex",
       ts.factory.createArrayLiteralExpression([
         ts.factory.createNumericLiteral(forme.spriteIndex[0]),
         ts.factory.createNumericLiteral(forme.spriteIndex[1]),
@@ -239,19 +239,19 @@ const generatePokemonObjectLiteral = (pokemon: Pokemon) => {
   // ts.
   const objectLiteral = ts.factory.createObjectLiteralExpression([
     ts.factory.createPropertyAssignment(
-      'name',
+      "name",
       ts.factory.createStringLiteral(pokemon.name)
     ),
     ts.factory.createPropertyAssignment(
-      'nationalDex',
+      "nationalDex",
       ts.factory.createNumericLiteral(pokemon.nationalDex)
     ),
     ts.factory.createPropertyAssignment(
-      'levelUpType',
+      "levelUpType",
       ts.factory.createStringLiteral(pokemon.levelUpType)
     ),
     ts.factory.createPropertyAssignment(
-      'formes',
+      "formes",
       ts.factory.createArrayLiteralExpression(
         pokemon.formes.map((forme) => generateFormeObjectLiteral(forme))
       )
@@ -261,7 +261,7 @@ const generatePokemonObjectLiteral = (pokemon: Pokemon) => {
   const objectDeclaration = ts.factory.createVariableDeclaration(
     cleanedName(pokemon.name),
     undefined,
-    ts.factory.createTypeReferenceNode('Pokemon'),
+    ts.factory.createTypeReferenceNode("Pokemon"),
     objectLiteral
   );
 
@@ -285,12 +285,13 @@ function generatePokemonTypeImport() {
       undefined,
       ts.factory.createNamedImports([
         ts.factory.createImportSpecifier(
+          false,
           undefined,
-          ts.factory.createIdentifier('Pokemon')
+          ts.factory.createIdentifier("Pokemon")
         ),
       ])
     ),
-    ts.factory.createStringLiteral('../../types')
+    ts.factory.createStringLiteral("../../types")
   );
 }
 
@@ -300,7 +301,7 @@ function generatePokemonExport(mon: string) {
     undefined,
     false,
     ts.factory.createNamedExports([
-      ts.factory.createExportSpecifier(undefined, cleanedName(mon)),
+      ts.factory.createExportSpecifier(false, undefined, cleanedName(mon)),
     ]),
     undefined
   );
@@ -312,7 +313,7 @@ export const GenerateObjectFromPokemon = (mon: Pokemon) => {
   }/${cleanedName(mon.name).toLowerCase()}.ts`;
   const resultFile = ts.createSourceFile(
     outputFilePath,
-    '',
+    "",
     ts.ScriptTarget.Latest,
     false,
     ts.ScriptKind.TS
@@ -380,7 +381,7 @@ function generateGenerationIndexFile(gen: number, mons: Pokemon[]) {
   const printer = ts.createPrinter({ newLine: ts.NewLineKind.LineFeed });
   const resultFile = ts.createSourceFile(
     outputFilePath,
-    '',
+    "",
     ts.ScriptTarget.Latest,
     false,
     ts.ScriptKind.TS
@@ -395,6 +396,7 @@ function generateGenerationIndexFile(gen: number, mons: Pokemon[]) {
         undefined,
         ts.factory.createNamedImports([
           ts.factory.createImportSpecifier(
+            false,
             undefined,
             ts.factory.createIdentifier(cleanedName(mon.name))
           ),
@@ -436,7 +438,11 @@ function generateGenerationIndexFile(gen: number, mons: Pokemon[]) {
       undefined,
       false,
       ts.factory.createNamedExports([
-        ts.factory.createExportSpecifier(undefined, `Gen${gen}PokemonData`),
+        ts.factory.createExportSpecifier(
+          false,
+          undefined,
+          `Gen${gen}PokemonData`
+        ),
       ]),
       undefined
     ),
@@ -444,8 +450,8 @@ function generateGenerationIndexFile(gen: number, mons: Pokemon[]) {
   );
 
   const outputFileContent = `// This file is auto-generated. Do not modify.\n\n${importLines.join(
-    '\n'
-  )}\n\n${exportLines.join('\n')}\n\n${genMonString}\n\n${genMonExportString}`;
+    "\n"
+  )}\n\n${exportLines.join("\n")}\n\n${genMonString}\n\n${genMonExportString}`;
 
   if (!fs.existsSync(dirname(outputFilePath))) {
     console.log(`creating ${dirname(outputFilePath)}...`);
@@ -459,6 +465,7 @@ export function GenerateObjects() {
   let currentGen = 1;
   let genMons: Pokemon[] = [];
   Object.values(PokemonData).forEach((mon) => {
+    console.log(mon.name);
     GenerateObjectFromPokemon(mon as unknown as Pokemon);
     if (mon.formes[0].gen && mon.formes[0].gen !== currentGen) {
       generateGenerationIndexFile(currentGen, genMons);

@@ -36,7 +36,7 @@ const Fezandipiti: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'fezandipiti',
-      spriteIndex: [17, 36],
+      spriteIndex: [21, 36],
     },
   ],
 };

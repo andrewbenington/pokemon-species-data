@@ -36,7 +36,7 @@ const Obstagoon: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'obstagoon',
-      spriteIndex: [14, 31],
+      spriteIndex: [16, 31],
     },
   ],
 };

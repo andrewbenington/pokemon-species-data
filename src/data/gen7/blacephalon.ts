@@ -36,7 +36,7 @@ const Blacephalon: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'blacephalon',
-      spriteIndex: [27, 29],
+      spriteIndex: [29, 29],
     },
   ],
 };

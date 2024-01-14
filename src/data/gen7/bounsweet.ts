@@ -36,7 +36,7 @@ const Bounsweet: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'bounsweet',
-      spriteIndex: [14, 28],
+      spriteIndex: [16, 28],
     },
   ],
 };

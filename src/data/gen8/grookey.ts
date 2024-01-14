@@ -36,7 +36,7 @@ const Grookey: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'grookey',
-      spriteIndex: [31, 29],
+      spriteIndex: [33, 29],
     },
   ],
 };

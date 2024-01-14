@@ -36,7 +36,7 @@ const Komala: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'komala',
-      spriteIndex: [28, 28],
+      spriteIndex: [30, 28],
     },
   ],
 };

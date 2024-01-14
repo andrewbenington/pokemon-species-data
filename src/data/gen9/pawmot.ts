@@ -36,7 +36,7 @@ const Pawmot: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'pawmot',
-      spriteIndex: [24, 33],
+      spriteIndex: [26, 33],
     },
   ],
 };

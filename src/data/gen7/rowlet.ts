@@ -36,7 +36,7 @@ const Rowlet: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'rowlet',
-      spriteIndex: [4, 27],
+      spriteIndex: [6, 27],
     },
   ],
 };

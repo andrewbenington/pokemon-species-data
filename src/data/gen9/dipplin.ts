@@ -36,7 +36,7 @@ const Dipplin: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'dipplin',
-      spriteIndex: [12, 36],
+      spriteIndex: [16, 36],
     },
   ],
 };

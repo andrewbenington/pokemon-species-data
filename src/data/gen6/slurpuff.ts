@@ -36,7 +36,7 @@ const Slurpuff: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'slurpuff',
-      spriteIndex: [26, 25],
+      spriteIndex: [27, 25],
     },
   ],
 };

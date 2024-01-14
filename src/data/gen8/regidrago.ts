@@ -36,7 +36,7 @@ const Regidrago: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'regidrago',
-      spriteIndex: [26, 32],
+      spriteIndex: [28, 32],
     },
   ],
 };

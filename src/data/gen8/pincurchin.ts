@@ -36,7 +36,7 @@ const Pincurchin: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'pincurchin',
-      spriteIndex: [31, 31],
+      spriteIndex: [33, 31],
     },
   ],
 };

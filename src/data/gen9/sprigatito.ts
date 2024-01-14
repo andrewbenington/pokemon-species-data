@@ -36,7 +36,7 @@ const Sprigatito: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'sprigatito',
-      spriteIndex: [6, 33],
+      spriteIndex: [8, 33],
     },
   ],
 };

@@ -36,7 +36,7 @@ const Helioptile: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'helioptile',
-      spriteIndex: [35, 25],
+      spriteIndex: [0, 26],
     },
   ],
 };

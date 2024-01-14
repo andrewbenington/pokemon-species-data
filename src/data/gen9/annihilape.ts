@@ -36,7 +36,7 @@ const Annihilape: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'annihilape',
-      spriteIndex: [15, 35],
+      spriteIndex: [17, 35],
     },
   ],
 };

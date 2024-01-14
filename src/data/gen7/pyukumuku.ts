@@ -36,7 +36,7 @@ const Pyukumuku: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'pyukumuku',
-      spriteIndex: [24, 28],
+      spriteIndex: [26, 28],
     },
   ],
 };

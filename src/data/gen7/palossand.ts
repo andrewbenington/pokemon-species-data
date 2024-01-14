@@ -36,7 +36,7 @@ const Palossand: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'palossand',
-      spriteIndex: [23, 28],
+      spriteIndex: [25, 28],
     },
   ],
 };

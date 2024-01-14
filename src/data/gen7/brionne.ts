@@ -36,7 +36,7 @@ const Brionne: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'brionne',
-      spriteIndex: [12, 27],
+      spriteIndex: [14, 27],
     },
   ],
 };

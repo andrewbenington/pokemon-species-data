@@ -36,7 +36,7 @@ const Garganacl: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'garganacl',
-      spriteIndex: [3, 34],
+      spriteIndex: [5, 34],
     },
   ],
 };

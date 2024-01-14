@@ -36,7 +36,7 @@ const Clauncher: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'clauncher',
-      spriteIndex: [33, 25],
+      spriteIndex: [34, 25],
     },
   ],
 };

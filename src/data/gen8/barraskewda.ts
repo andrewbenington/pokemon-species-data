@@ -36,7 +36,7 @@ const Barraskewda: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'barraskewda',
-      spriteIndex: [34, 30],
+      spriteIndex: [0, 31],
     },
   ],
 };

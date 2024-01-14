@@ -36,7 +36,7 @@ const Sandygast: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'sandygast',
-      spriteIndex: [22, 28],
+      spriteIndex: [24, 28],
     },
   ],
 };

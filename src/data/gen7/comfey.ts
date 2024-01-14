@@ -36,7 +36,7 @@ const Comfey: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'comfey',
-      spriteIndex: [17, 28],
+      spriteIndex: [19, 28],
     },
   ],
 };

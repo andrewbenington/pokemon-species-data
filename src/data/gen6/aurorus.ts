@@ -36,7 +36,7 @@ const Aurorus: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'aurorus',
-      spriteIndex: [4, 26],
+      spriteIndex: [5, 26],
     },
   ],
 };

@@ -36,7 +36,7 @@ const Dewpider: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'dewpider',
-      spriteIndex: [4, 28],
+      spriteIndex: [6, 28],
     },
   ],
 };

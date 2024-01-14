@@ -36,7 +36,7 @@ const Nacli: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'nacli',
-      spriteIndex: [1, 34],
+      spriteIndex: [3, 34],
     },
   ],
 };

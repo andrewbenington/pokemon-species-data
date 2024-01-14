@@ -36,7 +36,7 @@ const Dolliv: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'dolliv',
-      spriteIndex: [31, 33],
+      spriteIndex: [33, 33],
     },
   ],
 };

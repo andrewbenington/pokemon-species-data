@@ -36,7 +36,7 @@ const IronValiant: Pokemon = {
       paradox: true,
       cosmeticForme: false,
       sprite: 'iron-valiant',
-      spriteIndex: [7, 36],
+      spriteIndex: [9, 36],
     },
   ],
 };

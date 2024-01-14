@@ -36,7 +36,7 @@ const WoChien: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'wo-chien',
-      spriteIndex: [2, 36],
+      spriteIndex: [4, 36],
     },
   ],
 };

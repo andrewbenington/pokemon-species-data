@@ -36,7 +36,7 @@ const Talonflame: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'talonflame',
-      spriteIndex: [32, 23],
+      spriteIndex: [33, 23],
     },
   ],
 };

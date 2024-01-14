@@ -36,7 +36,7 @@ const Bruxish: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'bruxish',
-      spriteIndex: [32, 28],
+      spriteIndex: [34, 28],
     },
   ],
 };

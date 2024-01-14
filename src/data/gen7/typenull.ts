@@ -36,7 +36,7 @@ const TypeNull: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'type-null',
-      spriteIndex: [25, 28],
+      spriteIndex: [27, 28],
     },
   ],
 };

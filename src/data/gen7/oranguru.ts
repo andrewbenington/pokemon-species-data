@@ -36,7 +36,7 @@ const Oranguru: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'oranguru',
-      spriteIndex: [18, 28],
+      spriteIndex: [20, 28],
     },
   ],
 };

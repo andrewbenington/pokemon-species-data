@@ -36,7 +36,7 @@ const Passimian: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'passimian',
-      spriteIndex: [19, 28],
+      spriteIndex: [21, 28],
     },
   ],
 };

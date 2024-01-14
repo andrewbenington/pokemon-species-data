@@ -36,7 +36,7 @@ const Mudsdale: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'mudsdale',
-      spriteIndex: [3, 28],
+      spriteIndex: [5, 28],
     },
   ],
 };

@@ -36,7 +36,7 @@ const Jangmoo: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'jangmo-o',
-      spriteIndex: [35, 28],
+      spriteIndex: [1, 29],
     },
   ],
 };

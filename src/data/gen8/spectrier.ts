@@ -36,7 +36,7 @@ const Spectrier: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'spectrier',
-      spriteIndex: [28, 32],
+      spriteIndex: [30, 32],
     },
   ],
 };

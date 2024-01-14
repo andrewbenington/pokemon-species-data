@@ -287,7 +287,7 @@ const Pikachu: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'pikachu',
-      spriteIndex: [33, 0],
+      spriteIndex: [4, 1],
     },
     {
       name: 'Pikachu',

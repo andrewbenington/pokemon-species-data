@@ -36,7 +36,7 @@ const Wugtrio: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'wugtrio',
-      spriteIndex: [30, 34],
+      spriteIndex: [32, 34],
     },
   ],
 };

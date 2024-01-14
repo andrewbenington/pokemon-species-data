@@ -36,7 +36,7 @@ const Enamorus: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'enamorus',
-      spriteIndex: [4, 33],
+      spriteIndex: [6, 33],
     },
     {
       name: 'Enamorus',
@@ -67,7 +67,7 @@ const Enamorus: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'enamorus',
-      spriteIndex: [5, 33],
+      spriteIndex: [7, 33],
     },
   ],
 };

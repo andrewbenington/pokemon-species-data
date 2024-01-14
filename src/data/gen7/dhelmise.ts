@@ -36,7 +36,7 @@ const Dhelmise: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'dhelmise',
-      spriteIndex: [34, 28],
+      spriteIndex: [0, 29],
     },
   ],
 };

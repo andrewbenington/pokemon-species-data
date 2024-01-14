@@ -36,7 +36,7 @@ const Amaura: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'amaura',
-      spriteIndex: [3, 26],
+      spriteIndex: [4, 26],
     },
   ],
 };

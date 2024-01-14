@@ -36,7 +36,7 @@ const Brambleghast: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'brambleghast',
-      spriteIndex: [16, 34],
+      spriteIndex: [18, 34],
     },
   ],
 };

@@ -36,7 +36,7 @@ const Shiinotic: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'shiinotic',
-      spriteIndex: [9, 28],
+      spriteIndex: [11, 28],
     },
   ],
 };

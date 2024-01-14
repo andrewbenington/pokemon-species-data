@@ -36,7 +36,7 @@ const Arboliva: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'arboliva',
-      spriteIndex: [32, 33],
+      spriteIndex: [34, 33],
     },
   ],
 };

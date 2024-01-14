@@ -36,7 +36,7 @@ const Dottler: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'dottler',
-      spriteIndex: [10, 30],
+      spriteIndex: [12, 30],
     },
   ],
 };

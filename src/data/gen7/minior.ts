@@ -36,7 +36,7 @@ const Minior: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'minior-meteor',
-      spriteIndex: [27, 28],
+      spriteIndex: [29, 28],
     },
     {
       name: 'Minior',
@@ -67,7 +67,7 @@ const Minior: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'minior-meteor',
-      spriteIndex: [27, 28],
+      spriteIndex: [29, 28],
     },
     {
       name: 'Minior',
@@ -98,7 +98,7 @@ const Minior: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'minior-meteor',
-      spriteIndex: [27, 28],
+      spriteIndex: [29, 28],
     },
     {
       name: 'Minior',
@@ -129,7 +129,7 @@ const Minior: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'minior-meteor',
-      spriteIndex: [27, 28],
+      spriteIndex: [29, 28],
     },
     {
       name: 'Minior',
@@ -160,7 +160,7 @@ const Minior: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'minior-meteor',
-      spriteIndex: [27, 28],
+      spriteIndex: [29, 28],
     },
     {
       name: 'Minior',
@@ -191,7 +191,7 @@ const Minior: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'minior-meteor',
-      spriteIndex: [27, 28],
+      spriteIndex: [29, 28],
     },
     {
       name: 'Minior',
@@ -222,7 +222,7 @@ const Minior: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'minior-meteor',
-      spriteIndex: [27, 28],
+      spriteIndex: [29, 28],
     },
     {
       name: 'Minior',
@@ -253,7 +253,7 @@ const Minior: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'minior-core-red',
-      spriteIndex: [27, 28],
+      spriteIndex: [29, 28],
     },
     {
       name: 'Minior',
@@ -284,7 +284,7 @@ const Minior: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'minior-core-orange',
-      spriteIndex: [27, 28],
+      spriteIndex: [29, 28],
     },
     {
       name: 'Minior',
@@ -315,7 +315,7 @@ const Minior: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'minior-core-yellow',
-      spriteIndex: [27, 28],
+      spriteIndex: [29, 28],
     },
     {
       name: 'Minior',
@@ -346,7 +346,7 @@ const Minior: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'minior-core-green',
-      spriteIndex: [27, 28],
+      spriteIndex: [29, 28],
     },
     {
       name: 'Minior',
@@ -377,7 +377,7 @@ const Minior: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'minior-core-blue',
-      spriteIndex: [27, 28],
+      spriteIndex: [29, 28],
     },
     {
       name: 'Minior',
@@ -408,7 +408,7 @@ const Minior: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'minior-core-indigo',
-      spriteIndex: [27, 28],
+      spriteIndex: [29, 28],
     },
     {
       name: 'Minior',
@@ -439,7 +439,7 @@ const Minior: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'minior-core-violet',
-      spriteIndex: [27, 28],
+      spriteIndex: [29, 28],
     },
   ],
 };

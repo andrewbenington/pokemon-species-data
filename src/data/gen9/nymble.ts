@@ -36,7 +36,7 @@ const Nymble: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'nymble',
-      spriteIndex: [20, 33],
+      spriteIndex: [22, 33],
     },
   ],
 };

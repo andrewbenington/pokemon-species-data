@@ -36,7 +36,7 @@ const Regieleki: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'regieleki',
-      spriteIndex: [25, 32],
+      spriteIndex: [27, 32],
     },
   ],
 };

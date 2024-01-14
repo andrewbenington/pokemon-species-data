@@ -36,7 +36,7 @@ const Toucannon: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'toucannon',
-      spriteIndex: [16, 27],
+      spriteIndex: [18, 27],
     },
   ],
 };

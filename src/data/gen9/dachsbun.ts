@@ -36,7 +36,7 @@ const Dachsbun: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'dachsbun',
-      spriteIndex: [29, 33],
+      spriteIndex: [31, 33],
     },
   ],
 };

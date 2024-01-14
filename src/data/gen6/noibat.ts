@@ -36,7 +36,7 @@ const Noibat: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'noibat',
-      spriteIndex: [28, 26],
+      spriteIndex: [29, 26],
     },
   ],
 };

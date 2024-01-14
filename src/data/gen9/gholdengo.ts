@@ -36,7 +36,7 @@ const Gholdengo: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'gholdengo',
-      spriteIndex: [1, 36],
+      spriteIndex: [3, 36],
     },
   ],
 };

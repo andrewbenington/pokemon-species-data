@@ -36,7 +36,7 @@ const Florges: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'florges-red',
-      spriteIndex: [33, 24],
+      spriteIndex: [34, 24],
     },
     {
       name: 'Florges',
@@ -67,7 +67,7 @@ const Florges: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'florges-blue',
-      spriteIndex: [34, 24],
+      spriteIndex: [35, 24],
     },
     {
       name: 'Florges',
@@ -98,7 +98,7 @@ const Florges: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'florges-orange',
-      spriteIndex: [35, 24],
+      spriteIndex: [0, 25],
     },
     {
       name: 'Florges',
@@ -129,7 +129,7 @@ const Florges: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'florges-white',
-      spriteIndex: [0, 25],
+      spriteIndex: [1, 25],
     },
     {
       name: 'Florges',
@@ -160,7 +160,7 @@ const Florges: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'florges-yellow',
-      spriteIndex: [1, 25],
+      spriteIndex: [2, 25],
     },
   ],
 };

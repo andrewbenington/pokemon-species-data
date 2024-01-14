@@ -36,7 +36,7 @@ const ChiYu: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'chi-yu',
-      spriteIndex: [5, 36],
+      spriteIndex: [7, 36],
     },
   ],
 };

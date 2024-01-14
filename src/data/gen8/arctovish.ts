@@ -36,7 +36,7 @@ const Arctovish: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'arctovish',
-      spriteIndex: [10, 32],
+      spriteIndex: [12, 32],
     },
   ],
 };

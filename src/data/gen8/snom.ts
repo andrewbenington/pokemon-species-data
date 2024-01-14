@@ -36,7 +36,7 @@ const Snom: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'snom',
-      spriteIndex: [32, 31],
+      spriteIndex: [34, 31],
     },
   ],
 };

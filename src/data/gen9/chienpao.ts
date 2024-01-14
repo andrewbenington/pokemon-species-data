@@ -36,7 +36,7 @@ const ChienPao: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'chien-pao',
-      spriteIndex: [3, 36],
+      spriteIndex: [5, 36],
     },
   ],
 };

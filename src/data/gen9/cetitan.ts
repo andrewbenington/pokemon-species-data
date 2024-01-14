@@ -36,7 +36,7 @@ const Cetitan: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'cetitan',
-      spriteIndex: [9, 35],
+      spriteIndex: [11, 35],
     },
   ],
 };

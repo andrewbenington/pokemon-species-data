@@ -36,7 +36,7 @@ const Sirfetchd: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'sirfetchd',
-      spriteIndex: [17, 31],
+      spriteIndex: [19, 31],
     },
   ],
 };

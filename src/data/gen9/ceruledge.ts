@@ -36,7 +36,7 @@ const Ceruledge: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'ceruledge',
-      spriteIndex: [6, 34],
+      spriteIndex: [8, 34],
     },
   ],
 };

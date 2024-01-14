@@ -36,7 +36,7 @@ const Stufful: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'stufful',
-      spriteIndex: [12, 28],
+      spriteIndex: [14, 28],
     },
   ],
 };

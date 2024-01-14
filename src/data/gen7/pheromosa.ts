@@ -36,7 +36,7 @@ const Pheromosa: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'pheromosa',
-      spriteIndex: [12, 29],
+      spriteIndex: [14, 29],
     },
   ],
 };

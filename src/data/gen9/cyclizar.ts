@@ -36,7 +36,7 @@ const Cyclizar: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'cyclizar',
-      spriteIndex: [1, 35],
+      spriteIndex: [3, 35],
     },
   ],
 };

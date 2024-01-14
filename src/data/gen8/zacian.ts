@@ -36,7 +36,7 @@ const Zacian: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'zacian',
-      spriteIndex: [15, 32],
+      spriteIndex: [17, 32],
     },
     {
       name: 'Zacian',
@@ -67,7 +67,7 @@ const Zacian: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'zacian-crowned',
-      spriteIndex: [16, 32],
+      spriteIndex: [18, 32],
     },
   ],
 };

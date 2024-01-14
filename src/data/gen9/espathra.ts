@@ -36,7 +36,7 @@ const Espathra: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'espathra',
-      spriteIndex: [25, 34],
+      spriteIndex: [27, 34],
     },
   ],
 };

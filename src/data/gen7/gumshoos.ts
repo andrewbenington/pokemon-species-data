@@ -36,7 +36,7 @@ const Gumshoos: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'gumshoos',
-      spriteIndex: [18, 27],
+      spriteIndex: [20, 27],
     },
     {
       name: 'Gumshoos',
@@ -67,7 +67,7 @@ const Gumshoos: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'gumshoos',
-      spriteIndex: [18, 27],
+      spriteIndex: [20, 27],
     },
   ],
 };

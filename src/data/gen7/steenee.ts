@@ -36,7 +36,7 @@ const Steenee: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'steenee',
-      spriteIndex: [15, 28],
+      spriteIndex: [17, 28],
     },
   ],
 };

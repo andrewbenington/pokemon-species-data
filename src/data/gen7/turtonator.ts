@@ -36,7 +36,7 @@ const Turtonator: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'turtonator',
-      spriteIndex: [29, 28],
+      spriteIndex: [31, 28],
     },
   ],
 };

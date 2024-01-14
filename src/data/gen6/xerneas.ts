@@ -36,7 +36,7 @@ const Xerneas: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'xerneas',
-      spriteIndex: [30, 26],
+      spriteIndex: [31, 26],
     },
     {
       name: 'Xerneas',
@@ -67,7 +67,7 @@ const Xerneas: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'xerneas',
-      spriteIndex: [31, 26],
+      spriteIndex: [32, 26],
     },
   ],
 };

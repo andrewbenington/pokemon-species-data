@@ -36,7 +36,7 @@ const Naclstack: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'naclstack',
-      spriteIndex: [2, 34],
+      spriteIndex: [4, 34],
     },
   ],
 };

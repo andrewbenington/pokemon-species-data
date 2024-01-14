@@ -36,7 +36,7 @@ const Drakloak: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'drakloak',
-      spriteIndex: [13, 32],
+      spriteIndex: [15, 32],
     },
   ],
 };

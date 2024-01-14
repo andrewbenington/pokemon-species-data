@@ -36,7 +36,7 @@ const Corviknight: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'corviknight',
-      spriteIndex: [8, 30],
+      spriteIndex: [10, 30],
     },
   ],
 };

@@ -36,7 +36,7 @@ const Dubwool: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'dubwool',
-      spriteIndex: [17, 30],
+      spriteIndex: [19, 30],
     },
   ],
 };

@@ -36,7 +36,7 @@ const Popplio: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'popplio',
-      spriteIndex: [11, 27],
+      spriteIndex: [13, 27],
     },
   ],
 };

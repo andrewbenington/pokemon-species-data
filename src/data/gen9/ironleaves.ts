@@ -36,7 +36,7 @@ const IronLeaves: Pokemon = {
       paradox: true,
       cosmeticForme: false,
       sprite: 'iron-leaves',
-      spriteIndex: [11, 36],
+      spriteIndex: [15, 36],
     },
   ],
 };

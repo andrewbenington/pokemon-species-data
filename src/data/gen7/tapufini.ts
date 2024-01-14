@@ -36,7 +36,7 @@ const TapuFini: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'tapu-fini',
-      spriteIndex: [5, 29],
+      spriteIndex: [7, 29],
     },
   ],
 };

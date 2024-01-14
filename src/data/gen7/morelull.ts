@@ -36,7 +36,7 @@ const Morelull: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'morelull',
-      spriteIndex: [8, 28],
+      spriteIndex: [10, 28],
     },
   ],
 };

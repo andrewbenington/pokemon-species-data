@@ -36,7 +36,7 @@ const Tadbulb: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'tadbulb',
-      spriteIndex: [7, 34],
+      spriteIndex: [9, 34],
     },
   ],
 };

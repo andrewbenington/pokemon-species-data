@@ -36,7 +36,7 @@ const Squawkabilly: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'squawkabilly',
-      spriteIndex: [33, 33],
+      spriteIndex: [35, 33],
     },
     {
       name: 'Squawkabilly',
@@ -67,7 +67,7 @@ const Squawkabilly: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'squawkabilly-blue',
-      spriteIndex: [34, 33],
+      spriteIndex: [0, 34],
     },
     {
       name: 'Squawkabilly',
@@ -98,7 +98,7 @@ const Squawkabilly: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'squawkabilly-white',
-      spriteIndex: [35, 33],
+      spriteIndex: [1, 34],
     },
     {
       name: 'Squawkabilly',
@@ -129,7 +129,7 @@ const Squawkabilly: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'squawkabilly-yellow',
-      spriteIndex: [0, 34],
+      spriteIndex: [2, 34],
     },
   ],
 };

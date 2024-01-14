@@ -36,7 +36,7 @@ const Silicobra: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'silicobra',
-      spriteIndex: [28, 30],
+      spriteIndex: [30, 30],
     },
   ],
 };

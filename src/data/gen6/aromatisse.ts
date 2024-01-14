@@ -36,7 +36,7 @@ const Aromatisse: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'aromatisse',
-      spriteIndex: [24, 25],
+      spriteIndex: [25, 25],
     },
   ],
 };

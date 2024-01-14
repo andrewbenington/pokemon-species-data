@@ -36,7 +36,7 @@ const Oinkologne: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'oinkologne',
-      spriteIndex: [16, 33],
+      spriteIndex: [18, 33],
     },
     {
       name: 'Oinkologne',
@@ -67,7 +67,7 @@ const Oinkologne: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'oinkologne',
-      spriteIndex: [17, 33],
+      spriteIndex: [19, 33],
     },
   ],
 };

@@ -36,7 +36,7 @@ const Orthworm: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'orthworm',
-      spriteIndex: [2, 35],
+      spriteIndex: [4, 35],
     },
   ],
 };

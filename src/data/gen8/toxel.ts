@@ -39,7 +39,7 @@ const Toxel: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'toxel',
-      spriteIndex: [35, 30],
+      spriteIndex: [1, 31],
     },
   ],
 };

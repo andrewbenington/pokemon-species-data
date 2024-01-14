@@ -36,7 +36,7 @@ const Glastrier: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'glastrier',
-      spriteIndex: [27, 32],
+      spriteIndex: [29, 32],
     },
   ],
 };

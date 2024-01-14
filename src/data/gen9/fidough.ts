@@ -36,7 +36,7 @@ const Fidough: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'fidough',
-      spriteIndex: [28, 33],
+      spriteIndex: [30, 33],
     },
   ],
 };

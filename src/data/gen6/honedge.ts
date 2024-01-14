@@ -36,7 +36,7 @@ const Honedge: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'honedge',
-      spriteIndex: [19, 25],
+      spriteIndex: [20, 25],
     },
   ],
 };

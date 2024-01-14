@@ -36,7 +36,7 @@ const Malamar: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'malamar',
-      spriteIndex: [28, 25],
+      spriteIndex: [29, 25],
     },
   ],
 };

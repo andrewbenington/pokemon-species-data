@@ -36,7 +36,7 @@ const Urshifu: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'urshifu',
-      spriteIndex: [22, 32],
+      spriteIndex: [24, 32],
     },
     {
       name: 'Urshifu',
@@ -67,7 +67,7 @@ const Urshifu: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'urshifu',
-      spriteIndex: [22, 32],
+      spriteIndex: [24, 32],
     },
   ],
 };

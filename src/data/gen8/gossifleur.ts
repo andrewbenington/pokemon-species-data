@@ -36,7 +36,7 @@ const Gossifleur: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'gossifleur',
-      spriteIndex: [14, 30],
+      spriteIndex: [16, 30],
     },
   ],
 };

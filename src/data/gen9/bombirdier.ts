@@ -36,7 +36,7 @@ const Bombirdier: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'bombirdier',
-      spriteIndex: [31, 34],
+      spriteIndex: [33, 34],
     },
   ],
 };

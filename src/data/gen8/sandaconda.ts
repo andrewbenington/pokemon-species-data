@@ -36,7 +36,7 @@ const Sandaconda: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'sandaconda',
-      spriteIndex: [29, 30],
+      spriteIndex: [31, 30],
     },
   ],
 };

@@ -36,7 +36,7 @@ const Kleavor: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'kleavor',
-      spriteIndex: [33, 32],
+      spriteIndex: [35, 32],
     },
   ],
 };

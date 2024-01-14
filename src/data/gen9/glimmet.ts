@@ -36,7 +36,7 @@ const Glimmet: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'glimmet',
-      spriteIndex: [3, 35],
+      spriteIndex: [5, 35],
     },
   ],
 };

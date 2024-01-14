@@ -36,7 +36,7 @@ const Solgaleo: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'solgaleo',
-      spriteIndex: [8, 29],
+      spriteIndex: [10, 29],
     },
   ],
 };

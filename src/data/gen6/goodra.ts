@@ -36,7 +36,7 @@ const Goodra: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'goodra',
-      spriteIndex: [12, 26],
+      spriteIndex: [13, 26],
     },
     {
       name: 'Goodra',
@@ -67,7 +67,7 @@ const Goodra: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'goodra-hisui',
-      spriteIndex: [13, 26],
+      spriteIndex: [14, 26],
     },
   ],
 };

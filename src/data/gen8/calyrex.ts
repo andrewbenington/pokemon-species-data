@@ -36,7 +36,7 @@ const Calyrex: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'calyrex',
-      spriteIndex: [29, 32],
+      spriteIndex: [31, 32],
     },
     {
       name: 'Calyrex',
@@ -67,7 +67,7 @@ const Calyrex: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'calyrex-ice-rider',
-      spriteIndex: [30, 32],
+      spriteIndex: [32, 32],
     },
     {
       name: 'Calyrex',
@@ -98,7 +98,7 @@ const Calyrex: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'calyrex-shadow-rider',
-      spriteIndex: [31, 32],
+      spriteIndex: [33, 32],
     },
   ],
 };

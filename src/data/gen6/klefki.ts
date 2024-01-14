@@ -36,7 +36,7 @@ const Klefki: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'klefki',
-      spriteIndex: [14, 26],
+      spriteIndex: [15, 26],
     },
   ],
 };

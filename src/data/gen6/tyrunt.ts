@@ -36,7 +36,7 @@ const Tyrunt: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'tyrunt',
-      spriteIndex: [1, 26],
+      spriteIndex: [2, 26],
     },
   ],
 };

@@ -36,7 +36,7 @@ const Tatsugiri: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'tatsugiri',
-      spriteIndex: [12, 35],
+      spriteIndex: [14, 35],
     },
     {
       name: 'Tatsugiri',
@@ -67,7 +67,7 @@ const Tatsugiri: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'tatsugiri-droopy',
-      spriteIndex: [13, 35],
+      spriteIndex: [15, 35],
     },
     {
       name: 'Tatsugiri',
@@ -98,7 +98,7 @@ const Tatsugiri: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'tatsugiri-stretchy',
-      spriteIndex: [14, 35],
+      spriteIndex: [16, 35],
     },
   ],
 };

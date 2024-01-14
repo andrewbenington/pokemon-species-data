@@ -36,7 +36,7 @@ const Binacle: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'binacle',
-      spriteIndex: [29, 25],
+      spriteIndex: [30, 25],
     },
   ],
 };

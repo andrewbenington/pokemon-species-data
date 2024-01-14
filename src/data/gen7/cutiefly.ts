@@ -36,7 +36,7 @@ const Cutiefly: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'cutiefly',
-      spriteIndex: [28, 27],
+      spriteIndex: [30, 27],
     },
   ],
 };

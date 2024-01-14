@@ -36,7 +36,7 @@ const Dracovish: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'dracovish',
-      spriteIndex: [9, 32],
+      spriteIndex: [11, 32],
     },
   ],
 };

@@ -36,7 +36,7 @@ const Quaxwell: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'quaxwell',
-      spriteIndex: [13, 33],
+      spriteIndex: [15, 33],
     },
   ],
 };

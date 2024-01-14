@@ -36,7 +36,7 @@ const Kommoo: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'kommo-o',
-      spriteIndex: [1, 29],
+      spriteIndex: [3, 29],
     },
     {
       name: 'Kommo-o',
@@ -67,7 +67,7 @@ const Kommoo: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'kommo-o',
-      spriteIndex: [1, 29],
+      spriteIndex: [3, 29],
     },
   ],
 };

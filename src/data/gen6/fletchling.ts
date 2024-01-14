@@ -36,7 +36,7 @@ const Fletchling: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'fletchling',
-      spriteIndex: [30, 23],
+      spriteIndex: [31, 23],
     },
   ],
 };

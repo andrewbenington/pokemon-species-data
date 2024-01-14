@@ -36,7 +36,7 @@ const Hoopa: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'hoopa',
-      spriteIndex: [1, 27],
+      spriteIndex: [3, 27],
     },
     {
       name: 'Hoopa',
@@ -67,7 +67,7 @@ const Hoopa: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'hoopa-unbound',
-      spriteIndex: [2, 27],
+      spriteIndex: [4, 27],
     },
   ],
 };

@@ -36,7 +36,7 @@ const Skrelp: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'skrelp',
-      spriteIndex: [31, 25],
+      spriteIndex: [32, 25],
     },
   ],
 };

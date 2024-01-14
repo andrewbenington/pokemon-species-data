@@ -36,7 +36,7 @@ const Wooloo: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'wooloo',
-      spriteIndex: [16, 30],
+      spriteIndex: [18, 30],
     },
   ],
 };

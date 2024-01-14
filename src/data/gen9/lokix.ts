@@ -36,7 +36,7 @@ const Lokix: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'lokix',
-      spriteIndex: [21, 33],
+      spriteIndex: [23, 33],
     },
   ],
 };

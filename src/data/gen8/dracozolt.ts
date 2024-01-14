@@ -36,7 +36,7 @@ const Dracozolt: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'dracozolt',
-      spriteIndex: [7, 32],
+      spriteIndex: [9, 32],
     },
   ],
 };

@@ -23,7 +23,7 @@ generate/typescript/out/typescript/generate.js:
 .PHONY: generate
 generate: generate/typescript/out/typescript/generate.js
 	@echo "generating typescript..."
-	@node ./generate/typescript/out/typescript/generate.js
+	@ts-node ./generate/typescript/generate.ts
 	@npx prettier --loglevel error --write  src/data/**/*.ts
 
 generate/out/syncPKHexResources.js: generate/syncPKHexResources.ts

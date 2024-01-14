@@ -36,7 +36,7 @@ const Dreepy: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'dreepy',
-      spriteIndex: [12, 32],
+      spriteIndex: [14, 32],
     },
   ],
 };

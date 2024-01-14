@@ -36,7 +36,7 @@ const IronThorns: Pokemon = {
       paradox: true,
       cosmeticForme: false,
       sprite: 'iron-thorns',
-      spriteIndex: [31, 35],
+      spriteIndex: [33, 35],
     },
   ],
 };

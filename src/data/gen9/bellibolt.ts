@@ -36,7 +36,7 @@ const Bellibolt: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'bellibolt',
-      spriteIndex: [8, 34],
+      spriteIndex: [10, 34],
     },
   ],
 };

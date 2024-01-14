@@ -36,7 +36,7 @@ const Doublade: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'doublade',
-      spriteIndex: [20, 25],
+      spriteIndex: [21, 25],
     },
   ],
 };

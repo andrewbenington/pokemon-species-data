@@ -36,7 +36,7 @@ const Skiddo: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'skiddo',
-      spriteIndex: [2, 25],
+      spriteIndex: [3, 25],
     },
   ],
 };

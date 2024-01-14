@@ -36,7 +36,7 @@ const Smoliv: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'smoliv',
-      spriteIndex: [30, 33],
+      spriteIndex: [32, 33],
     },
   ],
 };

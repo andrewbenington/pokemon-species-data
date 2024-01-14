@@ -36,7 +36,7 @@ const Dragapult: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'dragapult',
-      spriteIndex: [14, 32],
+      spriteIndex: [16, 32],
     },
   ],
 };

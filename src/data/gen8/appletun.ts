@@ -36,7 +36,7 @@ const Appletun: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'appletun',
-      spriteIndex: [27, 30],
+      spriteIndex: [29, 30],
     },
   ],
 };

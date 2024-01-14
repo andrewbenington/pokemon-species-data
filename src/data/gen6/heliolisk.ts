@@ -36,7 +36,7 @@ const Heliolisk: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'heliolisk',
-      spriteIndex: [0, 26],
+      spriteIndex: [1, 26],
     },
   ],
 };

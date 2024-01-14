@@ -36,7 +36,7 @@ const Centiskorch: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'centiskorch',
-      spriteIndex: [3, 31],
+      spriteIndex: [5, 31],
     },
   ],
 };

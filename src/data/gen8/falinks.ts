@@ -36,7 +36,7 @@ const Falinks: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'falinks',
-      spriteIndex: [30, 31],
+      spriteIndex: [32, 31],
     },
   ],
 };

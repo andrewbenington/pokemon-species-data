@@ -36,7 +36,7 @@ const Hawlucha: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'hawlucha',
-      spriteIndex: [6, 26],
+      spriteIndex: [7, 26],
     },
   ],
 };

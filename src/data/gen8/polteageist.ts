@@ -36,7 +36,7 @@ const Polteageist: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'polteageist',
-      spriteIndex: [7, 31],
+      spriteIndex: [9, 31],
     },
     {
       name: 'Polteageist',
@@ -67,7 +67,7 @@ const Polteageist: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'polteageist',
-      spriteIndex: [7, 31],
+      spriteIndex: [9, 31],
     },
   ],
 };

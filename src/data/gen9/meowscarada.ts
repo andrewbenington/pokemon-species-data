@@ -36,7 +36,7 @@ const Meowscarada: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'meowscarada',
-      spriteIndex: [8, 33],
+      spriteIndex: [10, 33],
     },
   ],
 };

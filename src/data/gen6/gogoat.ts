@@ -36,7 +36,7 @@ const Gogoat: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'gogoat',
-      spriteIndex: [3, 25],
+      spriteIndex: [4, 25],
     },
   ],
 };

@@ -36,7 +36,7 @@ const Aegislash: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'aegislash',
-      spriteIndex: [21, 25],
+      spriteIndex: [22, 25],
     },
     {
       name: 'Aegislash',
@@ -67,7 +67,7 @@ const Aegislash: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'aegislash-blade',
-      spriteIndex: [22, 25],
+      spriteIndex: [23, 25],
     },
   ],
 };

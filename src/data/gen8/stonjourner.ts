@@ -36,7 +36,7 @@ const Stonjourner: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'stonjourner',
-      spriteIndex: [34, 31],
+      spriteIndex: [0, 32],
     },
   ],
 };

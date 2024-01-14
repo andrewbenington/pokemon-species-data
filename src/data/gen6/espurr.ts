@@ -39,7 +39,7 @@ const Espurr: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'espurr',
-      spriteIndex: [16, 25],
+      spriteIndex: [17, 25],
     },
   ],
 };

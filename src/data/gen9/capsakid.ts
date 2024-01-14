@@ -36,7 +36,7 @@ const Capsakid: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'capsakid',
-      spriteIndex: [20, 34],
+      spriteIndex: [22, 34],
     },
   ],
 };

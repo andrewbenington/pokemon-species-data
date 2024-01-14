@@ -36,7 +36,7 @@ const Celesteela: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'celesteela',
-      spriteIndex: [14, 29],
+      spriteIndex: [16, 29],
     },
   ],
 };

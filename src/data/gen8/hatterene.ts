@@ -36,7 +36,7 @@ const Hatterene: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'hatterene',
-      spriteIndex: [10, 31],
+      spriteIndex: [12, 31],
     },
   ],
 };

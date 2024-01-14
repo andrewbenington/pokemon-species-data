@@ -36,7 +36,7 @@ const Drednaw: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'drednaw',
-      spriteIndex: [19, 30],
+      spriteIndex: [21, 30],
     },
   ],
 };

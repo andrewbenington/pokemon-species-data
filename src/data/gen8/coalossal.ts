@@ -36,7 +36,7 @@ const Coalossal: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'coalossal',
-      spriteIndex: [24, 30],
+      spriteIndex: [26, 30],
     },
   ],
 };

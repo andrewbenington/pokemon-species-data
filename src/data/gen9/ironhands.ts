@@ -36,7 +36,7 @@ const IronHands: Pokemon = {
       paradox: true,
       cosmeticForme: false,
       sprite: 'iron-hands',
-      spriteIndex: [28, 35],
+      spriteIndex: [30, 35],
     },
   ],
 };

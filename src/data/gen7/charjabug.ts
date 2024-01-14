@@ -36,7 +36,7 @@ const Charjabug: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'charjabug',
-      spriteIndex: [20, 27],
+      spriteIndex: [22, 27],
     },
   ],
 };

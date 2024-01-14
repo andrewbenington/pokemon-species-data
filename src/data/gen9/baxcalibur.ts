@@ -36,7 +36,7 @@ const Baxcalibur: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'baxcalibur',
-      spriteIndex: [34, 35],
+      spriteIndex: [0, 36],
     },
   ],
 };

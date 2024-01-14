@@ -36,7 +36,7 @@ const Zamazenta: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'zamazenta',
-      spriteIndex: [17, 32],
+      spriteIndex: [19, 32],
     },
     {
       name: 'Zamazenta',
@@ -67,7 +67,7 @@ const Zamazenta: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'zamazenta-crowned',
-      spriteIndex: [18, 32],
+      spriteIndex: [20, 32],
     },
   ],
 };

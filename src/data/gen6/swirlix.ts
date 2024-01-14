@@ -36,7 +36,7 @@ const Swirlix: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'swirlix',
-      spriteIndex: [25, 25],
+      spriteIndex: [26, 25],
     },
   ],
 };

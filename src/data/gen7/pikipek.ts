@@ -36,7 +36,7 @@ const Pikipek: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'pikipek',
-      spriteIndex: [14, 27],
+      spriteIndex: [16, 27],
     },
   ],
 };

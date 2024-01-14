@@ -36,7 +36,7 @@ const Carkol: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'carkol',
-      spriteIndex: [23, 30],
+      spriteIndex: [25, 30],
     },
   ],
 };

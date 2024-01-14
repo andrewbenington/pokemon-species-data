@@ -36,7 +36,7 @@ const Flamigo: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'flamigo',
-      spriteIndex: [7, 35],
+      spriteIndex: [9, 35],
     },
   ],
 };

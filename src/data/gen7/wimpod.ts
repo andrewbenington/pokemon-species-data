@@ -36,7 +36,7 @@ const Wimpod: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'wimpod',
-      spriteIndex: [20, 28],
+      spriteIndex: [22, 28],
     },
   ],
 };

@@ -36,7 +36,7 @@ const Sizzlipede: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'sizzlipede',
-      spriteIndex: [2, 31],
+      spriteIndex: [4, 31],
     },
   ],
 };

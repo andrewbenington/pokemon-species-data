@@ -36,7 +36,7 @@ const Bewear: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'bewear',
-      spriteIndex: [13, 28],
+      spriteIndex: [15, 28],
     },
   ],
 };

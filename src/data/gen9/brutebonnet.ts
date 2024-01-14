@@ -36,7 +36,7 @@ const BruteBonnet: Pokemon = {
       paradox: true,
       cosmeticForme: false,
       sprite: 'brute-bonnet',
-      spriteIndex: [22, 35],
+      spriteIndex: [24, 35],
     },
   ],
 };

@@ -39,7 +39,7 @@ const Applin: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'applin',
-      spriteIndex: [25, 30],
+      spriteIndex: [27, 30],
     },
   ],
 };

@@ -36,7 +36,7 @@ const Sobble: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'sobble',
-      spriteIndex: [1, 30],
+      spriteIndex: [3, 30],
     },
   ],
 };

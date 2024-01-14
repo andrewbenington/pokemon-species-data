@@ -36,7 +36,7 @@ const Impidimp: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'impidimp',
-      spriteIndex: [11, 31],
+      spriteIndex: [13, 31],
     },
   ],
 };

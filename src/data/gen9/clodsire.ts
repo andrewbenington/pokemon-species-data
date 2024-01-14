@@ -36,7 +36,7 @@ const Clodsire: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'clodsire',
-      spriteIndex: [16, 35],
+      spriteIndex: [18, 35],
     },
   ],
 };

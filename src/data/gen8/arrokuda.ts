@@ -36,7 +36,7 @@ const Arrokuda: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'arrokuda',
-      spriteIndex: [33, 30],
+      spriteIndex: [35, 30],
     },
   ],
 };

@@ -36,7 +36,7 @@ const Duraludon: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'duraludon',
-      spriteIndex: [11, 32],
+      spriteIndex: [13, 32],
     },
   ],
 };

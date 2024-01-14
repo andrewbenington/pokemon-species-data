@@ -36,7 +36,7 @@ const Greedent: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'greedent',
-      spriteIndex: [5, 30],
+      spriteIndex: [7, 30],
     },
   ],
 };

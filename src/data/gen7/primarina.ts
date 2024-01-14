@@ -36,7 +36,7 @@ const Primarina: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'primarina',
-      spriteIndex: [13, 27],
+      spriteIndex: [15, 27],
     },
   ],
 };

@@ -36,7 +36,7 @@ const Greavard: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'greavard',
-      spriteIndex: [5, 35],
+      spriteIndex: [7, 35],
     },
   ],
 };

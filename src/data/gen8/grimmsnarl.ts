@@ -36,7 +36,7 @@ const Grimmsnarl: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'grimmsnarl',
-      spriteIndex: [13, 31],
+      spriteIndex: [15, 31],
     },
   ],
 };

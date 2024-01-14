@@ -39,7 +39,7 @@ const Cosmoem: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'cosmoem',
-      spriteIndex: [7, 29],
+      spriteIndex: [9, 29],
     },
   ],
 };

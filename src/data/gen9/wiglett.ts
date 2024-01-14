@@ -36,7 +36,7 @@ const Wiglett: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'wiglett',
-      spriteIndex: [29, 34],
+      spriteIndex: [31, 34],
     },
   ],
 };

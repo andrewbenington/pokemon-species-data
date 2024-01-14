@@ -36,7 +36,7 @@ const Frosmoth: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'frosmoth',
-      spriteIndex: [33, 31],
+      spriteIndex: [35, 31],
     },
   ],
 };

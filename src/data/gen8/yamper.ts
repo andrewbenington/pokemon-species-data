@@ -36,7 +36,7 @@ const Yamper: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'yamper',
-      spriteIndex: [20, 30],
+      spriteIndex: [22, 30],
     },
   ],
 };

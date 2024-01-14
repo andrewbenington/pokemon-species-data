@@ -36,7 +36,7 @@ const Finizen: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'finizen',
-      spriteIndex: [32, 34],
+      spriteIndex: [34, 34],
     },
   ],
 };

@@ -36,7 +36,7 @@ const Drizzile: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'drizzile',
-      spriteIndex: [2, 30],
+      spriteIndex: [4, 30],
     },
   ],
 };

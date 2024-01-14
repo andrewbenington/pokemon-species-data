@@ -36,7 +36,7 @@ const Gimmighoul: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'gimmighoul',
-      spriteIndex: [35, 35],
+      spriteIndex: [1, 36],
     },
     {
       name: 'Gimmighoul',
@@ -67,7 +67,7 @@ const Gimmighoul: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'gimmighoul-roaming',
-      spriteIndex: [0, 36],
+      spriteIndex: [2, 36],
     },
   ],
 };

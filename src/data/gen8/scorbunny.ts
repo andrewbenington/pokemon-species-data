@@ -36,7 +36,7 @@ const Scorbunny: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'scorbunny',
-      spriteIndex: [34, 29],
+      spriteIndex: [0, 30],
     },
   ],
 };

@@ -36,7 +36,7 @@ const Chewtle: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'chewtle',
-      spriteIndex: [18, 30],
+      spriteIndex: [20, 30],
     },
   ],
 };

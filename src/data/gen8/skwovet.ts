@@ -36,7 +36,7 @@ const Skwovet: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'skwovet',
-      spriteIndex: [4, 30],
+      spriteIndex: [6, 30],
     },
   ],
 };

@@ -36,7 +36,7 @@ const ScreamTail: Pokemon = {
       paradox: true,
       cosmeticForme: false,
       sprite: 'scream-tail',
-      spriteIndex: [21, 35],
+      spriteIndex: [23, 35],
     },
   ],
 };

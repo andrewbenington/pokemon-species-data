@@ -36,7 +36,7 @@ const Eldegoss: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'eldegoss',
-      spriteIndex: [15, 30],
+      spriteIndex: [17, 30],
     },
   ],
 };

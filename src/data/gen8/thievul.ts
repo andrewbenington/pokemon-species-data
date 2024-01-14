@@ -36,7 +36,7 @@ const Thievul: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'thievul',
-      spriteIndex: [13, 30],
+      spriteIndex: [15, 30],
     },
   ],
 };

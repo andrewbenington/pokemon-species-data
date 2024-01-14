@@ -36,7 +36,7 @@ const Ursaluna: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'ursaluna',
-      spriteIndex: [34, 32],
+      spriteIndex: [0, 33],
     },
     {
       name: 'Ursaluna Bloodmoon',
@@ -67,7 +67,7 @@ const Ursaluna: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'ursaluna-bloodmoon',
-      spriteIndex: [35, 32],
+      spriteIndex: [1, 33],
     },
   ],
 };

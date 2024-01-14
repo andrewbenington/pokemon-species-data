@@ -36,7 +36,7 @@ const Shroodle: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'shroodle',
-      spriteIndex: [13, 34],
+      spriteIndex: [15, 34],
     },
   ],
 };

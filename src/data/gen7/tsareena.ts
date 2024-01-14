@@ -36,7 +36,7 @@ const Tsareena: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'tsareena',
-      spriteIndex: [16, 28],
+      spriteIndex: [18, 28],
     },
   ],
 };

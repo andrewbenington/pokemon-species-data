@@ -39,7 +39,7 @@ const Charcadet: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'charcadet',
-      spriteIndex: [4, 34],
+      spriteIndex: [6, 34],
     },
   ],
 };

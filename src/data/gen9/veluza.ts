@@ -36,7 +36,7 @@ const Veluza: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'veluza',
-      spriteIndex: [10, 35],
+      spriteIndex: [12, 35],
     },
   ],
 };

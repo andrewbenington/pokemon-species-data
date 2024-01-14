@@ -36,7 +36,7 @@ const Buzzwole: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'buzzwole',
-      spriteIndex: [11, 29],
+      spriteIndex: [13, 29],
     },
   ],
 };

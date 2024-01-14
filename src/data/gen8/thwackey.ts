@@ -36,7 +36,7 @@ const Thwackey: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'thwackey',
-      spriteIndex: [32, 29],
+      spriteIndex: [34, 29],
     },
   ],
 };

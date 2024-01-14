@@ -36,7 +36,7 @@ const Dudunsparce: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'dudunsparce',
-      spriteIndex: [18, 35],
+      spriteIndex: [20, 35],
     },
     {
       name: 'Dudunsparce',
@@ -67,7 +67,7 @@ const Dudunsparce: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'dudunsparce-three-segment',
-      spriteIndex: [18, 35],
+      spriteIndex: [20, 35],
     },
   ],
 };

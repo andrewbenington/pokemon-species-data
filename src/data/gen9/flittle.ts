@@ -36,7 +36,7 @@ const Flittle: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'flittle',
-      spriteIndex: [24, 34],
+      spriteIndex: [26, 34],
     },
   ],
 };

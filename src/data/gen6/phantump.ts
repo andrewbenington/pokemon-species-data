@@ -36,7 +36,7 @@ const Phantump: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'phantump',
-      spriteIndex: [15, 26],
+      spriteIndex: [16, 26],
     },
   ],
 };

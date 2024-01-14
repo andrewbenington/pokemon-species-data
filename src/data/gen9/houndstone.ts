@@ -36,7 +36,7 @@ const Houndstone: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'houndstone',
-      spriteIndex: [6, 35],
+      spriteIndex: [8, 35],
     },
   ],
 };

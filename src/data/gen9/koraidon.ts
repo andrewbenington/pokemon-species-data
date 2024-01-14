@@ -36,7 +36,7 @@ const Koraidon: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'koraidon',
-      spriteIndex: [8, 36],
+      spriteIndex: [10, 36],
     },
     {
       name: 'Koraidon',
@@ -67,7 +67,7 @@ const Koraidon: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'koraidon',
-      spriteIndex: [8, 36],
+      spriteIndex: [11, 36],
     },
     {
       name: 'Koraidon',
@@ -98,7 +98,7 @@ const Koraidon: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'koraidon',
-      spriteIndex: [8, 36],
+      spriteIndex: [11, 36],
     },
     {
       name: 'Koraidon',
@@ -129,7 +129,7 @@ const Koraidon: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'koraidon',
-      spriteIndex: [8, 36],
+      spriteIndex: [11, 36],
     },
     {
       name: 'Koraidon',
@@ -160,7 +160,7 @@ const Koraidon: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'koraidon',
-      spriteIndex: [8, 36],
+      spriteIndex: [11, 36],
     },
   ],
 };

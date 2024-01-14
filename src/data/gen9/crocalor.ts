@@ -36,7 +36,7 @@ const Crocalor: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'crocalor',
-      spriteIndex: [10, 33],
+      spriteIndex: [12, 33],
     },
   ],
 };

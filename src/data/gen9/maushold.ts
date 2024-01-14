@@ -36,7 +36,7 @@ const Maushold: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'maushold',
-      spriteIndex: [26, 33],
+      spriteIndex: [28, 33],
     },
     {
       name: 'Maushold',
@@ -67,7 +67,7 @@ const Maushold: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'maushold-four',
-      spriteIndex: [27, 33],
+      spriteIndex: [29, 33],
     },
   ],
 };

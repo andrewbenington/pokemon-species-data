@@ -36,7 +36,7 @@ const Cufant: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'cufant',
-      spriteIndex: [5, 32],
+      spriteIndex: [7, 32],
     },
   ],
 };

@@ -36,7 +36,7 @@ const Meowstic: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'meowstic',
-      spriteIndex: [17, 25],
+      spriteIndex: [18, 25],
     },
     {
       name: 'Meowstic',
@@ -67,7 +67,7 @@ const Meowstic: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'meowstic-f',
-      spriteIndex: [18, 25],
+      spriteIndex: [19, 25],
     },
   ],
 };

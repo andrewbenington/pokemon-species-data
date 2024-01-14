@@ -36,7 +36,7 @@ const Yungoos: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'yungoos',
-      spriteIndex: [17, 27],
+      spriteIndex: [19, 27],
     },
   ],
 };

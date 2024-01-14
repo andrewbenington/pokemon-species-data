@@ -36,7 +36,7 @@ const Munkidori: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'munkidori',
-      spriteIndex: [16, 36],
+      spriteIndex: [20, 36],
     },
   ],
 };

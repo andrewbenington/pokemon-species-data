@@ -39,7 +39,7 @@ const Bergmite: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'bergmite',
-      spriteIndex: [25, 26],
+      spriteIndex: [26, 26],
     },
   ],
 };

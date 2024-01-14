@@ -36,7 +36,7 @@ const Tarountula: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'tarountula',
-      spriteIndex: [18, 33],
+      spriteIndex: [20, 33],
     },
   ],
 };

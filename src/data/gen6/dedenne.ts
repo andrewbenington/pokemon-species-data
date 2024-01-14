@@ -36,7 +36,7 @@ const Dedenne: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'dedenne',
-      spriteIndex: [7, 26],
+      spriteIndex: [8, 26],
     },
   ],
 };

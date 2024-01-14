@@ -36,7 +36,7 @@ const Varoom: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'varoom',
-      spriteIndex: [35, 34],
+      spriteIndex: [1, 35],
     },
   ],
 };

@@ -36,7 +36,7 @@ const Morgrem: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'morgrem',
-      spriteIndex: [12, 31],
+      spriteIndex: [14, 31],
     },
   ],
 };

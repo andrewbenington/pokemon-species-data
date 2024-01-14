@@ -36,7 +36,7 @@ const Barbaracle: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'barbaracle',
-      spriteIndex: [30, 25],
+      spriteIndex: [31, 25],
     },
   ],
 };

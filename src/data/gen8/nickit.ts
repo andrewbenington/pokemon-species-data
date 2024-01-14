@@ -36,7 +36,7 @@ const Nickit: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'nickit',
-      spriteIndex: [12, 30],
+      spriteIndex: [14, 30],
     },
   ],
 };

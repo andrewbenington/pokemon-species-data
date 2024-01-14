@@ -36,7 +36,7 @@ const Hakamoo: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'hakamo-o',
-      spriteIndex: [0, 29],
+      spriteIndex: [2, 29],
     },
   ],
 };

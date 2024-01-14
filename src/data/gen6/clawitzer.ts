@@ -36,7 +36,7 @@ const Clawitzer: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'clawitzer',
-      spriteIndex: [34, 25],
+      spriteIndex: [35, 25],
     },
   ],
 };

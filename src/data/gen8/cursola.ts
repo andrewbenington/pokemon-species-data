@@ -36,7 +36,7 @@ const Cursola: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'cursola',
-      spriteIndex: [16, 31],
+      spriteIndex: [18, 31],
     },
   ],
 };

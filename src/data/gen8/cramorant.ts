@@ -36,7 +36,7 @@ const Cramorant: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'cramorant',
-      spriteIndex: [30, 30],
+      spriteIndex: [32, 30],
     },
     {
       name: 'Cramorant',
@@ -67,7 +67,7 @@ const Cramorant: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'cramorant-gulping',
-      spriteIndex: [31, 30],
+      spriteIndex: [33, 30],
     },
     {
       name: 'Cramorant',
@@ -98,7 +98,7 @@ const Cramorant: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'cramorant-gorging',
-      spriteIndex: [32, 30],
+      spriteIndex: [34, 30],
     },
   ],
 };

@@ -39,7 +39,7 @@ const Kubfu: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'kubfu',
-      spriteIndex: [21, 32],
+      spriteIndex: [23, 32],
     },
   ],
 };

@@ -36,7 +36,7 @@ const Kilowattrel: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'kilowattrel',
-      spriteIndex: [10, 34],
+      spriteIndex: [12, 34],
     },
   ],
 };

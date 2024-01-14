@@ -36,7 +36,7 @@ const Poipole: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'poipole',
-      spriteIndex: [24, 29],
+      spriteIndex: [26, 29],
     },
   ],
 };

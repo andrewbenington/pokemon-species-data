@@ -36,7 +36,7 @@ const Floragato: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'floragato',
-      spriteIndex: [7, 33],
+      spriteIndex: [9, 33],
     },
   ],
 };

@@ -36,7 +36,7 @@ const Pancham: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'pancham',
-      spriteIndex: [4, 25],
+      spriteIndex: [5, 25],
     },
   ],
 };

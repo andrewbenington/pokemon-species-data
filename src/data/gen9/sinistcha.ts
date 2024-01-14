@@ -36,7 +36,7 @@ const Sinistcha: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'sinistcha',
-      spriteIndex: [14, 36],
+      spriteIndex: [18, 36],
     },
     {
       name: 'Sinistcha',
@@ -67,7 +67,7 @@ const Sinistcha: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'sinistcha-masterpiece',
-      spriteIndex: [14, 36],
+      spriteIndex: [18, 36],
     },
   ],
 };

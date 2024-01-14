@@ -36,7 +36,7 @@ const Litleo: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'litleo',
-      spriteIndex: [19, 24],
+      spriteIndex: [20, 24],
     },
   ],
 };

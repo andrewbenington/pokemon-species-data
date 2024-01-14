@@ -36,7 +36,7 @@ const WalkingWake: Pokemon = {
       paradox: true,
       cosmeticForme: false,
       sprite: 'walking-wake',
-      spriteIndex: [10, 36],
+      spriteIndex: [14, 36],
     },
   ],
 };

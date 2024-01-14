@@ -36,7 +36,7 @@ const Lunala: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'lunala',
-      spriteIndex: [9, 29],
+      spriteIndex: [11, 29],
     },
   ],
 };

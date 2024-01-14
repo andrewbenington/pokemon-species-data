@@ -36,7 +36,7 @@ const Grafaiai: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'grafaiai',
-      spriteIndex: [14, 34],
+      spriteIndex: [16, 34],
     },
   ],
 };

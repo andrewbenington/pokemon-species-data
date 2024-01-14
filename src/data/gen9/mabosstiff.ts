@@ -36,7 +36,7 @@ const Mabosstiff: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'mabosstiff',
-      spriteIndex: [12, 34],
+      spriteIndex: [14, 34],
     },
   ],
 };

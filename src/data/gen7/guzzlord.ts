@@ -36,7 +36,7 @@ const Guzzlord: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'guzzlord',
-      spriteIndex: [16, 29],
+      spriteIndex: [18, 29],
     },
   ],
 };

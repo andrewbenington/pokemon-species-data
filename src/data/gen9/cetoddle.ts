@@ -36,7 +36,7 @@ const Cetoddle: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'cetoddle',
-      spriteIndex: [8, 35],
+      spriteIndex: [10, 35],
     },
   ],
 };

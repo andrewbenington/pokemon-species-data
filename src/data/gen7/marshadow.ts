@@ -36,7 +36,7 @@ const Marshadow: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'marshadow',
-      spriteIndex: [23, 29],
+      spriteIndex: [25, 29],
     },
   ],
 };

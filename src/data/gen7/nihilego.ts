@@ -36,7 +36,7 @@ const Nihilego: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'nihilego',
-      spriteIndex: [10, 29],
+      spriteIndex: [12, 29],
     },
   ],
 };

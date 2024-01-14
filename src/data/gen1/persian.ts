@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Persian: Pokemon = {
   name: 'Persian',
@@ -70,6 +70,6 @@ const Persian: Pokemon = {
       spriteIndex: [7, 2],
     },
   ],
-};
+}
 
-export { Persian };
+export { Persian }

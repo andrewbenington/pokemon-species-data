@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const WalkingWake: Pokemon = {
   name: 'Walking Wake',
@@ -39,6 +39,6 @@ const WalkingWake: Pokemon = {
       spriteIndex: [14, 36],
     },
   ],
-};
+}
 
-export { WalkingWake };
+export { WalkingWake }

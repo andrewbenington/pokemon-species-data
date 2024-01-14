@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Metagross: Pokemon = {
   name: 'Metagross',
@@ -70,6 +70,6 @@ const Metagross: Pokemon = {
       spriteIndex: [28, 13],
     },
   ],
-};
+}
 
-export { Metagross };
+export { Metagross }

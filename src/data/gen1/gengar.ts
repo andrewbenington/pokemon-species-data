@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Gengar: Pokemon = {
   name: 'Gengar',
@@ -70,6 +70,6 @@ const Gengar: Pokemon = {
       spriteIndex: [27, 3],
     },
   ],
-};
+}
 
-export { Gengar };
+export { Gengar }

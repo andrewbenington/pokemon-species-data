@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Treecko: Pokemon = {
   name: 'Treecko',
@@ -39,6 +39,6 @@ const Treecko: Pokemon = {
       spriteIndex: [26, 9],
     },
   ],
-};
+}
 
-export { Treecko };
+export { Treecko }

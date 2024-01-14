@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Umbreon: Pokemon = {
   name: 'Umbreon',
@@ -39,6 +39,6 @@ const Umbreon: Pokemon = {
       spriteIndex: [7, 7],
     },
   ],
-};
+}
 
-export { Umbreon };
+export { Umbreon }

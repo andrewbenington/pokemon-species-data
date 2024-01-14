@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Metang: Pokemon = {
   name: 'Metang',
@@ -39,6 +39,6 @@ const Metang: Pokemon = {
       spriteIndex: [26, 13],
     },
   ],
-};
+}
 
-export { Metang };
+export { Metang }

@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Maushold: Pokemon = {
   name: 'Maushold',
@@ -70,6 +70,6 @@ const Maushold: Pokemon = {
       spriteIndex: [29, 33],
     },
   ],
-};
+}
 
-export { Maushold };
+export { Maushold }

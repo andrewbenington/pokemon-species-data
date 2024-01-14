@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Turtonator: Pokemon = {
   name: 'Turtonator',
@@ -39,6 +39,6 @@ const Turtonator: Pokemon = {
       spriteIndex: [31, 28],
     },
   ],
-};
+}
 
-export { Turtonator };
+export { Turtonator }

@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Wobbuffet: Pokemon = {
   name: 'Wobbuffet',
@@ -39,6 +39,6 @@ const Wobbuffet: Pokemon = {
       spriteIndex: [4, 8],
     },
   ],
-};
+}
 
-export { Wobbuffet };
+export { Wobbuffet }

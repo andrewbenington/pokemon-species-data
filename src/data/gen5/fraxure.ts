@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Fraxure: Pokemon = {
   name: 'Fraxure',
@@ -39,6 +39,6 @@ const Fraxure: Pokemon = {
       spriteIndex: [3, 22],
     },
   ],
-};
+}
 
-export { Fraxure };
+export { Fraxure }

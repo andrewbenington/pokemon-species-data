@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Ninetales: Pokemon = {
   name: 'Ninetales',
@@ -70,6 +70,6 @@ const Ninetales: Pokemon = {
       spriteIndex: [23, 1],
     },
   ],
-};
+}
 
-export { Ninetales };
+export { Ninetales }

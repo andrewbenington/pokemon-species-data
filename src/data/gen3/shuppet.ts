@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Shuppet: Pokemon = {
   name: 'Shuppet',
@@ -39,6 +39,6 @@ const Shuppet: Pokemon = {
       spriteIndex: [0, 13],
     },
   ],
-};
+}
 
-export { Shuppet };
+export { Shuppet }

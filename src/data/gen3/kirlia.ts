@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Kirlia: Pokemon = {
   name: 'Kirlia',
@@ -42,6 +42,6 @@ const Kirlia: Pokemon = {
       spriteIndex: [24, 10],
     },
   ],
-};
+}
 
-export { Kirlia };
+export { Kirlia }

@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Regirock: Pokemon = {
   name: 'Regirock',
@@ -39,6 +39,6 @@ const Regirock: Pokemon = {
       spriteIndex: [29, 13],
     },
   ],
-};
+}
 
-export { Regirock };
+export { Regirock }

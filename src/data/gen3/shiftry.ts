@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Shiftry: Pokemon = {
   name: 'Shiftry',
@@ -39,6 +39,6 @@ const Shiftry: Pokemon = {
       spriteIndex: [18, 10],
     },
   ],
-};
+}
 
-export { Shiftry };
+export { Shiftry }

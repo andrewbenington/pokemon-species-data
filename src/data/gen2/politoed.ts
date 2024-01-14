@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Politoed: Pokemon = {
   name: 'Politoed',
@@ -39,6 +39,6 @@ const Politoed: Pokemon = {
       spriteIndex: [31, 6],
     },
   ],
-};
+}
 
-export { Politoed };
+export { Politoed }

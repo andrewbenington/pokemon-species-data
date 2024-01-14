@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Marowak: Pokemon = {
   name: 'Marowak',
@@ -101,6 +101,6 @@ const Marowak: Pokemon = {
       spriteIndex: [6, 4],
     },
   ],
-};
+}
 
-export { Marowak };
+export { Marowak }

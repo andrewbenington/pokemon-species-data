@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Appletun: Pokemon = {
   name: 'Appletun',
@@ -39,6 +39,6 @@ const Appletun: Pokemon = {
       spriteIndex: [29, 30],
     },
   ],
-};
+}
 
-export { Appletun };
+export { Appletun }

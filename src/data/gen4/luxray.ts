@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Luxray: Pokemon = {
   name: 'Luxray',
@@ -39,6 +39,6 @@ const Luxray: Pokemon = {
       spriteIndex: [29, 14],
     },
   ],
-};
+}
 
-export { Luxray };
+export { Luxray }

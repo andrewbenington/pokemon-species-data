@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const SlitherWing: Pokemon = {
   name: 'Slither Wing',
@@ -39,6 +39,6 @@ const SlitherWing: Pokemon = {
       spriteIndex: [26, 35],
     },
   ],
-};
+}
 
-export { SlitherWing };
+export { SlitherWing }

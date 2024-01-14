@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Rayquaza: Pokemon = {
   name: 'Rayquaza',
@@ -70,6 +70,6 @@ const Rayquaza: Pokemon = {
       spriteIndex: [5, 14],
     },
   ],
-};
+}
 
-export { Rayquaza };
+export { Rayquaza }

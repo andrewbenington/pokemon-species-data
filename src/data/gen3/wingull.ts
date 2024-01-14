@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Wingull: Pokemon = {
   name: 'Wingull',
@@ -39,6 +39,6 @@ const Wingull: Pokemon = {
       spriteIndex: [21, 10],
     },
   ],
-};
+}
 
-export { Wingull };
+export { Wingull }

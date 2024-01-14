@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Kyogre: Pokemon = {
   name: 'Kyogre',
@@ -70,6 +70,6 @@ const Kyogre: Pokemon = {
       spriteIndex: [1, 14],
     },
   ],
-};
+}
 
-export { Kyogre };
+export { Kyogre }

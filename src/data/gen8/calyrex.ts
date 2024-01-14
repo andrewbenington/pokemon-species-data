@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Calyrex: Pokemon = {
   name: 'Calyrex',
@@ -101,6 +101,6 @@ const Calyrex: Pokemon = {
       spriteIndex: [33, 32],
     },
   ],
-};
+}
 
-export { Calyrex };
+export { Calyrex }

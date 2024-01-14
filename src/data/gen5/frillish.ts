@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Frillish: Pokemon = {
   name: 'Frillish',
@@ -39,6 +39,6 @@ const Frillish: Pokemon = {
       spriteIndex: [20, 21],
     },
   ],
-};
+}
 
-export { Frillish };
+export { Frillish }

@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Tatsugiri: Pokemon = {
   name: 'Tatsugiri',
@@ -101,6 +101,6 @@ const Tatsugiri: Pokemon = {
       spriteIndex: [16, 35],
     },
   ],
-};
+}
 
-export { Tatsugiri };
+export { Tatsugiri }

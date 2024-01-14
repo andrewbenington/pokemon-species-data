@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Magnemite: Pokemon = {
   name: 'Magnemite',
@@ -39,6 +39,6 @@ const Magnemite: Pokemon = {
       spriteIndex: [10, 3],
     },
   ],
-};
+}
 
-export { Magnemite };
+export { Magnemite }

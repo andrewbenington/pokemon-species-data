@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Lunatone: Pokemon = {
   name: 'Lunatone',
@@ -39,6 +39,6 @@ const Lunatone: Pokemon = {
       spriteIndex: [17, 12],
     },
   ],
-};
+}
 
-export { Lunatone };
+export { Lunatone }

@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Machop: Pokemon = {
   name: 'Machop',
@@ -39,6 +39,6 @@ const Machop: Pokemon = {
       spriteIndex: [23, 2],
     },
   ],
-};
+}
 
-export { Machop };
+export { Machop }

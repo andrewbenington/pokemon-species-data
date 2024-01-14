@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Sentret: Pokemon = {
   name: 'Sentret',
@@ -39,6 +39,6 @@ const Sentret: Pokemon = {
       spriteIndex: [5, 6],
     },
   ],
-};
+}
 
-export { Sentret };
+export { Sentret }

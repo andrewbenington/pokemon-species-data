@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Hydreigon: Pokemon = {
   name: 'Hydreigon',
@@ -39,6 +39,6 @@ const Hydreigon: Pokemon = {
       spriteIndex: [29, 22],
     },
   ],
-};
+}
 
-export { Hydreigon };
+export { Hydreigon }

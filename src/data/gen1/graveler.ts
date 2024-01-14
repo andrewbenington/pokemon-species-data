@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Graveler: Pokemon = {
   name: 'Graveler',
@@ -70,6 +70,6 @@ const Graveler: Pokemon = {
       spriteIndex: [34, 2],
     },
   ],
-};
+}
 
-export { Graveler };
+export { Graveler }

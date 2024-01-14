@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Eiscue: Pokemon = {
   name: 'Eiscue',
@@ -70,6 +70,6 @@ const Eiscue: Pokemon = {
       spriteIndex: [2, 32],
     },
   ],
-};
+}
 
-export { Eiscue };
+export { Eiscue }

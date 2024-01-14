@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Hattrem: Pokemon = {
   name: 'Hattrem',
@@ -39,6 +39,6 @@ const Hattrem: Pokemon = {
       spriteIndex: [11, 31],
     },
   ],
-};
+}
 
-export { Hattrem };
+export { Hattrem }

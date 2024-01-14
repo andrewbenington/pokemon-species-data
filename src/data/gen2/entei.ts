@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Entei: Pokemon = {
   name: 'Entei',
@@ -39,6 +39,6 @@ const Entei: Pokemon = {
       spriteIndex: [17, 9],
     },
   ],
-};
+}
 
-export { Entei };
+export { Entei }

@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andrewbenington/node-pokemon-resources.git"
+    "url": "git+https://github.com/andrewbenington/node-pokemon-data.git"
   },
   "author": "abenington",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/andrewbenington/node-pokemon-resources/issues"
+    "url": "https://github.com/andrewbenington/node-pokemon-data/issues"
   },
-  "homepage": "https://github.com/andrewbenington/node-pokemon-resources#readme",
+  "homepage": "https://github.com/andrewbenington/node-pokemon-data#readme",
   "dependencies": {
     "pokemon-resources": "^1.0.6"
   },

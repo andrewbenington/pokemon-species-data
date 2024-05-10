@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Nihilego: Pokemon = {
   name: 'Nihilego',
@@ -36,9 +36,9 @@ const Nihilego: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'nihilego',
-      spriteIndex: [10, 29],
+      spriteIndex: [12, 29],
     },
   ],
-};
+}
 
-export { Nihilego };
+export { Nihilego }

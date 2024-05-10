@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Vikavolt: Pokemon = {
   name: 'Vikavolt',
@@ -36,7 +36,7 @@ const Vikavolt: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'vikavolt',
-      spriteIndex: [21, 27],
+      spriteIndex: [23, 27],
     },
     {
       name: 'Vikavolt',
@@ -67,9 +67,9 @@ const Vikavolt: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'vikavolt',
-      spriteIndex: [21, 27],
+      spriteIndex: [23, 27],
     },
   ],
-};
+}
 
-export { Vikavolt };
+export { Vikavolt }

@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Rufflet: Pokemon = {
   name: 'Rufflet',
@@ -42,6 +42,6 @@ const Rufflet: Pokemon = {
       spriteIndex: [20, 22],
     },
   ],
-};
+}
 
-export { Rufflet };
+export { Rufflet }

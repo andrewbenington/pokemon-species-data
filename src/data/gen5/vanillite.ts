@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Vanillite: Pokemon = {
   name: 'Vanillite',
@@ -39,6 +39,6 @@ const Vanillite: Pokemon = {
       spriteIndex: [4, 21],
     },
   ],
-};
+}
 
-export { Vanillite };
+export { Vanillite }

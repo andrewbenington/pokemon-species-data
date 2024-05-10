@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Nincada: Pokemon = {
   name: 'Nincada',
@@ -42,6 +42,6 @@ const Nincada: Pokemon = {
       spriteIndex: [34, 10],
     },
   ],
-};
+}
 
-export { Nincada };
+export { Nincada }

@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Metapod: Pokemon = {
   name: 'Metapod',
@@ -39,6 +39,6 @@ const Metapod: Pokemon = {
       spriteIndex: [15, 0],
     },
   ],
-};
+}
 
-export { Metapod };
+export { Metapod }

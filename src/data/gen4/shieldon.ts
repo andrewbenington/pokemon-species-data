@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Shieldon: Pokemon = {
   name: 'Shieldon',
@@ -39,6 +39,6 @@ const Shieldon: Pokemon = {
       spriteIndex: [34, 14],
     },
   ],
-};
+}
 
-export { Shieldon };
+export { Shieldon }

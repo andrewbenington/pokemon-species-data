@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Orthworm: Pokemon = {
   name: 'Orthworm',
@@ -36,9 +36,9 @@ const Orthworm: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'orthworm',
-      spriteIndex: [2, 35],
+      spriteIndex: [4, 35],
     },
   ],
-};
+}
 
-export { Orthworm };
+export { Orthworm }

@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Reuniclus: Pokemon = {
   name: 'Reuniclus',
@@ -39,6 +39,6 @@ const Reuniclus: Pokemon = {
       spriteIndex: [1, 21],
     },
   ],
-};
+}
 
-export { Reuniclus };
+export { Reuniclus }

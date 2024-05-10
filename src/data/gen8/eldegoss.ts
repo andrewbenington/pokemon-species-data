@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Eldegoss: Pokemon = {
   name: 'Eldegoss',
@@ -36,9 +36,9 @@ const Eldegoss: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'eldegoss',
-      spriteIndex: [15, 30],
+      spriteIndex: [17, 30],
     },
   ],
-};
+}
 
-export { Eldegoss };
+export { Eldegoss }

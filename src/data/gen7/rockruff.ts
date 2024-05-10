@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Rockruff: Pokemon = {
   name: 'Rockruff',
@@ -39,7 +39,7 @@ const Rockruff: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'rockruff',
-      spriteIndex: [30, 27],
+      spriteIndex: [32, 27],
     },
     {
       name: 'Rockruff',
@@ -70,9 +70,9 @@ const Rockruff: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'rockruff',
-      spriteIndex: [30, 27],
+      spriteIndex: [32, 27],
     },
   ],
-};
+}
 
-export { Rockruff };
+export { Rockruff }

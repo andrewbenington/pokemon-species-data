@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Tyrantrum: Pokemon = {
   name: 'Tyrantrum',
@@ -36,9 +36,9 @@ const Tyrantrum: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'tyrantrum',
-      spriteIndex: [2, 26],
+      spriteIndex: [3, 26],
     },
   ],
-};
+}
 
-export { Tyrantrum };
+export { Tyrantrum }

@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Dewpider: Pokemon = {
   name: 'Dewpider',
@@ -36,9 +36,9 @@ const Dewpider: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'dewpider',
-      spriteIndex: [4, 28],
+      spriteIndex: [6, 28],
     },
   ],
-};
+}
 
-export { Dewpider };
+export { Dewpider }

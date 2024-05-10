@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Wattrel: Pokemon = {
   name: 'Wattrel',
@@ -36,9 +36,9 @@ const Wattrel: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'wattrel',
-      spriteIndex: [9, 34],
+      spriteIndex: [11, 34],
     },
   ],
-};
+}
 
-export { Wattrel };
+export { Wattrel }

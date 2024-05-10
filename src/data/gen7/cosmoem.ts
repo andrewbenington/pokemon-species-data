@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Cosmoem: Pokemon = {
   name: 'Cosmoem',
@@ -39,9 +39,9 @@ const Cosmoem: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'cosmoem',
-      spriteIndex: [7, 29],
+      spriteIndex: [9, 29],
     },
   ],
-};
+}
 
-export { Cosmoem };
+export { Cosmoem }

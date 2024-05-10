@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Poltchageist: Pokemon = {
   name: 'Poltchageist',
@@ -36,7 +36,7 @@ const Poltchageist: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'poltchageist',
-      spriteIndex: [13, 36],
+      spriteIndex: [17, 36],
     },
     {
       name: 'Poltchageist',
@@ -67,9 +67,9 @@ const Poltchageist: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'poltchageist-masterpiece',
-      spriteIndex: [13, 36],
+      spriteIndex: [17, 36],
     },
   ],
-};
+}
 
-export { Poltchageist };
+export { Poltchageist }

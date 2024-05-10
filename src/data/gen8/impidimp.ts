@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Impidimp: Pokemon = {
   name: 'Impidimp',
@@ -36,9 +36,9 @@ const Impidimp: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'impidimp',
-      spriteIndex: [11, 31],
+      spriteIndex: [13, 31],
     },
   ],
-};
+}
 
-export { Impidimp };
+export { Impidimp }

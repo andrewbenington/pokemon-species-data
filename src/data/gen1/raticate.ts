@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Raticate: Pokemon = {
   name: 'Raticate',
@@ -101,6 +101,6 @@ const Raticate: Pokemon = {
       spriteIndex: [28, 0],
     },
   ],
-};
+}
 
-export { Raticate };
+export { Raticate }

@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Rellor: Pokemon = {
   name: 'Rellor',
@@ -36,9 +36,9 @@ const Rellor: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'rellor',
-      spriteIndex: [22, 34],
+      spriteIndex: [24, 34],
     },
   ],
-};
+}
 
-export { Rellor };
+export { Rellor }

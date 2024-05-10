@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Exeggutor: Pokemon = {
   name: 'Exeggutor',
@@ -70,6 +70,6 @@ const Exeggutor: Pokemon = {
       spriteIndex: [3, 4],
     },
   ],
-};
+}
 
-export { Exeggutor };
+export { Exeggutor }

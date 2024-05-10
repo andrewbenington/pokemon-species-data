@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Basculegion: Pokemon = {
   name: 'Basculegion',
@@ -36,7 +36,7 @@ const Basculegion: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'basculegion',
-      spriteIndex: [0, 33],
+      spriteIndex: [2, 33],
     },
     {
       name: 'Basculegion',
@@ -67,9 +67,9 @@ const Basculegion: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'basculegion-f',
-      spriteIndex: [1, 33],
+      spriteIndex: [3, 33],
     },
   ],
-};
+}
 
-export { Basculegion };
+export { Basculegion }

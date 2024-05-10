@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Xurkitree: Pokemon = {
   name: 'Xurkitree',
@@ -36,9 +36,9 @@ const Xurkitree: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'xurkitree',
-      spriteIndex: [13, 29],
+      spriteIndex: [15, 29],
     },
   ],
-};
+}
 
-export { Xurkitree };
+export { Xurkitree }

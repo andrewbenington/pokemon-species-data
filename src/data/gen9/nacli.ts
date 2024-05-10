@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Nacli: Pokemon = {
   name: 'Nacli',
@@ -36,9 +36,9 @@ const Nacli: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'nacli',
-      spriteIndex: [1, 34],
+      spriteIndex: [3, 34],
     },
   ],
-};
+}
 
-export { Nacli };
+export { Nacli }

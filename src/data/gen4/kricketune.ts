@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Kricketune: Pokemon = {
   name: 'Kricketune',
@@ -39,6 +39,6 @@ const Kricketune: Pokemon = {
       spriteIndex: [26, 14],
     },
   ],
-};
+}
 
-export { Kricketune };
+export { Kricketune }

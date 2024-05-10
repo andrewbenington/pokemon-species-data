@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Wyrdeer: Pokemon = {
   name: 'Wyrdeer',
@@ -36,9 +36,9 @@ const Wyrdeer: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'wyrdeer',
-      spriteIndex: [32, 32],
+      spriteIndex: [34, 32],
     },
   ],
-};
+}
 
-export { Wyrdeer };
+export { Wyrdeer }

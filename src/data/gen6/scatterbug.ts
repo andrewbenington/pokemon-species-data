@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Scatterbug: Pokemon = {
   name: 'Scatterbug',
@@ -36,7 +36,7 @@ const Scatterbug: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'scatterbug',
-      spriteIndex: [33, 23],
+      spriteIndex: [34, 23],
     },
     {
       name: 'Scatterbug',
@@ -67,7 +67,7 @@ const Scatterbug: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'scatterbug',
-      spriteIndex: [33, 23],
+      spriteIndex: [34, 23],
     },
     {
       name: 'Scatterbug',
@@ -98,7 +98,7 @@ const Scatterbug: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'scatterbug',
-      spriteIndex: [33, 23],
+      spriteIndex: [34, 23],
     },
     {
       name: 'Scatterbug',
@@ -129,7 +129,7 @@ const Scatterbug: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'scatterbug',
-      spriteIndex: [33, 23],
+      spriteIndex: [34, 23],
     },
     {
       name: 'Scatterbug',
@@ -160,7 +160,7 @@ const Scatterbug: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'scatterbug',
-      spriteIndex: [33, 23],
+      spriteIndex: [34, 23],
     },
     {
       name: 'Scatterbug',
@@ -191,7 +191,7 @@ const Scatterbug: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'scatterbug',
-      spriteIndex: [33, 23],
+      spriteIndex: [34, 23],
     },
     {
       name: 'Scatterbug',
@@ -222,7 +222,7 @@ const Scatterbug: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'scatterbug',
-      spriteIndex: [33, 23],
+      spriteIndex: [34, 23],
     },
     {
       name: 'Scatterbug',
@@ -253,7 +253,7 @@ const Scatterbug: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'scatterbug',
-      spriteIndex: [33, 23],
+      spriteIndex: [34, 23],
     },
     {
       name: 'Scatterbug',
@@ -284,7 +284,7 @@ const Scatterbug: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'scatterbug',
-      spriteIndex: [33, 23],
+      spriteIndex: [34, 23],
     },
     {
       name: 'Scatterbug',
@@ -315,7 +315,7 @@ const Scatterbug: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'scatterbug',
-      spriteIndex: [33, 23],
+      spriteIndex: [34, 23],
     },
     {
       name: 'Scatterbug',
@@ -346,7 +346,7 @@ const Scatterbug: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'scatterbug',
-      spriteIndex: [33, 23],
+      spriteIndex: [34, 23],
     },
     {
       name: 'Scatterbug',
@@ -377,7 +377,7 @@ const Scatterbug: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'scatterbug',
-      spriteIndex: [33, 23],
+      spriteIndex: [34, 23],
     },
     {
       name: 'Scatterbug',
@@ -408,7 +408,7 @@ const Scatterbug: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'scatterbug',
-      spriteIndex: [33, 23],
+      spriteIndex: [34, 23],
     },
     {
       name: 'Scatterbug',
@@ -439,7 +439,7 @@ const Scatterbug: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'scatterbug',
-      spriteIndex: [33, 23],
+      spriteIndex: [34, 23],
     },
     {
       name: 'Scatterbug',
@@ -470,7 +470,7 @@ const Scatterbug: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'scatterbug',
-      spriteIndex: [33, 23],
+      spriteIndex: [34, 23],
     },
     {
       name: 'Scatterbug',
@@ -501,7 +501,7 @@ const Scatterbug: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'scatterbug',
-      spriteIndex: [33, 23],
+      spriteIndex: [34, 23],
     },
     {
       name: 'Scatterbug',
@@ -532,7 +532,7 @@ const Scatterbug: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'scatterbug',
-      spriteIndex: [33, 23],
+      spriteIndex: [34, 23],
     },
     {
       name: 'Scatterbug',
@@ -563,7 +563,7 @@ const Scatterbug: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'scatterbug',
-      spriteIndex: [33, 23],
+      spriteIndex: [34, 23],
     },
     {
       name: 'Scatterbug',
@@ -594,7 +594,7 @@ const Scatterbug: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'scatterbug',
-      spriteIndex: [33, 23],
+      spriteIndex: [34, 23],
     },
     {
       name: 'Scatterbug',
@@ -625,9 +625,9 @@ const Scatterbug: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'scatterbug',
-      spriteIndex: [33, 23],
+      spriteIndex: [34, 23],
     },
   ],
-};
+}
 
-export { Scatterbug };
+export { Scatterbug }

@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Naganadel: Pokemon = {
   name: 'Naganadel',
@@ -36,9 +36,9 @@ const Naganadel: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'naganadel',
-      spriteIndex: [25, 29],
+      spriteIndex: [27, 29],
     },
   ],
-};
+}
 
-export { Naganadel };
+export { Naganadel }

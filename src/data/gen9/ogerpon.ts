@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Ogerpon: Pokemon = {
   name: 'Ogerpon',
@@ -36,7 +36,7 @@ const Ogerpon: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'ogerpon',
-      spriteIndex: [18, 36],
+      spriteIndex: [22, 36],
     },
     {
       name: 'Ogerpon',
@@ -67,7 +67,7 @@ const Ogerpon: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'ogerpon-wellspring-mask',
-      spriteIndex: [19, 36],
+      spriteIndex: [23, 36],
     },
     {
       name: 'Ogerpon',
@@ -98,7 +98,7 @@ const Ogerpon: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'ogerpon-hearthflame-mask',
-      spriteIndex: [20, 36],
+      spriteIndex: [24, 36],
     },
     {
       name: 'Ogerpon',
@@ -129,9 +129,9 @@ const Ogerpon: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'ogerpon-cornerstone-mask',
-      spriteIndex: [21, 36],
+      spriteIndex: [25, 36],
     },
   ],
-};
+}
 
-export { Ogerpon };
+export { Ogerpon }

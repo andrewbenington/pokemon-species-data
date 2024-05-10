@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Araquanid: Pokemon = {
   name: 'Araquanid',
@@ -36,7 +36,7 @@ const Araquanid: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'araquanid',
-      spriteIndex: [5, 28],
+      spriteIndex: [7, 28],
     },
     {
       name: 'Araquanid',
@@ -67,9 +67,9 @@ const Araquanid: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'araquanid',
-      spriteIndex: [5, 28],
+      spriteIndex: [7, 28],
     },
   ],
-};
+}
 
-export { Araquanid };
+export { Araquanid }

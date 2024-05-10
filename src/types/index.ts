@@ -1,2 +1,2 @@
-export * from './forme';
-export * from './pokemon';
+export * from './forme'
+export * from './pokemon'

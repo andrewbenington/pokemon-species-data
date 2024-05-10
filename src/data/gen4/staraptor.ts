@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Staraptor: Pokemon = {
   name: 'Staraptor',
@@ -39,6 +39,6 @@ const Staraptor: Pokemon = {
       spriteIndex: [22, 14],
     },
   ],
-};
+}
 
-export { Staraptor };
+export { Staraptor }

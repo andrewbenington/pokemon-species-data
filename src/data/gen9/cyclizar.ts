@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Cyclizar: Pokemon = {
   name: 'Cyclizar',
@@ -36,9 +36,9 @@ const Cyclizar: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'cyclizar',
-      spriteIndex: [1, 35],
+      spriteIndex: [3, 35],
     },
   ],
-};
+}
 
-export { Cyclizar };
+export { Cyclizar }

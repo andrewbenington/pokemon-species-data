@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Reshiram: Pokemon = {
   name: 'Reshiram',
@@ -39,6 +39,6 @@ const Reshiram: Pokemon = {
       spriteIndex: [3, 23],
     },
   ],
-};
+}
 
-export { Reshiram };
+export { Reshiram }

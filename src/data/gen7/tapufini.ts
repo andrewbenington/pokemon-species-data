@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const TapuFini: Pokemon = {
   name: 'Tapu Fini',
@@ -36,9 +36,9 @@ const TapuFini: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'tapu-fini',
-      spriteIndex: [5, 29],
+      spriteIndex: [7, 29],
     },
   ],
-};
+}
 
-export { TapuFini };
+export { TapuFini }

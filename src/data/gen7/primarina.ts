@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Primarina: Pokemon = {
   name: 'Primarina',
@@ -36,9 +36,9 @@ const Primarina: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'primarina',
-      spriteIndex: [13, 27],
+      spriteIndex: [15, 27],
     },
   ],
-};
+}
 
-export { Primarina };
+export { Primarina }

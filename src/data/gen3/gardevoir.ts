@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Gardevoir: Pokemon = {
   name: 'Gardevoir',
@@ -70,6 +70,6 @@ const Gardevoir: Pokemon = {
       spriteIndex: [26, 10],
     },
   ],
-};
+}
 
-export { Gardevoir };
+export { Gardevoir }

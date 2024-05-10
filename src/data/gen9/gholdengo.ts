@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Gholdengo: Pokemon = {
   name: 'Gholdengo',
@@ -36,9 +36,9 @@ const Gholdengo: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'gholdengo',
-      spriteIndex: [1, 36],
+      spriteIndex: [3, 36],
     },
   ],
-};
+}
 
-export { Gholdengo };
+export { Gholdengo }

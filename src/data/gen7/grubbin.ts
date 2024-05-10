@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Grubbin: Pokemon = {
   name: 'Grubbin',
@@ -36,9 +36,9 @@ const Grubbin: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'grubbin',
-      spriteIndex: [19, 27],
+      spriteIndex: [21, 27],
     },
   ],
-};
+}
 
-export { Grubbin };
+export { Grubbin }

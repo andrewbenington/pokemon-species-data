@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Farigiraf: Pokemon = {
   name: 'Farigiraf',
@@ -36,9 +36,9 @@ const Farigiraf: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'farigiraf',
-      spriteIndex: [17, 35],
+      spriteIndex: [19, 35],
     },
   ],
-};
+}
 
-export { Farigiraf };
+export { Farigiraf }

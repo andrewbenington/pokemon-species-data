@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Passimian: Pokemon = {
   name: 'Passimian',
@@ -36,9 +36,9 @@ const Passimian: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'passimian',
-      spriteIndex: [19, 28],
+      spriteIndex: [21, 28],
     },
   ],
-};
+}
 
-export { Passimian };
+export { Passimian }

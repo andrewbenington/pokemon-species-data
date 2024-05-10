@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Magikarp: Pokemon = {
   name: 'Magikarp',
@@ -39,6 +39,6 @@ const Magikarp: Pokemon = {
       spriteIndex: [1, 5],
     },
   ],
-};
+}
 
-export { Magikarp };
+export { Magikarp }

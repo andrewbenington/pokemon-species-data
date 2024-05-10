@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Togetic: Pokemon = {
   name: 'Togetic',
@@ -39,6 +39,6 @@ const Togetic: Pokemon = {
       spriteIndex: [20, 6],
     },
   ],
-};
+}
 
-export { Togetic };
+export { Togetic }

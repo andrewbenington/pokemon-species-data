@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Aegislash: Pokemon = {
   name: 'Aegislash',
@@ -36,7 +36,7 @@ const Aegislash: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'aegislash',
-      spriteIndex: [21, 25],
+      spriteIndex: [22, 25],
     },
     {
       name: 'Aegislash',
@@ -67,9 +67,9 @@ const Aegislash: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'aegislash-blade',
-      spriteIndex: [22, 25],
+      spriteIndex: [23, 25],
     },
   ],
-};
+}
 
-export { Aegislash };
+export { Aegislash }

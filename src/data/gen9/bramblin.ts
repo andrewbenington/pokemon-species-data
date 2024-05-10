@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Bramblin: Pokemon = {
   name: 'Bramblin',
@@ -36,9 +36,9 @@ const Bramblin: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'bramblin',
-      spriteIndex: [15, 34],
+      spriteIndex: [17, 34],
     },
   ],
-};
+}
 
-export { Bramblin };
+export { Bramblin }

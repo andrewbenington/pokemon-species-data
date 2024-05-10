@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Necrozma: Pokemon = {
   name: 'Necrozma',
@@ -36,7 +36,7 @@ const Necrozma: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'necrozma',
-      spriteIndex: [17, 29],
+      spriteIndex: [19, 29],
     },
     {
       name: 'Necrozma',
@@ -67,7 +67,7 @@ const Necrozma: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'necrozma-dusk-mane',
-      spriteIndex: [18, 29],
+      spriteIndex: [20, 29],
     },
     {
       name: 'Necrozma',
@@ -98,7 +98,7 @@ const Necrozma: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'necrozma-dawn-wings',
-      spriteIndex: [19, 29],
+      spriteIndex: [21, 29],
     },
     {
       name: 'Necrozma',
@@ -129,9 +129,9 @@ const Necrozma: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'necrozma-ultra',
-      spriteIndex: [20, 29],
+      spriteIndex: [22, 29],
     },
   ],
-};
+}
 
-export { Necrozma };
+export { Necrozma }

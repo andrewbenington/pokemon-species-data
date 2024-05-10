@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Kabuto: Pokemon = {
   name: 'Kabuto',
@@ -39,6 +39,6 @@ const Kabuto: Pokemon = {
       spriteIndex: [13, 5],
     },
   ],
-};
+}
 
-export { Kabuto };
+export { Kabuto }

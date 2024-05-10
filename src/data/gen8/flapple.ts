@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Flapple: Pokemon = {
   name: 'Flapple',
@@ -36,9 +36,9 @@ const Flapple: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'flapple',
-      spriteIndex: [26, 30],
+      spriteIndex: [28, 30],
     },
   ],
-};
+}
 
-export { Flapple };
+export { Flapple }

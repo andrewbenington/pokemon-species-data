@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Maschiff: Pokemon = {
   name: 'Maschiff',
@@ -36,9 +36,9 @@ const Maschiff: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'maschiff',
-      spriteIndex: [11, 34],
+      spriteIndex: [13, 34],
     },
   ],
-};
+}
 
-export { Maschiff };
+export { Maschiff }

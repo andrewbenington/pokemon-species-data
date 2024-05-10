@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Farfetchd: Pokemon = {
   name: "Farfetch'd",
@@ -70,6 +70,6 @@ const Farfetchd: Pokemon = {
       spriteIndex: [13, 3],
     },
   ],
-};
+}
 
-export { Farfetchd };
+export { Farfetchd }

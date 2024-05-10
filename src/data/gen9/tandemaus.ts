@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Tandemaus: Pokemon = {
   name: 'Tandemaus',
@@ -39,9 +39,9 @@ const Tandemaus: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'tandemaus',
-      spriteIndex: [25, 33],
+      spriteIndex: [27, 33],
     },
   ],
-};
+}
 
-export { Tandemaus };
+export { Tandemaus }

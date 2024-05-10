@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Palkia: Pokemon = {
   name: 'Palkia',
@@ -70,6 +70,6 @@ const Palkia: Pokemon = {
       spriteIndex: [19, 17],
     },
   ],
-};
+}
 
-export { Palkia };
+export { Palkia }

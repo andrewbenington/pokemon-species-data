@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Miraidon: Pokemon = {
   name: 'Miraidon',
@@ -36,7 +36,7 @@ const Miraidon: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'miraidon',
-      spriteIndex: [9, 36],
+      spriteIndex: [12, 36],
     },
     {
       name: 'Miraidon',
@@ -67,7 +67,7 @@ const Miraidon: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'miraidon',
-      spriteIndex: [9, 36],
+      spriteIndex: [13, 36],
     },
     {
       name: 'Miraidon',
@@ -98,7 +98,7 @@ const Miraidon: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'miraidon',
-      spriteIndex: [9, 36],
+      spriteIndex: [13, 36],
     },
     {
       name: 'Miraidon',
@@ -129,7 +129,7 @@ const Miraidon: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'miraidon',
-      spriteIndex: [9, 36],
+      spriteIndex: [13, 36],
     },
     {
       name: 'Miraidon',
@@ -160,9 +160,9 @@ const Miraidon: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'miraidon',
-      spriteIndex: [9, 36],
+      spriteIndex: [13, 36],
     },
   ],
-};
+}
 
-export { Miraidon };
+export { Miraidon }

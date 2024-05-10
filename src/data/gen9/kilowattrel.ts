@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Kilowattrel: Pokemon = {
   name: 'Kilowattrel',
@@ -36,9 +36,9 @@ const Kilowattrel: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'kilowattrel',
-      spriteIndex: [10, 34],
+      spriteIndex: [12, 34],
     },
   ],
-};
+}
 
-export { Kilowattrel };
+export { Kilowattrel }

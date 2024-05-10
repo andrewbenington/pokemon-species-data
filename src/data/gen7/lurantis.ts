@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Lurantis: Pokemon = {
   name: 'Lurantis',
@@ -36,7 +36,7 @@ const Lurantis: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'lurantis',
-      spriteIndex: [7, 28],
+      spriteIndex: [9, 28],
     },
     {
       name: 'Lurantis',
@@ -67,9 +67,9 @@ const Lurantis: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'lurantis',
-      spriteIndex: [7, 28],
+      spriteIndex: [9, 28],
     },
   ],
-};
+}
 
-export { Lurantis };
+export { Lurantis }

@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Coalossal: Pokemon = {
   name: 'Coalossal',
@@ -36,9 +36,9 @@ const Coalossal: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'coalossal',
-      spriteIndex: [24, 30],
+      spriteIndex: [26, 30],
     },
   ],
-};
+}
 
-export { Coalossal };
+export { Coalossal }

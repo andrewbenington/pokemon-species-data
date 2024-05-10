@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Runerigus: Pokemon = {
   name: 'Runerigus',
@@ -36,9 +36,9 @@ const Runerigus: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'runerigus',
-      spriteIndex: [19, 31],
+      spriteIndex: [21, 31],
     },
   ],
-};
+}
 
-export { Runerigus };
+export { Runerigus }

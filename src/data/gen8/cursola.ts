@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Cursola: Pokemon = {
   name: 'Cursola',
@@ -36,9 +36,9 @@ const Cursola: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'cursola',
-      spriteIndex: [16, 31],
+      spriteIndex: [18, 31],
     },
   ],
-};
+}
 
-export { Cursola };
+export { Cursola }

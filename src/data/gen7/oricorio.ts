@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Oricorio: Pokemon = {
   name: 'Oricorio',
@@ -36,7 +36,7 @@ const Oricorio: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'oricorio-baile',
-      spriteIndex: [24, 27],
+      spriteIndex: [26, 27],
     },
     {
       name: 'Oricorio',
@@ -67,7 +67,7 @@ const Oricorio: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'oricorio-pom-pom',
-      spriteIndex: [25, 27],
+      spriteIndex: [27, 27],
     },
     {
       name: 'Oricorio',
@@ -98,7 +98,7 @@ const Oricorio: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'oricorio-pau',
-      spriteIndex: [26, 27],
+      spriteIndex: [28, 27],
     },
     {
       name: 'Oricorio',
@@ -129,9 +129,9 @@ const Oricorio: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'oricorio-sensu',
-      spriteIndex: [27, 27],
+      spriteIndex: [29, 27],
     },
   ],
-};
+}
 
-export { Oricorio };
+export { Oricorio }

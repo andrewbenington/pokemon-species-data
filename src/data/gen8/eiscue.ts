@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Eiscue: Pokemon = {
   name: 'Eiscue',
@@ -36,7 +36,7 @@ const Eiscue: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'eiscue',
-      spriteIndex: [35, 31],
+      spriteIndex: [1, 32],
     },
     {
       name: 'Eiscue',
@@ -67,9 +67,9 @@ const Eiscue: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'eiscue-noice',
-      spriteIndex: [0, 32],
+      spriteIndex: [2, 32],
     },
   ],
-};
+}
 
-export { Eiscue };
+export { Eiscue }

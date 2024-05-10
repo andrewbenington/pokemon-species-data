@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Lycanroc: Pokemon = {
   name: 'Lycanroc',
@@ -36,7 +36,7 @@ const Lycanroc: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'lycanroc-midday',
-      spriteIndex: [31, 27],
+      spriteIndex: [33, 27],
     },
     {
       name: 'Lycanroc',
@@ -67,7 +67,7 @@ const Lycanroc: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'lycanroc-midnight',
-      spriteIndex: [32, 27],
+      spriteIndex: [34, 27],
     },
     {
       name: 'Lycanroc',
@@ -98,9 +98,9 @@ const Lycanroc: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'lycanroc-dusk',
-      spriteIndex: [33, 27],
+      spriteIndex: [35, 27],
     },
   ],
-};
+}
 
-export { Lycanroc };
+export { Lycanroc }

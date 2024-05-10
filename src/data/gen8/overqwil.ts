@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Overqwil: Pokemon = {
   name: 'Overqwil',
@@ -36,9 +36,9 @@ const Overqwil: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'overqwil',
-      spriteIndex: [3, 33],
+      spriteIndex: [5, 33],
     },
   ],
-};
+}
 
-export { Overqwil };
+export { Overqwil }

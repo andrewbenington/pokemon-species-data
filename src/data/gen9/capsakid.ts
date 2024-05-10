@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Capsakid: Pokemon = {
   name: 'Capsakid',
@@ -36,9 +36,9 @@ const Capsakid: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'capsakid',
-      spriteIndex: [20, 34],
+      spriteIndex: [22, 34],
     },
   ],
-};
+}
 
-export { Capsakid };
+export { Capsakid }

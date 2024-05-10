@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const TypeNull: Pokemon = {
   name: 'Type: Null',
@@ -36,9 +36,9 @@ const TypeNull: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'type-null',
-      spriteIndex: [25, 28],
+      spriteIndex: [27, 28],
     },
   ],
-};
+}
 
-export { TypeNull };
+export { TypeNull }

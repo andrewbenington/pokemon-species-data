@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Rabsca: Pokemon = {
   name: 'Rabsca',
@@ -36,9 +36,9 @@ const Rabsca: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'rabsca',
-      spriteIndex: [23, 34],
+      spriteIndex: [25, 34],
     },
   ],
-};
+}
 
-export { Rabsca };
+export { Rabsca }

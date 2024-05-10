@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Omanyte: Pokemon = {
   name: 'Omanyte',
@@ -39,6 +39,6 @@ const Omanyte: Pokemon = {
       spriteIndex: [11, 5],
     },
   ],
-};
+}
 
-export { Omanyte };
+export { Omanyte }

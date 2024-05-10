@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Cetitan: Pokemon = {
   name: 'Cetitan',
@@ -36,9 +36,9 @@ const Cetitan: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'cetitan',
-      spriteIndex: [9, 35],
+      spriteIndex: [11, 35],
     },
   ],
-};
+}
 
-export { Cetitan };
+export { Cetitan }

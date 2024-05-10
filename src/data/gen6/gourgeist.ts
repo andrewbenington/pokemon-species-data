@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Gourgeist: Pokemon = {
   name: 'Gourgeist',
@@ -36,7 +36,7 @@ const Gourgeist: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'gourgeist',
-      spriteIndex: [21, 26],
+      spriteIndex: [22, 26],
     },
     {
       name: 'Gourgeist',
@@ -67,7 +67,7 @@ const Gourgeist: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'gourgeist-small',
-      spriteIndex: [22, 26],
+      spriteIndex: [23, 26],
     },
     {
       name: 'Gourgeist',
@@ -98,7 +98,7 @@ const Gourgeist: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'gourgeist-large',
-      spriteIndex: [23, 26],
+      spriteIndex: [24, 26],
     },
     {
       name: 'Gourgeist',
@@ -129,9 +129,9 @@ const Gourgeist: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'gourgeist-super',
-      spriteIndex: [24, 26],
+      spriteIndex: [25, 26],
     },
   ],
-};
+}
 
-export { Gourgeist };
+export { Gourgeist }

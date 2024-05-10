@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Alcremie: Pokemon = {
   name: 'Alcremie',
@@ -36,7 +36,7 @@ const Alcremie: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'alcremie-vanilla-cream',
-      spriteIndex: [21, 31],
+      spriteIndex: [23, 31],
     },
     {
       name: 'Alcremie',
@@ -67,7 +67,7 @@ const Alcremie: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'alcremie-ruby-cream',
-      spriteIndex: [22, 31],
+      spriteIndex: [24, 31],
     },
     {
       name: 'Alcremie',
@@ -98,7 +98,7 @@ const Alcremie: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'alcremie-matcha-cream',
-      spriteIndex: [23, 31],
+      spriteIndex: [25, 31],
     },
     {
       name: 'Alcremie',
@@ -129,7 +129,7 @@ const Alcremie: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'alcremie-mint-cream',
-      spriteIndex: [24, 31],
+      spriteIndex: [26, 31],
     },
     {
       name: 'Alcremie',
@@ -160,7 +160,7 @@ const Alcremie: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'alcremie-lemon-cream',
-      spriteIndex: [25, 31],
+      spriteIndex: [27, 31],
     },
     {
       name: 'Alcremie',
@@ -191,7 +191,7 @@ const Alcremie: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'alcremie-salted-cream',
-      spriteIndex: [26, 31],
+      spriteIndex: [28, 31],
     },
     {
       name: 'Alcremie',
@@ -222,7 +222,7 @@ const Alcremie: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'alcremie-ruby-swirl',
-      spriteIndex: [27, 31],
+      spriteIndex: [29, 31],
     },
     {
       name: 'Alcremie',
@@ -253,7 +253,7 @@ const Alcremie: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'alcremie-caramel-swirl',
-      spriteIndex: [28, 31],
+      spriteIndex: [30, 31],
     },
     {
       name: 'Alcremie',
@@ -284,9 +284,9 @@ const Alcremie: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'alcremie-rainbow-swirl',
-      spriteIndex: [29, 31],
+      spriteIndex: [31, 31],
     },
   ],
-};
+}
 
-export { Alcremie };
+export { Alcremie }

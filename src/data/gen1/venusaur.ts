@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Venusaur: Pokemon = {
   name: 'Venusaur',
@@ -70,6 +70,6 @@ const Venusaur: Pokemon = {
       spriteIndex: [4, 0],
     },
   ],
-};
+}
 
-export { Venusaur };
+export { Venusaur }

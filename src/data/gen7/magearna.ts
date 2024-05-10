@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Magearna: Pokemon = {
   name: 'Magearna',
@@ -36,7 +36,7 @@ const Magearna: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'magearna',
-      spriteIndex: [21, 29],
+      spriteIndex: [23, 29],
     },
     {
       name: 'Magearna',
@@ -67,9 +67,9 @@ const Magearna: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'magearna-original',
-      spriteIndex: [22, 29],
+      spriteIndex: [24, 29],
     },
   ],
-};
+}
 
-export { Magearna };
+export { Magearna }

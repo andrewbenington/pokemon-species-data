@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Vivillon: Pokemon = {
   name: 'Vivillon',
@@ -36,7 +36,7 @@ const Vivillon: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'vivillon',
-      spriteIndex: [35, 23],
+      spriteIndex: [0, 24],
     },
     {
       name: 'Vivillon',
@@ -67,7 +67,7 @@ const Vivillon: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'vivillon',
-      spriteIndex: [0, 24],
+      spriteIndex: [1, 24],
     },
     {
       name: 'Vivillon',
@@ -98,7 +98,7 @@ const Vivillon: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'vivillon',
-      spriteIndex: [1, 24],
+      spriteIndex: [2, 24],
     },
     {
       name: 'Vivillon',
@@ -129,7 +129,7 @@ const Vivillon: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'vivillon',
-      spriteIndex: [2, 24],
+      spriteIndex: [3, 24],
     },
     {
       name: 'Vivillon',
@@ -160,7 +160,7 @@ const Vivillon: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'vivillon',
-      spriteIndex: [3, 24],
+      spriteIndex: [4, 24],
     },
     {
       name: 'Vivillon',
@@ -191,7 +191,7 @@ const Vivillon: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'vivillon',
-      spriteIndex: [4, 24],
+      spriteIndex: [5, 24],
     },
     {
       name: 'Vivillon',
@@ -222,7 +222,7 @@ const Vivillon: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'vivillon',
-      spriteIndex: [5, 24],
+      spriteIndex: [6, 24],
     },
     {
       name: 'Vivillon',
@@ -253,7 +253,7 @@ const Vivillon: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'vivillon',
-      spriteIndex: [6, 24],
+      spriteIndex: [7, 24],
     },
     {
       name: 'Vivillon',
@@ -284,7 +284,7 @@ const Vivillon: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'vivillon',
-      spriteIndex: [7, 24],
+      spriteIndex: [8, 24],
     },
     {
       name: 'Vivillon',
@@ -315,7 +315,7 @@ const Vivillon: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'vivillon',
-      spriteIndex: [8, 24],
+      spriteIndex: [9, 24],
     },
     {
       name: 'Vivillon',
@@ -346,7 +346,7 @@ const Vivillon: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'vivillon',
-      spriteIndex: [9, 24],
+      spriteIndex: [10, 24],
     },
     {
       name: 'Vivillon',
@@ -377,7 +377,7 @@ const Vivillon: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'vivillon',
-      spriteIndex: [10, 24],
+      spriteIndex: [11, 24],
     },
     {
       name: 'Vivillon',
@@ -408,7 +408,7 @@ const Vivillon: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'vivillon',
-      spriteIndex: [11, 24],
+      spriteIndex: [12, 24],
     },
     {
       name: 'Vivillon',
@@ -439,7 +439,7 @@ const Vivillon: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'vivillon',
-      spriteIndex: [12, 24],
+      spriteIndex: [13, 24],
     },
     {
       name: 'Vivillon',
@@ -470,7 +470,7 @@ const Vivillon: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'vivillon',
-      spriteIndex: [13, 24],
+      spriteIndex: [14, 24],
     },
     {
       name: 'Vivillon',
@@ -501,7 +501,7 @@ const Vivillon: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'vivillon',
-      spriteIndex: [14, 24],
+      spriteIndex: [15, 24],
     },
     {
       name: 'Vivillon',
@@ -532,7 +532,7 @@ const Vivillon: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'vivillon',
-      spriteIndex: [15, 24],
+      spriteIndex: [16, 24],
     },
     {
       name: 'Vivillon',
@@ -563,7 +563,7 @@ const Vivillon: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'vivillon',
-      spriteIndex: [16, 24],
+      spriteIndex: [17, 24],
     },
     {
       name: 'Vivillon',
@@ -594,7 +594,7 @@ const Vivillon: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'vivillon-fancy',
-      spriteIndex: [17, 24],
+      spriteIndex: [18, 24],
     },
     {
       name: 'Vivillon',
@@ -625,9 +625,9 @@ const Vivillon: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'vivillon-pokeball',
-      spriteIndex: [18, 24],
+      spriteIndex: [19, 24],
     },
   ],
-};
+}
 
-export { Vivillon };
+export { Vivillon }

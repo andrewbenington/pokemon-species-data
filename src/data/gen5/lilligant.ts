@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Lilligant: Pokemon = {
   name: 'Lilligant',
@@ -70,6 +70,6 @@ const Lilligant: Pokemon = {
       spriteIndex: [34, 19],
     },
   ],
-};
+}
 
-export { Lilligant };
+export { Lilligant }

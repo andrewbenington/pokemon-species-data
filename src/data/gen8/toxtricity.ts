@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Toxtricity: Pokemon = {
   name: 'Toxtricity',
@@ -36,7 +36,7 @@ const Toxtricity: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'toxtricity',
-      spriteIndex: [0, 31],
+      spriteIndex: [2, 31],
     },
     {
       name: 'Toxtricity',
@@ -67,9 +67,9 @@ const Toxtricity: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'toxtricity-low-key',
-      spriteIndex: [1, 31],
+      spriteIndex: [3, 31],
     },
   ],
-};
+}
 
-export { Toxtricity };
+export { Toxtricity }

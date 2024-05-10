@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Cosmog: Pokemon = {
   name: 'Cosmog',
@@ -36,9 +36,9 @@ const Cosmog: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'cosmog',
-      spriteIndex: [6, 29],
+      spriteIndex: [8, 29],
     },
   ],
-};
+}
 
-export { Cosmog };
+export { Cosmog }

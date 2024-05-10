@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Regieleki: Pokemon = {
   name: 'Regieleki',
@@ -36,9 +36,9 @@ const Regieleki: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'regieleki',
-      spriteIndex: [25, 32],
+      spriteIndex: [27, 32],
     },
   ],
-};
+}
 
-export { Regieleki };
+export { Regieleki }

@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Charcadet: Pokemon = {
   name: 'Charcadet',
@@ -39,9 +39,9 @@ const Charcadet: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'charcadet',
-      spriteIndex: [4, 34],
+      spriteIndex: [6, 34],
     },
   ],
-};
+}
 
-export { Charcadet };
+export { Charcadet }

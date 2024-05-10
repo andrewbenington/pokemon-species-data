@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Audino: Pokemon = {
   name: 'Audino',
@@ -70,6 +70,6 @@ const Audino: Pokemon = {
       spriteIndex: [15, 19],
     },
   ],
-};
+}
 
-export { Audino };
+export { Audino }

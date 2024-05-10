@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Kommoo: Pokemon = {
   name: 'Kommo-o',
@@ -36,7 +36,7 @@ const Kommoo: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'kommo-o',
-      spriteIndex: [1, 29],
+      spriteIndex: [3, 29],
     },
     {
       name: 'Kommo-o',
@@ -67,9 +67,9 @@ const Kommoo: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'kommo-o',
-      spriteIndex: [1, 29],
+      spriteIndex: [3, 29],
     },
   ],
-};
+}
 
-export { Kommoo };
+export { Kommoo }

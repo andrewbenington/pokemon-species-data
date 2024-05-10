@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Seedot: Pokemon = {
   name: 'Seedot',
@@ -39,6 +39,6 @@ const Seedot: Pokemon = {
       spriteIndex: [16, 10],
     },
   ],
-};
+}
 
-export { Seedot };
+export { Seedot }

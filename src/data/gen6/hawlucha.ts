@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Hawlucha: Pokemon = {
   name: 'Hawlucha',
@@ -36,9 +36,9 @@ const Hawlucha: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'hawlucha',
-      spriteIndex: [6, 26],
+      spriteIndex: [7, 26],
     },
   ],
-};
+}
 
-export { Hawlucha };
+export { Hawlucha }

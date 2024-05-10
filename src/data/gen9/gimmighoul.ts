@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Gimmighoul: Pokemon = {
   name: 'Gimmighoul',
@@ -36,7 +36,7 @@ const Gimmighoul: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'gimmighoul',
-      spriteIndex: [35, 35],
+      spriteIndex: [1, 36],
     },
     {
       name: 'Gimmighoul',
@@ -67,9 +67,9 @@ const Gimmighoul: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'gimmighoul-roaming',
-      spriteIndex: [0, 36],
+      spriteIndex: [2, 36],
     },
   ],
-};
+}
 
-export { Gimmighoul };
+export { Gimmighoul }

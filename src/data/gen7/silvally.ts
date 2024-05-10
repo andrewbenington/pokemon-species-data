@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Silvally: Pokemon = {
   name: 'Silvally',
@@ -36,7 +36,7 @@ const Silvally: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'silvally',
-      spriteIndex: [26, 28],
+      spriteIndex: [28, 28],
     },
     {
       name: 'Silvally',
@@ -67,7 +67,7 @@ const Silvally: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'silvally-bug',
-      spriteIndex: [26, 28],
+      spriteIndex: [28, 28],
     },
     {
       name: 'Silvally',
@@ -98,7 +98,7 @@ const Silvally: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'silvally-dark',
-      spriteIndex: [26, 28],
+      spriteIndex: [28, 28],
     },
     {
       name: 'Silvally',
@@ -129,7 +129,7 @@ const Silvally: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'silvally-dragon',
-      spriteIndex: [26, 28],
+      spriteIndex: [28, 28],
     },
     {
       name: 'Silvally',
@@ -160,7 +160,7 @@ const Silvally: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'silvally-electric',
-      spriteIndex: [26, 28],
+      spriteIndex: [28, 28],
     },
     {
       name: 'Silvally',
@@ -191,7 +191,7 @@ const Silvally: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'silvally-fairy',
-      spriteIndex: [26, 28],
+      spriteIndex: [28, 28],
     },
     {
       name: 'Silvally',
@@ -222,7 +222,7 @@ const Silvally: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'silvally-fighting',
-      spriteIndex: [26, 28],
+      spriteIndex: [28, 28],
     },
     {
       name: 'Silvally',
@@ -253,7 +253,7 @@ const Silvally: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'silvally-fire',
-      spriteIndex: [26, 28],
+      spriteIndex: [28, 28],
     },
     {
       name: 'Silvally',
@@ -284,7 +284,7 @@ const Silvally: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'silvally-flying',
-      spriteIndex: [26, 28],
+      spriteIndex: [28, 28],
     },
     {
       name: 'Silvally',
@@ -315,7 +315,7 @@ const Silvally: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'silvally-ghost',
-      spriteIndex: [26, 28],
+      spriteIndex: [28, 28],
     },
     {
       name: 'Silvally',
@@ -346,7 +346,7 @@ const Silvally: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'silvally-grass',
-      spriteIndex: [26, 28],
+      spriteIndex: [28, 28],
     },
     {
       name: 'Silvally',
@@ -377,7 +377,7 @@ const Silvally: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'silvally-ground',
-      spriteIndex: [26, 28],
+      spriteIndex: [28, 28],
     },
     {
       name: 'Silvally',
@@ -408,7 +408,7 @@ const Silvally: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'silvally-ice',
-      spriteIndex: [26, 28],
+      spriteIndex: [28, 28],
     },
     {
       name: 'Silvally',
@@ -439,7 +439,7 @@ const Silvally: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'silvally-poison',
-      spriteIndex: [26, 28],
+      spriteIndex: [28, 28],
     },
     {
       name: 'Silvally',
@@ -470,7 +470,7 @@ const Silvally: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'silvally-psychic',
-      spriteIndex: [26, 28],
+      spriteIndex: [28, 28],
     },
     {
       name: 'Silvally',
@@ -501,7 +501,7 @@ const Silvally: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'silvally-rock',
-      spriteIndex: [26, 28],
+      spriteIndex: [28, 28],
     },
     {
       name: 'Silvally',
@@ -532,7 +532,7 @@ const Silvally: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'silvally-steel',
-      spriteIndex: [26, 28],
+      spriteIndex: [28, 28],
     },
     {
       name: 'Silvally',
@@ -563,9 +563,9 @@ const Silvally: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'silvally-water',
-      spriteIndex: [26, 28],
+      spriteIndex: [28, 28],
     },
   ],
-};
+}
 
-export { Silvally };
+export { Silvally }

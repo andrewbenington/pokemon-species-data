@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Shiinotic: Pokemon = {
   name: 'Shiinotic',
@@ -36,9 +36,9 @@ const Shiinotic: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'shiinotic',
-      spriteIndex: [9, 28],
+      spriteIndex: [11, 28],
     },
   ],
-};
+}
 
-export { Shiinotic };
+export { Shiinotic }

@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Varoom: Pokemon = {
   name: 'Varoom',
@@ -36,9 +36,9 @@ const Varoom: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'varoom',
-      spriteIndex: [35, 34],
+      spriteIndex: [1, 35],
     },
   ],
-};
+}
 
-export { Varoom };
+export { Varoom }

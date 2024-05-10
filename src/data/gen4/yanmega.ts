@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Yanmega: Pokemon = {
   name: 'Yanmega',
@@ -39,6 +39,6 @@ const Yanmega: Pokemon = {
       spriteIndex: [32, 16],
     },
   ],
-};
+}
 
-export { Yanmega };
+export { Yanmega }

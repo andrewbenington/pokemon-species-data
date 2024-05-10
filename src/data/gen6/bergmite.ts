@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Bergmite: Pokemon = {
   name: 'Bergmite',
@@ -39,9 +39,9 @@ const Bergmite: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'bergmite',
-      spriteIndex: [25, 26],
+      spriteIndex: [26, 26],
     },
   ],
-};
+}
 
-export { Bergmite };
+export { Bergmite }

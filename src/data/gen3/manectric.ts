@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Manectric: Pokemon = {
   name: 'Manectric',
@@ -70,6 +70,6 @@ const Manectric: Pokemon = {
       spriteIndex: [23, 11],
     },
   ],
-};
+}
 
-export { Manectric };
+export { Manectric }

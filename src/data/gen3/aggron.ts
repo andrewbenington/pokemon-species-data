@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Aggron: Pokemon = {
   name: 'Aggron',
@@ -70,6 +70,6 @@ const Aggron: Pokemon = {
       spriteIndex: [17, 11],
     },
   ],
-};
+}
 
-export { Aggron };
+export { Aggron }

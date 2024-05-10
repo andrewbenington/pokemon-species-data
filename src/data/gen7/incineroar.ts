@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Incineroar: Pokemon = {
   name: 'Incineroar',
@@ -36,9 +36,9 @@ const Incineroar: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'incineroar',
-      spriteIndex: [10, 27],
+      spriteIndex: [12, 27],
     },
   ],
-};
+}
 
-export { Incineroar };
+export { Incineroar }

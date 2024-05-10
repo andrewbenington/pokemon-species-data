@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Meltan: Pokemon = {
   name: 'Meltan',
@@ -36,9 +36,9 @@ const Meltan: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'meltan',
-      spriteIndex: [29, 29],
+      spriteIndex: [31, 29],
     },
   ],
-};
+}
 
-export { Meltan };
+export { Meltan }

@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const NidoranF: Pokemon = {
   name: 'Nidoran-F',
@@ -39,6 +39,6 @@ const NidoranF: Pokemon = {
       spriteIndex: [12, 1],
     },
   ],
-};
+}
 
-export { NidoranF };
+export { NidoranF }

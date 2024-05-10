@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Zarude: Pokemon = {
   name: 'Zarude',
@@ -36,7 +36,7 @@ const Zarude: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'zarude',
-      spriteIndex: [23, 32],
+      spriteIndex: [25, 32],
     },
     {
       name: 'Zarude',
@@ -67,9 +67,9 @@ const Zarude: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'zarude-dada',
-      spriteIndex: [24, 32],
+      spriteIndex: [26, 32],
     },
   ],
-};
+}
 
-export { Zarude };
+export { Zarude }

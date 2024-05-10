@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Exeggcute: Pokemon = {
   name: 'Exeggcute',
@@ -42,6 +42,6 @@ const Exeggcute: Pokemon = {
       spriteIndex: [1, 4],
     },
   ],
-};
+}
 
-export { Exeggcute };
+export { Exeggcute }

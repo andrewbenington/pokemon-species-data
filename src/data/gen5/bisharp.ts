@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Bisharp: Pokemon = {
   name: 'Bisharp',
@@ -39,6 +39,6 @@ const Bisharp: Pokemon = {
       spriteIndex: [18, 22],
     },
   ],
-};
+}
 
-export { Bisharp };
+export { Bisharp }

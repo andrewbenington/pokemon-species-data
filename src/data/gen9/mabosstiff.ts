@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Mabosstiff: Pokemon = {
   name: 'Mabosstiff',
@@ -36,9 +36,9 @@ const Mabosstiff: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'mabosstiff',
-      spriteIndex: [12, 34],
+      spriteIndex: [14, 34],
     },
   ],
-};
+}
 
-export { Mabosstiff };
+export { Mabosstiff }

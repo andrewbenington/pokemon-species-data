@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Toxel: Pokemon = {
   name: 'Toxel',
@@ -39,9 +39,9 @@ const Toxel: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'toxel',
-      spriteIndex: [35, 30],
+      spriteIndex: [1, 31],
     },
   ],
-};
+}
 
-export { Toxel };
+export { Toxel }

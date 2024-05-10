@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const TingLu: Pokemon = {
   name: 'Ting-Lu',
@@ -36,9 +36,9 @@ const TingLu: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'ting-lu',
-      spriteIndex: [4, 36],
+      spriteIndex: [6, 36],
     },
   ],
-};
+}
 
-export { TingLu };
+export { TingLu }

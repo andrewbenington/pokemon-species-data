@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Xatu: Pokemon = {
   name: 'Xatu',
@@ -39,6 +39,6 @@ const Xatu: Pokemon = {
       spriteIndex: [22, 6],
     },
   ],
-};
+}
 
-export { Xatu };
+export { Xatu }

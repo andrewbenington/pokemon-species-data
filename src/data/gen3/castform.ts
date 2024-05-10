@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Castform: Pokemon = {
   name: 'Castform',
@@ -132,6 +132,6 @@ const Castform: Pokemon = {
       spriteIndex: [34, 12],
     },
   ],
-};
+}
 
-export { Castform };
+export { Castform }

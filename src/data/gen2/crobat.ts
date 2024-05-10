@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Crobat: Pokemon = {
   name: 'Crobat',
@@ -39,6 +39,6 @@ const Crobat: Pokemon = {
       spriteIndex: [13, 6],
     },
   ],
-};
+}
 
-export { Crobat };
+export { Crobat }

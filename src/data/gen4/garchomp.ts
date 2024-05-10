@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Garchomp: Pokemon = {
   name: 'Garchomp',
@@ -70,6 +70,6 @@ const Garchomp: Pokemon = {
       spriteIndex: [6, 16],
     },
   ],
-};
+}
 
-export { Garchomp };
+export { Garchomp }

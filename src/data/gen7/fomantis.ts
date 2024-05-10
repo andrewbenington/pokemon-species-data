@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Fomantis: Pokemon = {
   name: 'Fomantis',
@@ -36,9 +36,9 @@ const Fomantis: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'fomantis',
-      spriteIndex: [6, 28],
+      spriteIndex: [8, 28],
     },
   ],
-};
+}
 
-export { Fomantis };
+export { Fomantis }

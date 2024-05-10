@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Raboot: Pokemon = {
   name: 'Raboot',
@@ -36,9 +36,9 @@ const Raboot: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'raboot',
-      spriteIndex: [35, 29],
+      spriteIndex: [1, 30],
     },
   ],
-};
+}
 
-export { Raboot };
+export { Raboot }

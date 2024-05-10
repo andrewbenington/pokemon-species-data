@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Omastar: Pokemon = {
   name: 'Omastar',
@@ -39,6 +39,6 @@ const Omastar: Pokemon = {
       spriteIndex: [12, 5],
     },
   ],
-};
+}
 
-export { Omastar };
+export { Omastar }

@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Pikachu: Pokemon = {
   name: 'Pikachu',
@@ -287,7 +287,7 @@ const Pikachu: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'pikachu',
-      spriteIndex: [33, 0],
+      spriteIndex: [4, 1],
     },
     {
       name: 'Pikachu',
@@ -321,6 +321,6 @@ const Pikachu: Pokemon = {
       spriteIndex: [5, 1],
     },
   ],
-};
+}
 
-export { Pikachu };
+export { Pikachu }

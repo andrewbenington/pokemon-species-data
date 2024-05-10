@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Prinplup: Pokemon = {
   name: 'Prinplup',
@@ -39,6 +39,6 @@ const Prinplup: Pokemon = {
       spriteIndex: [18, 14],
     },
   ],
-};
+}
 
-export { Prinplup };
+export { Prinplup }

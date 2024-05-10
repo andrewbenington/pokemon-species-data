@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Dondozo: Pokemon = {
   name: 'Dondozo',
@@ -36,9 +36,9 @@ const Dondozo: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'dondozo',
-      spriteIndex: [11, 35],
+      spriteIndex: [13, 35],
     },
   ],
-};
+}
 
-export { Dondozo };
+export { Dondozo }

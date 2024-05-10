@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Xerneas: Pokemon = {
   name: 'Xerneas',
@@ -36,7 +36,7 @@ const Xerneas: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'xerneas',
-      spriteIndex: [30, 26],
+      spriteIndex: [31, 26],
     },
     {
       name: 'Xerneas',
@@ -67,9 +67,9 @@ const Xerneas: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'xerneas',
-      spriteIndex: [31, 26],
+      spriteIndex: [32, 26],
     },
   ],
-};
+}
 
-export { Xerneas };
+export { Xerneas }

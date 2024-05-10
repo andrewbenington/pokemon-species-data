@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Buneary: Pokemon = {
   name: 'Buneary',
@@ -39,6 +39,6 @@ const Buneary: Pokemon = {
       spriteIndex: [22, 15],
     },
   ],
-};
+}
 
-export { Buneary };
+export { Buneary }

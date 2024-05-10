@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Skeledirge: Pokemon = {
   name: 'Skeledirge',
@@ -36,9 +36,9 @@ const Skeledirge: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'skeledirge',
-      spriteIndex: [11, 33],
+      spriteIndex: [13, 33],
     },
   ],
-};
+}
 
-export { Skeledirge };
+export { Skeledirge }

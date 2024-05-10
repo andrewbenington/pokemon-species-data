@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const FlutterMane: Pokemon = {
   name: 'Flutter Mane',
@@ -36,9 +36,9 @@ const FlutterMane: Pokemon = {
       paradox: true,
       cosmeticForme: false,
       sprite: 'flutter-mane',
-      spriteIndex: [23, 35],
+      spriteIndex: [25, 35],
     },
   ],
-};
+}
 
-export { FlutterMane };
+export { FlutterMane }

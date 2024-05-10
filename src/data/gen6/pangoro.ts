@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Pangoro: Pokemon = {
   name: 'Pangoro',
@@ -36,9 +36,9 @@ const Pangoro: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'pangoro',
-      spriteIndex: [5, 25],
+      spriteIndex: [6, 25],
     },
   ],
-};
+}
 
-export { Pangoro };
+export { Pangoro }

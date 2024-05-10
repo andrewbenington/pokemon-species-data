@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Sinistea: Pokemon = {
   name: 'Sinistea',
@@ -36,7 +36,7 @@ const Sinistea: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'sinistea',
-      spriteIndex: [6, 31],
+      spriteIndex: [8, 31],
     },
     {
       name: 'Sinistea',
@@ -67,9 +67,9 @@ const Sinistea: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'sinistea',
-      spriteIndex: [6, 31],
+      spriteIndex: [8, 31],
     },
   ],
-};
+}
 
-export { Sinistea };
+export { Sinistea }

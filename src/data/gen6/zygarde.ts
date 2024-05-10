@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Zygarde: Pokemon = {
   name: 'Zygarde',
@@ -36,7 +36,7 @@ const Zygarde: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'zygarde-50',
-      spriteIndex: [33, 26],
+      spriteIndex: [34, 26],
     },
     {
       name: 'Zygarde',
@@ -67,7 +67,7 @@ const Zygarde: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'zygarde-10',
-      spriteIndex: [34, 26],
+      spriteIndex: [35, 26],
     },
     {
       name: 'Zygarde',
@@ -98,7 +98,7 @@ const Zygarde: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'zygarde-10',
-      spriteIndex: [34, 26],
+      spriteIndex: [35, 26],
     },
     {
       name: 'Zygarde',
@@ -129,9 +129,9 @@ const Zygarde: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'zygarde-complete',
-      spriteIndex: [33, 26],
+      spriteIndex: [0, 27],
     },
   ],
-};
+}
 
-export { Zygarde };
+export { Zygarde }

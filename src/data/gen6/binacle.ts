@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Binacle: Pokemon = {
   name: 'Binacle',
@@ -36,9 +36,9 @@ const Binacle: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'binacle',
-      spriteIndex: [29, 25],
+      spriteIndex: [30, 25],
     },
   ],
-};
+}
 
-export { Binacle };
+export { Binacle }

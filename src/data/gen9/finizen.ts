@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Finizen: Pokemon = {
   name: 'Finizen',
@@ -36,9 +36,9 @@ const Finizen: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'finizen',
-      spriteIndex: [32, 34],
+      spriteIndex: [34, 34],
     },
   ],
-};
+}
 
-export { Finizen };
+export { Finizen }

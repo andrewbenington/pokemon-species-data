@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Spectrier: Pokemon = {
   name: 'Spectrier',
@@ -36,9 +36,9 @@ const Spectrier: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'spectrier',
-      spriteIndex: [28, 32],
+      spriteIndex: [30, 32],
     },
   ],
-};
+}
 
-export { Spectrier };
+export { Spectrier }

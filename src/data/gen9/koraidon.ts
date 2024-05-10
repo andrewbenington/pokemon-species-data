@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Koraidon: Pokemon = {
   name: 'Koraidon',
@@ -36,7 +36,7 @@ const Koraidon: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'koraidon',
-      spriteIndex: [8, 36],
+      spriteIndex: [10, 36],
     },
     {
       name: 'Koraidon',
@@ -67,7 +67,7 @@ const Koraidon: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'koraidon',
-      spriteIndex: [8, 36],
+      spriteIndex: [11, 36],
     },
     {
       name: 'Koraidon',
@@ -98,7 +98,7 @@ const Koraidon: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'koraidon',
-      spriteIndex: [8, 36],
+      spriteIndex: [11, 36],
     },
     {
       name: 'Koraidon',
@@ -129,7 +129,7 @@ const Koraidon: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'koraidon',
-      spriteIndex: [8, 36],
+      spriteIndex: [11, 36],
     },
     {
       name: 'Koraidon',
@@ -160,9 +160,9 @@ const Koraidon: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'koraidon',
-      spriteIndex: [8, 36],
+      spriteIndex: [11, 36],
     },
   ],
-};
+}
 
-export { Koraidon };
+export { Koraidon }

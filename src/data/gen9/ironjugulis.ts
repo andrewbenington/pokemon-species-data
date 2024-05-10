@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const IronJugulis: Pokemon = {
   name: 'Iron Jugulis',
@@ -36,9 +36,9 @@ const IronJugulis: Pokemon = {
       paradox: true,
       cosmeticForme: false,
       sprite: 'iron-jugulis',
-      spriteIndex: [29, 35],
+      spriteIndex: [31, 35],
     },
   ],
-};
+}
 
-export { IronJugulis };
+export { IronJugulis }

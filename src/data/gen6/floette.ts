@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Floette: Pokemon = {
   name: 'Floette',
@@ -36,7 +36,7 @@ const Floette: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'floette-red',
-      spriteIndex: [27, 24],
+      spriteIndex: [28, 24],
     },
     {
       name: 'Floette',
@@ -67,7 +67,7 @@ const Floette: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'floette-blue',
-      spriteIndex: [28, 24],
+      spriteIndex: [29, 24],
     },
     {
       name: 'Floette',
@@ -98,7 +98,7 @@ const Floette: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'floette-orange',
-      spriteIndex: [29, 24],
+      spriteIndex: [30, 24],
     },
     {
       name: 'Floette',
@@ -129,7 +129,7 @@ const Floette: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'floette-white',
-      spriteIndex: [30, 24],
+      spriteIndex: [31, 24],
     },
     {
       name: 'Floette',
@@ -160,7 +160,7 @@ const Floette: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'floette-yellow',
-      spriteIndex: [31, 24],
+      spriteIndex: [32, 24],
     },
     {
       name: 'Floette',
@@ -191,9 +191,9 @@ const Floette: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'floette-eternal',
-      spriteIndex: [32, 24],
+      spriteIndex: [33, 24],
     },
   ],
-};
+}
 
-export { Floette };
+export { Floette }

@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Klinklang: Pokemon = {
   name: 'Klinklang',
@@ -39,6 +39,6 @@ const Klinklang: Pokemon = {
       spriteIndex: [29, 21],
     },
   ],
-};
+}
 
-export { Klinklang };
+export { Klinklang }

@@ -1,6 +1,6 @@
 // This file is auto-generated. Do not modify.
 
-import { Pokemon } from '../../types';
+import { Pokemon } from '../../types'
 
 const Pumpkaboo: Pokemon = {
   name: 'Pumpkaboo',
@@ -36,7 +36,7 @@ const Pumpkaboo: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'pumpkaboo',
-      spriteIndex: [17, 26],
+      spriteIndex: [18, 26],
     },
     {
       name: 'Pumpkaboo',
@@ -67,7 +67,7 @@ const Pumpkaboo: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'pumpkaboo-small',
-      spriteIndex: [18, 26],
+      spriteIndex: [19, 26],
     },
     {
       name: 'Pumpkaboo',
@@ -98,7 +98,7 @@ const Pumpkaboo: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'pumpkaboo-large',
-      spriteIndex: [19, 26],
+      spriteIndex: [20, 26],
     },
     {
       name: 'Pumpkaboo',
@@ -129,9 +129,9 @@ const Pumpkaboo: Pokemon = {
       paradox: false,
       cosmeticForme: false,
       sprite: 'pumpkaboo-super',
-      spriteIndex: [20, 26],
+      spriteIndex: [21, 26],
     },
   ],
-};
+}
 
-export { Pumpkaboo };
+export { Pumpkaboo }

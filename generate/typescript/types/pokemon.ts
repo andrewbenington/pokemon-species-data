@@ -1,4 +1,4 @@
-import Forme from './forme';
+import Forme from './forme'
 
 export type LevelUpType =
   | 'Slow'
@@ -6,13 +6,13 @@ export type LevelUpType =
   | 'Medium Fast'
   | 'Fast'
   | 'Erratic'
-  | 'Fluctuating';
+  | 'Fluctuating'
 
 type Pokemon = {
-  readonly name: string;
-  readonly nationalDex: number;
-  readonly formes: readonly Forme[];
-  readonly levelUpType: LevelUpType;
-};
+  readonly name: string
+  readonly nationalDex: number
+  readonly formes: readonly Forme[]
+  readonly levelUpType: LevelUpType
+}
 
-export default Pokemon;
+export default Pokemon

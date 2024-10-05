@@ -25,13 +25,3 @@ generate: generate/typescript/out/typescript/generate.js
 	@echo "generating typescript..."
 	@ts-node ./generate/typescript/generate.ts
 	@npx prettier --log-level error --write  "{,!(node_modules)/**/}*.ts"
-
-generate/out/syncPKHexResources.js: generate/syncPKHexResources.ts
-	@echo "compiling generate/syncPKHexResources.ts..."
-	@cd generate && tsc
-
-.PHONY: sync-resources
-sync-resources: generate/out
-	@echo "syncing PKHex resources..."
-	@ts-node --lib es7 ./generate/syncPKHexResources.ts
-	@echo "syncing finished"

@@ -240,7 +240,6 @@ const generatePokemonObjectLiteral = (pokemon: Pokemon) => {
 function generatePokemonTypeImport() {
   return ts.factory.createImportDeclaration(
     undefined,
-    undefined,
     ts.factory.createImportClause(
       false,
       undefined,
@@ -254,7 +253,6 @@ function generatePokemonTypeImport() {
 
 function generatePokemonExport(mon: string) {
   return ts.factory.createExportDeclaration(
-    undefined,
     undefined,
     false,
     ts.factory.createNamedExports([
@@ -340,7 +338,6 @@ function generateGenerationIndexFile(gen: number, mons: Pokemon[]) {
   const importStatements = mons.map((mon) =>
     ts.factory.createImportDeclaration(
       undefined,
-      undefined,
       ts.factory.createImportClause(
         false,
         undefined,
@@ -363,7 +360,6 @@ function generateGenerationIndexFile(gen: number, mons: Pokemon[]) {
   const exportStatements = mons.map((mon) =>
     ts.factory.createExportDeclaration(
       undefined,
-      undefined,
       false,
       ts.factory.createNamespaceExport(ts.factory.createIdentifier(cleanedName(mon.name))),
       ts.factory.createStringLiteral(`./${cleanedName(mon.name).toLowerCase()}`)
@@ -382,7 +378,6 @@ function generateGenerationIndexFile(gen: number, mons: Pokemon[]) {
   const genMonExportString = printer.printNode(
     ts.EmitHint.Unspecified,
     ts.factory.createExportDeclaration(
-      undefined,
       undefined,
       false,
       ts.factory.createNamedExports([

@@ -53,7 +53,6 @@ const generateEnum = (
   })
 
   const enumDeclaration = ts.factory.createEnumDeclaration(
-    undefined,
     [ts.factory.createModifier(ts.SyntaxKind.ExportKeyword)],
     ts.factory.createIdentifier(enumName),
     enumMembers

@@ -45717,13 +45717,13 @@
       },
       {
         "name": "Flab\u00e9b\u00e9",
-        "formeName": "Flab\u00e9b\u00e9-Blue",
-        "formeNumber": 1,
+        "formeName": "Flab\u00e9b\u00e9-Yellow",
+        "formeNumber": 4,
         "isBaseForme": false,
         "isMega": false,
         "isGMax": false,
         "isBattleOnly": false,
-        "alias": "flab\u00e9b\u00e9blue",
+        "alias": "flab\u00e9b\u00e9yellow",
         "types": ["Fairy"],
         "genderRatio": {
           "M": 0.0,
@@ -45744,7 +45744,7 @@
         "evos": [
           {
             "dexNumber": 670,
-            "formeNumber": 1
+            "formeNumber": 4
           }
         ],
         "eggGroups": ["Fairy"],
@@ -45759,8 +45759,8 @@
         "ultraBeast": false,
         "paradox": false,
         "cosmeticForme": true,
-        "sprite": "flabebe-blue",
-        "spriteIndex": [24, 24]
+        "sprite": "flabebe-yellow",
+        "spriteIndex": [27, 24]
       },
       {
         "name": "Flab\u00e9b\u00e9",
@@ -45811,6 +45811,53 @@
       },
       {
         "name": "Flab\u00e9b\u00e9",
+        "formeName": "Flab\u00e9b\u00e9-Blue",
+        "formeNumber": 1,
+        "isBaseForme": false,
+        "isMega": false,
+        "isGMax": false,
+        "isBattleOnly": false,
+        "alias": "flab\u00e9b\u00e9blue",
+        "types": ["Fairy"],
+        "genderRatio": {
+          "M": 0.0,
+          "F": 1.0
+        },
+        "baseStats": {
+          "hp": 44,
+          "atk": 38,
+          "def": 39,
+          "spa": 61,
+          "spd": 79,
+          "spe": 42
+        },
+        "ability1": "Flower Veil",
+        "abilityH": "Symbiosis",
+        "height": 0.1,
+        "weight": 0.1,
+        "evos": [
+          {
+            "dexNumber": 670,
+            "formeNumber": 1
+          }
+        ],
+        "eggGroups": ["Fairy"],
+        "gen": 6,
+        "baseFriendship": 50,
+        "evYield": {
+          "spd": 1
+        },
+        "restrictedLegendary": false,
+        "subLegendary": false,
+        "mythical": false,
+        "ultraBeast": false,
+        "paradox": false,
+        "cosmeticForme": true,
+        "sprite": "flabebe-blue",
+        "spriteIndex": [24, 24]
+      },
+      {
+        "name": "Flab\u00e9b\u00e9",
         "formeName": "Flab\u00e9b\u00e9-White",
         "formeNumber": 3,
         "isBaseForme": false,
@@ -45855,53 +45902,6 @@
         "cosmeticForme": true,
         "sprite": "flabebe-white",
         "spriteIndex": [26, 24]
-      },
-      {
-        "name": "Flab\u00e9b\u00e9",
-        "formeName": "Flab\u00e9b\u00e9-Yellow",
-        "formeNumber": 4,
-        "isBaseForme": false,
-        "isMega": false,
-        "isGMax": false,
-        "isBattleOnly": false,
-        "alias": "flab\u00e9b\u00e9yellow",
-        "types": ["Fairy"],
-        "genderRatio": {
-          "M": 0.0,
-          "F": 1.0
-        },
-        "baseStats": {
-          "hp": 44,
-          "atk": 38,
-          "def": 39,
-          "spa": 61,
-          "spd": 79,
-          "spe": 42
-        },
-        "ability1": "Flower Veil",
-        "abilityH": "Symbiosis",
-        "height": 0.1,
-        "weight": 0.1,
-        "evos": [
-          {
-            "dexNumber": 670,
-            "formeNumber": 4
-          }
-        ],
-        "eggGroups": ["Fairy"],
-        "gen": 6,
-        "baseFriendship": 50,
-        "evYield": {
-          "spd": 1
-        },
-        "restrictedLegendary": false,
-        "subLegendary": false,
-        "mythical": false,
-        "ultraBeast": false,
-        "paradox": false,
-        "cosmeticForme": true,
-        "sprite": "flabebe-yellow",
-        "spriteIndex": [27, 24]
       }
     ],
     "levelUpType": "Medium Fast"
@@ -45963,13 +45963,13 @@
       },
       {
         "name": "Floette",
-        "formeName": "Floette-Blue",
-        "formeNumber": 1,
+        "formeName": "Floette-Yellow",
+        "formeNumber": 4,
         "isBaseForme": false,
         "isMega": false,
         "isGMax": false,
         "isBattleOnly": false,
-        "alias": "floetteblue",
+        "alias": "floetteyellow",
         "types": ["Fairy"],
         "genderRatio": {
           "M": 0.0,
@@ -45990,12 +45990,12 @@
         "evos": [
           {
             "dexNumber": 671,
-            "formeNumber": 1
+            "formeNumber": 4
           }
         ],
         "prevo": {
           "dexNumber": 669,
-          "formeNumber": 1
+          "formeNumber": 4
         },
         "eggGroups": ["Fairy"],
         "gen": 6,
@@ -46009,8 +46009,8 @@
         "ultraBeast": false,
         "paradox": false,
         "cosmeticForme": true,
-        "sprite": "floette-blue",
-        "spriteIndex": [29, 24]
+        "sprite": "floette-yellow",
+        "spriteIndex": [32, 24]
       },
       {
         "name": "Floette",
@@ -46065,6 +46065,57 @@
       },
       {
         "name": "Floette",
+        "formeName": "Floette-Blue",
+        "formeNumber": 1,
+        "isBaseForme": false,
+        "isMega": false,
+        "isGMax": false,
+        "isBattleOnly": false,
+        "alias": "floetteblue",
+        "types": ["Fairy"],
+        "genderRatio": {
+          "M": 0.0,
+          "F": 1.0
+        },
+        "baseStats": {
+          "hp": 54,
+          "atk": 45,
+          "def": 47,
+          "spa": 75,
+          "spd": 98,
+          "spe": 52
+        },
+        "ability1": "Flower Veil",
+        "abilityH": "Symbiosis",
+        "height": 0.2,
+        "weight": 0.9,
+        "evos": [
+          {
+            "dexNumber": 671,
+            "formeNumber": 1
+          }
+        ],
+        "prevo": {
+          "dexNumber": 669,
+          "formeNumber": 1
+        },
+        "eggGroups": ["Fairy"],
+        "gen": 6,
+        "baseFriendship": 50,
+        "evYield": {
+          "spd": 2
+        },
+        "restrictedLegendary": false,
+        "subLegendary": false,
+        "mythical": false,
+        "ultraBeast": false,
+        "paradox": false,
+        "cosmeticForme": true,
+        "sprite": "floette-blue",
+        "spriteIndex": [29, 24]
+      },
+      {
+        "name": "Floette",
         "formeName": "Floette-White",
         "formeNumber": 3,
         "isBaseForme": false,
@@ -46113,57 +46164,6 @@
         "cosmeticForme": true,
         "sprite": "floette-white",
         "spriteIndex": [31, 24]
-      },
-      {
-        "name": "Floette",
-        "formeName": "Floette-Yellow",
-        "formeNumber": 4,
-        "isBaseForme": false,
-        "isMega": false,
-        "isGMax": false,
-        "isBattleOnly": false,
-        "alias": "floetteyellow",
-        "types": ["Fairy"],
-        "genderRatio": {
-          "M": 0.0,
-          "F": 1.0
-        },
-        "baseStats": {
-          "hp": 54,
-          "atk": 45,
-          "def": 47,
-          "spa": 75,
-          "spd": 98,
-          "spe": 52
-        },
-        "ability1": "Flower Veil",
-        "abilityH": "Symbiosis",
-        "height": 0.2,
-        "weight": 0.9,
-        "evos": [
-          {
-            "dexNumber": 671,
-            "formeNumber": 4
-          }
-        ],
-        "prevo": {
-          "dexNumber": 669,
-          "formeNumber": 4
-        },
-        "eggGroups": ["Fairy"],
-        "gen": 6,
-        "baseFriendship": 50,
-        "evYield": {
-          "spd": 2
-        },
-        "restrictedLegendary": false,
-        "subLegendary": false,
-        "mythical": false,
-        "ultraBeast": false,
-        "paradox": false,
-        "cosmeticForme": true,
-        "sprite": "floette-yellow",
-        "spriteIndex": [32, 24]
       },
       {
         "name": "Floette",
@@ -46257,13 +46257,13 @@
       },
       {
         "name": "Florges",
-        "formeName": "Florges-Blue",
-        "formeNumber": 1,
+        "formeName": "Florges-Yellow",
+        "formeNumber": 4,
         "isBaseForme": false,
         "isMega": false,
         "isGMax": false,
         "isBattleOnly": false,
-        "alias": "florgesblue",
+        "alias": "florgesyellow",
         "types": ["Fairy"],
         "genderRatio": {
           "M": 0.0,
@@ -46284,7 +46284,7 @@
         "evos": [],
         "prevo": {
           "dexNumber": 670,
-          "formeNumber": 1
+          "formeNumber": 4
         },
         "eggGroups": ["Fairy"],
         "gen": 6,
@@ -46298,8 +46298,8 @@
         "ultraBeast": false,
         "paradox": false,
         "cosmeticForme": true,
-        "sprite": "florges-blue",
-        "spriteIndex": [35, 24]
+        "sprite": "florges-yellow",
+        "spriteIndex": [2, 25]
       },
       {
         "name": "Florges",
@@ -46349,6 +46349,52 @@
       },
       {
         "name": "Florges",
+        "formeName": "Florges-Blue",
+        "formeNumber": 1,
+        "isBaseForme": false,
+        "isMega": false,
+        "isGMax": false,
+        "isBattleOnly": false,
+        "alias": "florgesblue",
+        "types": ["Fairy"],
+        "genderRatio": {
+          "M": 0.0,
+          "F": 1.0
+        },
+        "baseStats": {
+          "hp": 78,
+          "atk": 65,
+          "def": 68,
+          "spa": 112,
+          "spd": 154,
+          "spe": 75
+        },
+        "ability1": "Flower Veil",
+        "abilityH": "Symbiosis",
+        "height": 1.1,
+        "weight": 10.0,
+        "evos": [],
+        "prevo": {
+          "dexNumber": 670,
+          "formeNumber": 1
+        },
+        "eggGroups": ["Fairy"],
+        "gen": 6,
+        "baseFriendship": 50,
+        "evYield": {
+          "spd": 3
+        },
+        "restrictedLegendary": false,
+        "subLegendary": false,
+        "mythical": false,
+        "ultraBeast": false,
+        "paradox": false,
+        "cosmeticForme": true,
+        "sprite": "florges-blue",
+        "spriteIndex": [35, 24]
+      },
+      {
+        "name": "Florges",
         "formeName": "Florges-White",
         "formeNumber": 3,
         "isBaseForme": false,
@@ -46392,52 +46438,6 @@
         "cosmeticForme": true,
         "sprite": "florges-white",
         "spriteIndex": [1, 25]
-      },
-      {
-        "name": "Florges",
-        "formeName": "Florges-Yellow",
-        "formeNumber": 4,
-        "isBaseForme": false,
-        "isMega": false,
-        "isGMax": false,
-        "isBattleOnly": false,
-        "alias": "florgesyellow",
-        "types": ["Fairy"],
-        "genderRatio": {
-          "M": 0.0,
-          "F": 1.0
-        },
-        "baseStats": {
-          "hp": 78,
-          "atk": 65,
-          "def": 68,
-          "spa": 112,
-          "spd": 154,
-          "spe": 75
-        },
-        "ability1": "Flower Veil",
-        "abilityH": "Symbiosis",
-        "height": 1.1,
-        "weight": 10.0,
-        "evos": [],
-        "prevo": {
-          "dexNumber": 670,
-          "formeNumber": 4
-        },
-        "eggGroups": ["Fairy"],
-        "gen": 6,
-        "baseFriendship": 50,
-        "evYield": {
-          "spd": 3
-        },
-        "restrictedLegendary": false,
-        "subLegendary": false,
-        "mythical": false,
-        "ultraBeast": false,
-        "paradox": false,
-        "cosmeticForme": true,
-        "sprite": "florges-yellow",
-        "spriteIndex": [2, 25]
       }
     ],
     "levelUpType": "Medium Fast"

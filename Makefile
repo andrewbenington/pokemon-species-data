@@ -1,4 +1,4 @@
-VERSION=0.4.3
+VERSION=0.4.4
 
 .PHONY: build
 build:
@@ -15,6 +15,7 @@ lint:
 .PHONY: set-version
 set-version:
 	@npm version $(VERSION) --no-git-tag-version --allow-same-version
+	@git add . && git commit -m 'bump version to $(VERSION)'
 
 generate/typescript/out/typescript/generate.js:
 	@echo "compiling generate/typescript/*.ts..."

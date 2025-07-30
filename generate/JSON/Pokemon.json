@@ -64012,7 +64012,7 @@
       },
       {
         "name": "Squawkabilly",
-        "formeName": "Squawkabilly-White",
+        "formeName": "Squawkabilly-Yellow",
         "baseStats": {
           "hp": 82,
           "atk": 96,
@@ -64050,12 +64050,12 @@
         "ultraBeast": false,
         "paradox": false,
         "cosmeticForme": false,
-        "sprite": "squawkabilly-white",
-        "spriteIndex": [1, 34]
+        "sprite": "squawkabilly-yellow",
+        "spriteIndex": [2, 34]
       },
       {
         "name": "Squawkabilly",
-        "formeName": "Squawkabilly-Yellow",
+        "formeName": "Squawkabilly-White",
         "baseStats": {
           "hp": 82,
           "atk": 96,
@@ -64093,8 +64093,8 @@
         "ultraBeast": false,
         "paradox": false,
         "cosmeticForme": false,
-        "sprite": "squawkabilly-yellow",
-        "spriteIndex": [2, 34]
+        "sprite": "squawkabilly-white",
+        "spriteIndex": [1, 34]
       }
     ],
     "levelUpType": "Erratic"

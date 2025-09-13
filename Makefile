@@ -1,4 +1,4 @@
-VERSION=0.4.8
+VERSION=0.4.9
 
 .PHONY: build
 build:
@@ -26,3 +26,8 @@ generate: generate/typescript/out/typescript/generate.js
 	@echo "generating typescript..."
 	@ts-node ./generate/typescript/generate.ts
 	@npx prettier --log-level error --write  "{,!(node_modules)/**/}*.ts"
+
+.PHONY: publish
+publish:
+	@npm run build
+	@npm publish

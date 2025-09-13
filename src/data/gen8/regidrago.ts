@@ -19,7 +19,7 @@ const Regidrago: Pokemon = {
       types: ['Dragon'],
       genderRatio: { male: 0, female: 0 },
       baseStats: { hp: 200, atk: 100, def: 50, spa: 100, spd: 50, spe: 80 },
-      ability1: "Dragon's Maw",
+      ability1: 'Dragon\u2019s Maw',
       ability2: null,
       abilityH: null,
       height: 2.1,

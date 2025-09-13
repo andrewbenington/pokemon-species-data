@@ -61707,7 +61707,7 @@
           "spd": 50,
           "spe": 80
         },
-        "ability1": "Dragon's Maw",
+        "ability1": "Dragon\u2019s Maw",
         "height": 2.1,
         "weight": 200.0,
         "evos": [],
@@ -62145,7 +62145,7 @@
           "spe": 52
         },
         "types": ["Ground", "Normal"],
-        "ability1": "Minds Eye",
+        "ability1": "Mind\u2019s Eye",
         "spriteIndex": [1, 33],
         "sprite": "ursaluna-bloodmoon"
       }

@@ -50,7 +50,7 @@ const Ursaluna: Pokemon = {
       types: ['Ground', 'Normal'],
       genderRatio: { male: 0.5, female: 0.5 },
       baseStats: { hp: 113, atk: 70, def: 120, spa: 135, spd: 65, spe: 52 },
-      ability1: 'Minds Eye',
+      ability1: 'Mind\u2019s Eye',
       ability2: null,
       abilityH: null,
       height: 2.4,

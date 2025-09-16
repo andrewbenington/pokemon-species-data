@@ -1,6 +1,6 @@
 {
   "name": "pokemon-species-data",
-  "version": "0.4.10",
+  "version": "0.4.11",
   "description": "Pokémon species and form metadata",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",

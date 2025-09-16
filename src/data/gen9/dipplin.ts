@@ -24,7 +24,7 @@ const Dipplin: Pokemon = {
       abilityH: 'Sticky Hold',
       height: 0.4,
       weight: 9.7,
-      evos: [],
+      evos: [{ dexNumber: 1019, formeNumber: 0 }],
       prevo: { dexNumber: 840, formeNumber: 0 },
       eggGroups: ['Grass', 'Dragon'],
       gen: 9,

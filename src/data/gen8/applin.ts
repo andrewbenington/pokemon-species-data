@@ -27,6 +27,7 @@ const Applin: Pokemon = {
       evos: [
         { dexNumber: 841, formeNumber: 0 },
         { dexNumber: 842, formeNumber: 0 },
+        { dexNumber: 1011, formeNumber: 0 },
       ],
       prevo: null,
       eggGroups: ['Grass', 'Dragon'],

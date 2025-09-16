@@ -58012,6 +58012,10 @@
           {
             "dexNumber": 842,
             "formeNumber": 0
+          },
+          {
+            "dexNumber": 1011,
+            "formeNumber": 0
           }
         ],
         "eggGroups": ["Grass", "Dragon"],
@@ -60944,7 +60948,7 @@
         "abilityH": "Stalwart",
         "height": 1.8,
         "weight": 40,
-        "evos": [],
+        "evos": [{ "dexNumber": 1018, "formeNumber": 0 }],
         "eggGroups": ["Mineral", "Dragon"],
         "gen": 8,
         "restrictedLegendary": false,
@@ -68772,7 +68776,7 @@
         "isMythical": false,
         "height": 0.4,
         "weight": 9.7,
-        "evos": [],
+        "evos": [{ "dexNumber": 1019, "formeNumber": 0 }],
         "eggGroups": ["Grass", "Dragon"],
         "baseFriendship": 0,
         "genderRatio": {

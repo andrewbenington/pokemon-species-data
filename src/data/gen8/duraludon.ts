@@ -24,7 +24,7 @@ const Duraludon: Pokemon = {
       abilityH: 'Stalwart',
       height: 1.8,
       weight: 40,
-      evos: [],
+      evos: [{ dexNumber: 1018, formeNumber: 0 }],
       prevo: null,
       eggGroups: ['Mineral', 'Dragon'],
       gen: 8,

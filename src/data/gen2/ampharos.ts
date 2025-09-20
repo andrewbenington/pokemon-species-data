@@ -58,7 +58,7 @@ const Ampharos: Pokemon = {
       evos: [],
       prevo: null,
       eggGroups: ['Monster', 'Field'],
-      gen: 2,
+      gen: 6,
       restrictedLegendary: false,
       regional: null,
       subLegendary: false,

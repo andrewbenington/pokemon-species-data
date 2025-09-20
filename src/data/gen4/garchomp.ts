@@ -58,7 +58,7 @@ const Garchomp: Pokemon = {
       evos: [],
       prevo: null,
       eggGroups: ['Monster', 'Dragon'],
-      gen: 4,
+      gen: 6,
       restrictedLegendary: false,
       regional: null,
       subLegendary: false,

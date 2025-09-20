@@ -41,7 +41,7 @@ const Floette: Pokemon = {
     {
       name: 'Floette',
       formeName: 'Floette-Yellow',
-      formeNumber: 4,
+      formeNumber: 1,
       isBaseForme: false,
       isMega: false,
       isGMax: false,
@@ -103,7 +103,7 @@ const Floette: Pokemon = {
     {
       name: 'Floette',
       formeName: 'Floette-Blue',
-      formeNumber: 1,
+      formeNumber: 3,
       isBaseForme: false,
       isMega: false,
       isGMax: false,
@@ -134,7 +134,7 @@ const Floette: Pokemon = {
     {
       name: 'Floette',
       formeName: 'Floette-White',
-      formeNumber: 3,
+      formeNumber: 4,
       isBaseForme: false,
       isMega: false,
       isGMax: false,

@@ -33,7 +33,7 @@ const IronBoulder: Pokemon = {
       subLegendary: false,
       mythical: false,
       ultraBeast: false,
-      paradox: false,
+      paradox: true,
       cosmeticForme: false,
       sprite: 'iron-boulder',
       spriteIndex: [30, 36],

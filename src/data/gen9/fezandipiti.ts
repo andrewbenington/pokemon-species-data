@@ -30,7 +30,7 @@ const Fezandipiti: Pokemon = {
       gen: 9,
       restrictedLegendary: false,
       regional: null,
-      subLegendary: false,
+      subLegendary: true,
       mythical: false,
       ultraBeast: false,
       paradox: false,

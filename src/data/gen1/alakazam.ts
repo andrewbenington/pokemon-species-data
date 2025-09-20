@@ -58,7 +58,7 @@ const Alakazam: Pokemon = {
       evos: [],
       prevo: null,
       eggGroups: ['Human-Like'],
-      gen: 1,
+      gen: 6,
       restrictedLegendary: false,
       regional: null,
       subLegendary: false,

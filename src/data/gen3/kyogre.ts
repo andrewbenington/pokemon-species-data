@@ -58,7 +58,7 @@ const Kyogre: Pokemon = {
       evos: [],
       prevo: null,
       eggGroups: ['Undiscovered'],
-      gen: 3,
+      gen: 6,
       restrictedLegendary: false,
       regional: null,
       subLegendary: false,

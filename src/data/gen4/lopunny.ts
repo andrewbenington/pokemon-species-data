@@ -58,7 +58,7 @@ const Lopunny: Pokemon = {
       evos: [],
       prevo: null,
       eggGroups: ['Field', 'Human-Like'],
-      gen: 4,
+      gen: 6,
       restrictedLegendary: false,
       regional: null,
       subLegendary: false,

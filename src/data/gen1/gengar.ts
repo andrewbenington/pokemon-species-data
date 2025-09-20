@@ -58,7 +58,7 @@ const Gengar: Pokemon = {
       evos: [],
       prevo: null,
       eggGroups: ['Amorphous'],
-      gen: 1,
+      gen: 6,
       restrictedLegendary: false,
       regional: null,
       subLegendary: false,

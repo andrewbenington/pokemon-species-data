@@ -58,7 +58,7 @@ const Gyarados: Pokemon = {
       evos: [],
       prevo: null,
       eggGroups: ['Water 2', 'Dragon'],
-      gen: 1,
+      gen: 6,
       restrictedLegendary: false,
       regional: null,
       subLegendary: false,

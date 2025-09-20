@@ -58,7 +58,7 @@ const Pinsir: Pokemon = {
       evos: [],
       prevo: null,
       eggGroups: ['Bug'],
-      gen: 1,
+      gen: 6,
       restrictedLegendary: false,
       regional: null,
       subLegendary: false,

@@ -41,7 +41,7 @@ const Alcremie: Pokemon = {
     {
       name: 'Alcremie',
       formeName: 'Alcremie-Ruby-Cream',
-      formeNumber: 0,
+      formeNumber: 1,
       isBaseForme: false,
       isMega: false,
       isGMax: false,
@@ -72,7 +72,7 @@ const Alcremie: Pokemon = {
     {
       name: 'Alcremie',
       formeName: 'Alcremie-Matcha-Cream',
-      formeNumber: 64,
+      formeNumber: 2,
       isBaseForme: false,
       isMega: false,
       isGMax: false,
@@ -103,7 +103,7 @@ const Alcremie: Pokemon = {
     {
       name: 'Alcremie',
       formeName: 'Alcremie-Mint-Cream',
-      formeNumber: 128,
+      formeNumber: 3,
       isBaseForme: false,
       isMega: false,
       isGMax: false,
@@ -134,7 +134,7 @@ const Alcremie: Pokemon = {
     {
       name: 'Alcremie',
       formeName: 'Alcremie-Lemon-Cream',
-      formeNumber: 192,
+      formeNumber: 4,
       isBaseForme: false,
       isMega: false,
       isGMax: false,
@@ -165,7 +165,7 @@ const Alcremie: Pokemon = {
     {
       name: 'Alcremie',
       formeName: 'Alcremie-Salted-Cream',
-      formeNumber: 256,
+      formeNumber: 5,
       isBaseForme: false,
       isMega: false,
       isGMax: false,
@@ -196,7 +196,7 @@ const Alcremie: Pokemon = {
     {
       name: 'Alcremie',
       formeName: 'Alcremie-Ruby-Swirl',
-      formeNumber: 320,
+      formeNumber: 6,
       isBaseForme: false,
       isMega: false,
       isGMax: false,
@@ -227,7 +227,7 @@ const Alcremie: Pokemon = {
     {
       name: 'Alcremie',
       formeName: 'Alcremie-Caramel-Swirl',
-      formeNumber: 384,
+      formeNumber: 7,
       isBaseForme: false,
       isMega: false,
       isGMax: false,
@@ -258,7 +258,7 @@ const Alcremie: Pokemon = {
     {
       name: 'Alcremie',
       formeName: 'Alcremie-Rainbow-Swirl',
-      formeNumber: 448,
+      formeNumber: 8,
       isBaseForme: false,
       isMega: false,
       isGMax: false,

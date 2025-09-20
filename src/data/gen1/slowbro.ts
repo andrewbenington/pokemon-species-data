@@ -58,7 +58,7 @@ const Slowbro: Pokemon = {
       evos: [],
       prevo: null,
       eggGroups: ['Monster', 'Water 1'],
-      gen: 1,
+      gen: 6,
       restrictedLegendary: false,
       regional: null,
       subLegendary: false,

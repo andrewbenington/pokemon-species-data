@@ -58,7 +58,7 @@ const Abomasnow: Pokemon = {
       evos: [],
       prevo: null,
       eggGroups: ['Monster', 'Grass'],
-      gen: 4,
+      gen: 6,
       restrictedLegendary: false,
       regional: null,
       subLegendary: false,

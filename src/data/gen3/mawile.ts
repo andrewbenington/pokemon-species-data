@@ -58,7 +58,7 @@ const Mawile: Pokemon = {
       evos: [],
       prevo: null,
       eggGroups: ['Field', 'Fairy'],
-      gen: 3,
+      gen: 6,
       restrictedLegendary: false,
       regional: null,
       subLegendary: false,

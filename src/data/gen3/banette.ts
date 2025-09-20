@@ -58,7 +58,7 @@ const Banette: Pokemon = {
       evos: [],
       prevo: null,
       eggGroups: ['Amorphous'],
-      gen: 3,
+      gen: 6,
       restrictedLegendary: false,
       regional: null,
       subLegendary: false,

@@ -31,7 +31,7 @@ const Pecharunt: Pokemon = {
       restrictedLegendary: false,
       regional: null,
       subLegendary: false,
-      mythical: false,
+      mythical: true,
       ultraBeast: false,
       paradox: false,
       cosmeticForme: false,

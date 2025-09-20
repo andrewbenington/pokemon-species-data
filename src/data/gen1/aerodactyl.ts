@@ -58,7 +58,7 @@ const Aerodactyl: Pokemon = {
       evos: [],
       prevo: null,
       eggGroups: ['Flying'],
-      gen: 1,
+      gen: 6,
       restrictedLegendary: false,
       regional: null,
       subLegendary: false,

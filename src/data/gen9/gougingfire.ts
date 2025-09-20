@@ -33,7 +33,7 @@ const GougingFire: Pokemon = {
       subLegendary: false,
       mythical: false,
       ultraBeast: false,
-      paradox: false,
+      paradox: true,
       cosmeticForme: false,
       sprite: 'gouging-fire',
       spriteIndex: [28, 36],

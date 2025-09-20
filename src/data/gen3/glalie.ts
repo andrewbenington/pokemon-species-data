@@ -58,7 +58,7 @@ const Glalie: Pokemon = {
       evos: [],
       prevo: null,
       eggGroups: ['Fairy', 'Mineral'],
-      gen: 3,
+      gen: 6,
       restrictedLegendary: false,
       regional: null,
       subLegendary: false,

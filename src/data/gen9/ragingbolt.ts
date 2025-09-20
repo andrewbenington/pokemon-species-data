@@ -33,7 +33,7 @@ const RagingBolt: Pokemon = {
       subLegendary: false,
       mythical: false,
       ultraBeast: false,
-      paradox: false,
+      paradox: true,
       cosmeticForme: false,
       sprite: 'raging-bolt',
       spriteIndex: [29, 36],

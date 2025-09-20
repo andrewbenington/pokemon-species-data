@@ -58,7 +58,7 @@ const Gallade: Pokemon = {
       evos: [],
       prevo: null,
       eggGroups: ['Amorphous'],
-      gen: 4,
+      gen: 6,
       restrictedLegendary: false,
       regional: null,
       subLegendary: false,

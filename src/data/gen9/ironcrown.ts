@@ -33,7 +33,7 @@ const IronCrown: Pokemon = {
       subLegendary: false,
       mythical: false,
       ultraBeast: false,
-      paradox: false,
+      paradox: true,
       cosmeticForme: false,
       sprite: 'iron-crown',
       spriteIndex: [31, 36],

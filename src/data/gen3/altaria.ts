@@ -58,7 +58,7 @@ const Altaria: Pokemon = {
       evos: [],
       prevo: null,
       eggGroups: ['Flying', 'Dragon'],
-      gen: 3,
+      gen: 6,
       restrictedLegendary: false,
       regional: null,
       subLegendary: false,

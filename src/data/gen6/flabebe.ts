@@ -41,7 +41,7 @@ const Flabebe: Pokemon = {
     {
       name: 'Flab\u00E9b\u00E9',
       formeName: 'Flab\u00E9b\u00E9-Yellow',
-      formeNumber: 4,
+      formeNumber: 1,
       isBaseForme: false,
       isMega: false,
       isGMax: false,
@@ -67,7 +67,7 @@ const Flabebe: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'flabebe-yellow',
-      spriteIndex: [27, 24],
+      spriteIndex: [24, 24],
     },
     {
       name: 'Flab\u00E9b\u00E9',
@@ -103,7 +103,7 @@ const Flabebe: Pokemon = {
     {
       name: 'Flab\u00E9b\u00E9',
       formeName: 'Flab\u00E9b\u00E9-Blue',
-      formeNumber: 1,
+      formeNumber: 3,
       isBaseForme: false,
       isMega: false,
       isGMax: false,
@@ -129,12 +129,12 @@ const Flabebe: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'flabebe-blue',
-      spriteIndex: [24, 24],
+      spriteIndex: [26, 24],
     },
     {
       name: 'Flab\u00E9b\u00E9',
       formeName: 'Flab\u00E9b\u00E9-White',
-      formeNumber: 3,
+      formeNumber: 4,
       isBaseForme: false,
       isMega: false,
       isGMax: false,
@@ -160,7 +160,7 @@ const Flabebe: Pokemon = {
       paradox: false,
       cosmeticForme: true,
       sprite: 'flabebe-white',
-      spriteIndex: [26, 24],
+      spriteIndex: [27, 24],
     },
   ],
 }

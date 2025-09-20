@@ -58,7 +58,7 @@ const Medicham: Pokemon = {
       evos: [],
       prevo: null,
       eggGroups: ['Human-Like'],
-      gen: 3,
+      gen: 6,
       restrictedLegendary: false,
       regional: null,
       subLegendary: false,

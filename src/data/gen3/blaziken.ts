@@ -58,7 +58,7 @@ const Blaziken: Pokemon = {
       evos: [],
       prevo: null,
       eggGroups: ['Field'],
-      gen: 3,
+      gen: 6,
       restrictedLegendary: false,
       regional: null,
       subLegendary: false,

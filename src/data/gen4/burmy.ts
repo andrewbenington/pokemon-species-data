@@ -76,7 +76,7 @@ const Burmy: Pokemon = {
       ultraBeast: false,
       paradox: false,
       cosmeticForme: true,
-      sprite: 'burmy',
+      sprite: 'burmy-sandy',
       spriteIndex: [1, 15],
     },
     {
@@ -112,7 +112,7 @@ const Burmy: Pokemon = {
       ultraBeast: false,
       paradox: false,
       cosmeticForme: true,
-      sprite: 'burmy',
+      sprite: 'burmy-trash',
       spriteIndex: [2, 15],
     },
   ],

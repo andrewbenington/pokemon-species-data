@@ -45,7 +45,7 @@ const Kyogre: Pokemon = {
       isBaseForme: false,
       isMega: false,
       isGMax: false,
-      isBattleOnly: false,
+      isBattleOnly: true,
       alias: 'kyogreprimal',
       types: ['Water'],
       genderRatio: { male: 0, female: 0 },

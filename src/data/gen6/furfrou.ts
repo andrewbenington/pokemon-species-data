@@ -66,7 +66,7 @@ const Furfrou: Pokemon = {
       ultraBeast: false,
       paradox: false,
       cosmeticForme: true,
-      sprite: 'furfrou',
+      sprite: 'furfrou-dandy',
       spriteIndex: [8, 25],
     },
     {
@@ -97,7 +97,7 @@ const Furfrou: Pokemon = {
       ultraBeast: false,
       paradox: false,
       cosmeticForme: true,
-      sprite: 'furfrou',
+      sprite: 'furfrou-debutante',
       spriteIndex: [9, 25],
     },
     {
@@ -128,7 +128,7 @@ const Furfrou: Pokemon = {
       ultraBeast: false,
       paradox: false,
       cosmeticForme: true,
-      sprite: 'furfrou',
+      sprite: 'furfrou-diamond',
       spriteIndex: [10, 25],
     },
     {
@@ -159,7 +159,7 @@ const Furfrou: Pokemon = {
       ultraBeast: false,
       paradox: false,
       cosmeticForme: true,
-      sprite: 'furfrou',
+      sprite: 'furfrou-heart',
       spriteIndex: [11, 25],
     },
     {
@@ -190,12 +190,12 @@ const Furfrou: Pokemon = {
       ultraBeast: false,
       paradox: false,
       cosmeticForme: true,
-      sprite: 'furfrou',
+      sprite: 'furfrou-kabuki',
       spriteIndex: [12, 25],
     },
     {
       name: 'Furfrou',
-      formeName: 'Furfrou-La Reine',
+      formeName: 'Furfrou-La-Reine',
       formeNumber: 7,
       isBaseForme: false,
       isMega: false,
@@ -221,7 +221,7 @@ const Furfrou: Pokemon = {
       ultraBeast: false,
       paradox: false,
       cosmeticForme: true,
-      sprite: 'furfrou',
+      sprite: 'furfrou-la-reine',
       spriteIndex: [13, 25],
     },
     {
@@ -252,7 +252,7 @@ const Furfrou: Pokemon = {
       ultraBeast: false,
       paradox: false,
       cosmeticForme: true,
-      sprite: 'furfrou',
+      sprite: 'furfrou-matron',
       spriteIndex: [14, 25],
     },
     {
@@ -283,7 +283,7 @@ const Furfrou: Pokemon = {
       ultraBeast: false,
       paradox: false,
       cosmeticForme: true,
-      sprite: 'furfrou',
+      sprite: 'furfrou-pharaoh',
       spriteIndex: [15, 25],
     },
     {
@@ -314,7 +314,7 @@ const Furfrou: Pokemon = {
       ultraBeast: false,
       paradox: false,
       cosmeticForme: true,
-      sprite: 'furfrou',
+      sprite: 'furfrou-star',
       spriteIndex: [16, 25],
     },
   ],

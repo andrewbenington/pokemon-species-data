@@ -66,7 +66,7 @@ const Urshifu: Pokemon = {
       ultraBeast: false,
       paradox: false,
       cosmeticForme: false,
-      sprite: 'urshifu',
+      sprite: 'urshifu-rapid-strike',
       spriteIndex: [24, 32],
     },
   ],

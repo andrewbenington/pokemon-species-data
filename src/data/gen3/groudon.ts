@@ -45,7 +45,7 @@ const Groudon: Pokemon = {
       isBaseForme: false,
       isMega: false,
       isGMax: false,
-      isBattleOnly: false,
+      isBattleOnly: true,
       alias: 'groudonprimal',
       types: ['Ground', 'Fire'],
       genderRatio: { male: 0, female: 0 },

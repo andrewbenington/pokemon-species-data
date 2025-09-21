@@ -9417,7 +9417,7 @@
         "weight": 6.5,
         "evos": [],
         "eggGroups": ["Undiscovered"],
-        "gen": 1,
+        "gen": 7,
         "restrictedLegendary": false,
         "subLegendary": false,
         "mythical": false,
@@ -11739,7 +11739,7 @@
         "weight": 2,
         "evos": [],
         "eggGroups": ["Undiscovered"],
-        "gen": 2,
+        "gen": 4,
         "restrictedLegendary": false,
         "subLegendary": false,
         "mythical": false,
@@ -14379,7 +14379,7 @@
         "weight": 5,
         "evos": [],
         "eggGroups": ["Undiscovered"],
-        "gen": 2,
+        "gen": 3,
         "restrictedLegendary": false,
         "subLegendary": false,
         "mythical": false,
@@ -14416,7 +14416,7 @@
         "weight": 5,
         "evos": [],
         "eggGroups": ["Undiscovered"],
-        "gen": 2,
+        "gen": 3,
         "restrictedLegendary": false,
         "subLegendary": false,
         "mythical": false,
@@ -24925,7 +24925,7 @@
         "isBaseForme": false,
         "isMega": false,
         "isGMax": false,
-        "isBattleOnly": false,
+        "isBattleOnly": true,
         "alias": "kyogreprimal",
         "types": ["Water"],
         "genderRatio": {
@@ -25010,7 +25010,7 @@
         "isBaseForme": false,
         "isMega": false,
         "isGMax": false,
-        "isBattleOnly": false,
+        "isBattleOnly": true,
         "alias": "groudonprimal",
         "types": ["Ground", "Fire"],
         "genderRatio": {
@@ -26738,7 +26738,7 @@
         "ultraBeast": false,
         "paradox": false,
         "cosmeticForme": true,
-        "sprite": "burmy",
+        "sprite": "burmy-sandy",
         "spriteIndex": [1, 15]
       },
       {
@@ -26793,7 +26793,7 @@
         "ultraBeast": false,
         "paradox": false,
         "cosmeticForme": true,
-        "sprite": "burmy",
+        "sprite": "burmy-trash",
         "spriteIndex": [2, 15]
       }
     ],
@@ -31131,7 +31131,7 @@
         "weight": 850.0,
         "evos": [],
         "eggGroups": ["Undiscovered"],
-        "gen": 4,
+        "gen": 8,
         "baseFriendship": 0,
         "evYield": {
           "spa": 3
@@ -31142,7 +31142,7 @@
         "ultraBeast": false,
         "paradox": false,
         "cosmeticForme": true,
-        "sprite": "dialga",
+        "sprite": "dialga-origin",
         "spriteIndex": [17, 17]
       }
     ],
@@ -31222,7 +31222,7 @@
         "weight": 660.0,
         "evos": [],
         "eggGroups": ["Undiscovered"],
-        "gen": 4,
+        "gen": 8,
         "baseFriendship": 0,
         "evYield": {
           "spa": 3
@@ -31233,7 +31233,7 @@
         "ultraBeast": false,
         "paradox": false,
         "cosmeticForme": true,
-        "sprite": "palkia",
+        "sprite": "palkia-origin",
         "spriteIndex": [19, 17]
       }
     ],
@@ -32411,7 +32411,7 @@
         "weight": 320.0,
         "evos": [],
         "eggGroups": ["Undiscovered"],
-        "gen": 4,
+        "gen": 6,
         "baseFriendship": 0,
         "evYield": {
           "hp": 3
@@ -32463,7 +32463,7 @@
         "ultraBeast": false,
         "paradox": false,
         "cosmeticForme": false,
-        "sprite": "arceus-legend",
+        "sprite": "arceus",
         "spriteIndex": [30, 17]
       }
     ],
@@ -37738,10 +37738,6 @@
         "evos": [
           {
             "dexNumber": 586,
-            "formeNumber": 0
-          },
-          {
-            "dexNumber": 586,
             "formeNumber": 1
           }
         ],
@@ -37790,10 +37786,6 @@
         "evos": [
           {
             "dexNumber": 586,
-            "formeNumber": 0
-          },
-          {
-            "dexNumber": 586,
             "formeNumber": 2
           }
         ],
@@ -37840,10 +37832,6 @@
         "height": 0.6,
         "weight": 19.5,
         "evos": [
-          {
-            "dexNumber": 586,
-            "formeNumber": 0
-          },
           {
             "dexNumber": 586,
             "formeNumber": 3
@@ -41437,7 +41425,7 @@
         "isBaseForme": false,
         "isMega": false,
         "isGMax": false,
-        "isBattleOnly": false,
+        "isBattleOnly": true,
         "alias": "keldeoresolute",
         "types": ["Water", "Fighting"],
         "genderRatio": {
@@ -42249,12 +42237,53 @@
       },
       {
         "name": "Greninja",
+        "formeName": "Greninja-Battle-Bond",
+        "formeNumber": 1,
+        "isBaseForme": false,
+        "isMega": false,
+        "isGMax": false,
+        "isBattleOnly": false,
+        "alias": "greninjabattlebond",
+        "types": ["Water", "Dark"],
+        "genderRatio": {
+          "M": 0.875,
+          "F": 0.125
+        },
+        "baseStats": {
+          "hp": 72,
+          "atk": 95,
+          "def": 67,
+          "spa": 103,
+          "spd": 71,
+          "spe": 122
+        },
+        "ability1": "Battle Bond",
+        "height": 1.5,
+        "weight": 40.0,
+        "evos": [],
+        "eggGroups": ["Undiscovered"],
+        "gen": 7,
+        "baseFriendship": 50,
+        "evYield": {
+          "spe": 3
+        },
+        "restrictedLegendary": false,
+        "subLegendary": false,
+        "mythical": false,
+        "ultraBeast": false,
+        "paradox": false,
+        "cosmeticForme": false,
+        "sprite": "greninja-ash",
+        "spriteIndex": [28, 23]
+      },
+      {
+        "name": "Greninja",
         "formeName": "Greninja-Ash",
         "formeNumber": 2,
         "isBaseForme": false,
         "isMega": false,
         "isGMax": false,
-        "isBattleOnly": "Greninja",
+        "isBattleOnly": true,
         "alias": "greninjaash",
         "types": ["Water", "Dark"],
         "genderRatio": {
@@ -42274,7 +42303,7 @@
         "weight": 40.0,
         "evos": [],
         "eggGroups": ["Undiscovered"],
-        "gen": 6,
+        "gen": 7,
         "baseFriendship": 50,
         "evYield": {
           "spe": 3
@@ -46766,7 +46795,7 @@
         "ultraBeast": false,
         "paradox": false,
         "cosmeticForme": true,
-        "sprite": "furfrou",
+        "sprite": "furfrou-dandy",
         "spriteIndex": [8, 25]
       },
       {
@@ -46803,7 +46832,7 @@
         "ultraBeast": false,
         "paradox": false,
         "cosmeticForme": true,
-        "sprite": "furfrou",
+        "sprite": "furfrou-debutante",
         "spriteIndex": [9, 25]
       },
       {
@@ -46840,7 +46869,7 @@
         "ultraBeast": false,
         "paradox": false,
         "cosmeticForme": true,
-        "sprite": "furfrou",
+        "sprite": "furfrou-diamond",
         "spriteIndex": [10, 25]
       },
       {
@@ -46877,7 +46906,7 @@
         "ultraBeast": false,
         "paradox": false,
         "cosmeticForme": true,
-        "sprite": "furfrou",
+        "sprite": "furfrou-heart",
         "spriteIndex": [11, 25]
       },
       {
@@ -46914,12 +46943,12 @@
         "ultraBeast": false,
         "paradox": false,
         "cosmeticForme": true,
-        "sprite": "furfrou",
+        "sprite": "furfrou-kabuki",
         "spriteIndex": [12, 25]
       },
       {
         "name": "Furfrou",
-        "formeName": "Furfrou-La Reine",
+        "formeName": "Furfrou-La-Reine",
         "formeNumber": 7,
         "isBaseForme": false,
         "isMega": false,
@@ -46951,7 +46980,7 @@
         "ultraBeast": false,
         "paradox": false,
         "cosmeticForme": true,
-        "sprite": "furfrou",
+        "sprite": "furfrou-la-reine",
         "spriteIndex": [13, 25]
       },
       {
@@ -46988,7 +47017,7 @@
         "ultraBeast": false,
         "paradox": false,
         "cosmeticForme": true,
-        "sprite": "furfrou",
+        "sprite": "furfrou-matron",
         "spriteIndex": [14, 25]
       },
       {
@@ -47025,7 +47054,7 @@
         "ultraBeast": false,
         "paradox": false,
         "cosmeticForme": true,
-        "sprite": "furfrou",
+        "sprite": "furfrou-pharaoh",
         "spriteIndex": [15, 25]
       },
       {
@@ -47062,7 +47091,7 @@
         "ultraBeast": false,
         "paradox": false,
         "cosmeticForme": true,
-        "sprite": "furfrou",
+        "sprite": "furfrou-star",
         "spriteIndex": [16, 25]
       }
     ],
@@ -49580,46 +49609,9 @@
     "formes": [
       {
         "name": "Xerneas",
-        "formeName": "Xerneas-Active",
-        "formeNumber": 0,
-        "isBaseForme": true,
-        "isMega": false,
-        "isGMax": false,
-        "isBattleOnly": false,
-        "alias": "xerneas",
-        "types": ["Fairy"],
-        "genderRatio": {
-          "M": 0,
-          "F": 0
-        },
-        "baseStats": {
-          "hp": 126,
-          "atk": 131,
-          "def": 95,
-          "spa": 131,
-          "spd": 98,
-          "spe": 99
-        },
-        "ability1": "Fairy Aura",
-        "height": 3,
-        "weight": 215,
-        "evos": [],
-        "eggGroups": ["Undiscovered"],
-        "gen": 6,
-        "restrictedLegendary": true,
-        "subLegendary": false,
-        "mythical": false,
-        "ultraBeast": false,
-        "paradox": false,
-        "cosmeticForme": false,
-        "sprite": "xerneas",
-        "spriteIndex": [31, 26]
-      },
-      {
-        "name": "Xerneas",
         "formeName": "Xerneas-Neutral",
         "formeNumber": 0,
-        "isBaseForme": false,
+        "isBaseForme": true,
         "isMega": false,
         "isGMax": false,
         "isBattleOnly": false,
@@ -49651,6 +49643,43 @@
         "cosmeticForme": false,
         "sprite": "xerneas",
         "spriteIndex": [32, 26]
+      },
+      {
+        "name": "Xerneas",
+        "formeName": "Xerneas-Active",
+        "formeNumber": 1,
+        "isBaseForme": false,
+        "isMega": false,
+        "isGMax": false,
+        "isBattleOnly": true,
+        "alias": "xerneasactive",
+        "types": ["Fairy"],
+        "genderRatio": {
+          "M": 0,
+          "F": 0
+        },
+        "baseStats": {
+          "hp": 126,
+          "atk": 131,
+          "def": 95,
+          "spa": 131,
+          "spd": 98,
+          "spe": 99
+        },
+        "ability1": "Fairy Aura",
+        "height": 3,
+        "weight": 215,
+        "evos": [],
+        "eggGroups": ["Undiscovered"],
+        "gen": 6,
+        "restrictedLegendary": true,
+        "subLegendary": false,
+        "mythical": false,
+        "ultraBeast": false,
+        "paradox": false,
+        "cosmeticForme": false,
+        "sprite": "xerneas-active",
+        "spriteIndex": [31, 26]
       }
     ],
     "levelUpType": "Slow"
@@ -54019,7 +54048,7 @@
         "isBaseForme": false,
         "isMega": false,
         "isGMax": false,
-        "isBattleOnly": "Minior",
+        "isBattleOnly": false,
         "alias": "miniormeteorred",
         "types": ["Rock", "Flying"],
         "genderRatio": {
@@ -54052,11 +54081,11 @@
       {
         "name": "Minior",
         "formeName": "Minior-Meteor-Orange",
-        "formeNumber": 0,
+        "formeNumber": 1,
         "isBaseForme": false,
         "isMega": false,
         "isGMax": false,
-        "isBattleOnly": "Minior",
+        "isBattleOnly": false,
         "alias": "miniormeteororange",
         "types": ["Rock", "Flying"],
         "genderRatio": {
@@ -54089,11 +54118,11 @@
       {
         "name": "Minior",
         "formeName": "Minior-Meteor-Yellow",
-        "formeNumber": 0,
+        "formeNumber": 2,
         "isBaseForme": false,
         "isMega": false,
         "isGMax": false,
-        "isBattleOnly": "Minior",
+        "isBattleOnly": false,
         "alias": "miniormeteoryellow",
         "types": ["Rock", "Flying"],
         "genderRatio": {
@@ -54126,11 +54155,11 @@
       {
         "name": "Minior",
         "formeName": "Minior-Meteor-Green",
-        "formeNumber": 0,
+        "formeNumber": 3,
         "isBaseForme": false,
         "isMega": false,
         "isGMax": false,
-        "isBattleOnly": "Minior",
+        "isBattleOnly": false,
         "alias": "miniormeteorgreen",
         "types": ["Rock", "Flying"],
         "genderRatio": {
@@ -54163,11 +54192,11 @@
       {
         "name": "Minior",
         "formeName": "Minior-Meteor-Blue",
-        "formeNumber": 0,
+        "formeNumber": 4,
         "isBaseForme": false,
         "isMega": false,
         "isGMax": false,
-        "isBattleOnly": "Minior",
+        "isBattleOnly": false,
         "alias": "miniormeteorblue",
         "types": ["Rock", "Flying"],
         "genderRatio": {
@@ -54200,7 +54229,7 @@
       {
         "name": "Minior",
         "formeName": "Minior-Meteor-Indigo",
-        "formeNumber": 0,
+        "formeNumber": 5,
         "isBaseForme": false,
         "isMega": false,
         "isGMax": false,
@@ -54237,7 +54266,7 @@
       {
         "name": "Minior",
         "formeName": "Minior-Meteor-Violet",
-        "formeNumber": 0,
+        "formeNumber": 6,
         "isBaseForme": false,
         "isMega": false,
         "isGMax": false,
@@ -54274,11 +54303,11 @@
       {
         "name": "Minior",
         "formeName": "Minior-Core-Red",
-        "formeNumber": 0,
+        "formeNumber": 7,
         "isBaseForme": true,
         "isMega": false,
         "isGMax": false,
-        "isBattleOnly": false,
+        "isBattleOnly": true,
         "alias": "miniorcorered",
         "types": ["Rock", "Flying"],
         "genderRatio": {
@@ -54315,7 +54344,7 @@
         "isBaseForme": false,
         "isMega": false,
         "isGMax": false,
-        "isBattleOnly": false,
+        "isBattleOnly": true,
         "alias": "miniorcoreorange",
         "types": ["Rock", "Flying"],
         "genderRatio": {
@@ -54352,7 +54381,7 @@
         "isBaseForme": false,
         "isMega": false,
         "isGMax": false,
-        "isBattleOnly": false,
+        "isBattleOnly": true,
         "alias": "miniorcoreyellow",
         "types": ["Rock", "Flying"],
         "genderRatio": {
@@ -54389,7 +54418,7 @@
         "isBaseForme": false,
         "isMega": false,
         "isGMax": false,
-        "isBattleOnly": false,
+        "isBattleOnly": true,
         "alias": "miniorcoregreen",
         "types": ["Rock", "Flying"],
         "genderRatio": {
@@ -54426,7 +54455,7 @@
         "isBaseForme": false,
         "isMega": false,
         "isGMax": false,
-        "isBattleOnly": false,
+        "isBattleOnly": true,
         "alias": "miniorcoreblue",
         "types": ["Rock", "Flying"],
         "genderRatio": {
@@ -54463,7 +54492,7 @@
         "isBaseForme": false,
         "isMega": false,
         "isGMax": false,
-        "isBattleOnly": false,
+        "isBattleOnly": true,
         "alias": "miniorcoreindigo",
         "types": ["Rock", "Flying"],
         "genderRatio": {
@@ -54500,7 +54529,7 @@
         "isBaseForme": false,
         "isMega": false,
         "isGMax": false,
-        "isBattleOnly": false,
+        "isBattleOnly": true,
         "alias": "miniorcoreviolet",
         "types": ["Rock", "Flying"],
         "genderRatio": {
@@ -61679,7 +61708,7 @@
         "ultraBeast": false,
         "paradox": false,
         "cosmeticForme": false,
-        "sprite": "urshifu",
+        "sprite": "urshifu-rapid-strike",
         "spriteIndex": [24, 32]
       }
     ],

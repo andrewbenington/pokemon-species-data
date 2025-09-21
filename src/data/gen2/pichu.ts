@@ -58,7 +58,7 @@ const Pichu: Pokemon = {
       evos: [],
       prevo: null,
       eggGroups: ['Undiscovered'],
-      gen: 2,
+      gen: 4,
       restrictedLegendary: false,
       regional: null,
       subLegendary: false,

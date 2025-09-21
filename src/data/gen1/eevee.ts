@@ -67,7 +67,7 @@ const Eevee: Pokemon = {
       evos: [],
       prevo: null,
       eggGroups: ['Undiscovered'],
-      gen: 1,
+      gen: 7,
       restrictedLegendary: false,
       regional: null,
       subLegendary: false,

@@ -289,7 +289,7 @@ const Furfrou: Pokemon = {
     {
       name: 'Furfrou',
       formeName: 'Furfrou-Star',
-      formeNumber: 2,
+      formeNumber: 10,
       isBaseForme: false,
       isMega: false,
       isGMax: false,

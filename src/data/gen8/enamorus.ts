@@ -66,7 +66,7 @@ const Enamorus: Pokemon = {
       ultraBeast: false,
       paradox: false,
       cosmeticForme: true,
-      sprite: 'enamorus',
+      sprite: 'enamorus-therian',
       spriteIndex: [7, 33],
     },
   ],

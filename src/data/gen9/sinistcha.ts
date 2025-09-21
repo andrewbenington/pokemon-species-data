@@ -9,13 +9,13 @@ const Sinistcha: Pokemon = {
   formes: [
     {
       name: 'Sinistcha',
-      formeName: 'Sinistcha',
+      formeName: 'Sinistcha-Unremarkable',
       formeNumber: 0,
       isBaseForme: false,
       isMega: false,
       isGMax: false,
       isBattleOnly: false,
-      alias: 'sinistcha',
+      alias: 'sinistchaunremarkable',
       types: ['Grass', 'Ghost'],
       genderRatio: { male: 0, female: 0 },
       baseStats: { hp: 71, atk: 60, def: 106, spa: 121, spd: 80, spe: 70 },

@@ -8936,7 +8936,7 @@
       },
       {
         "name": "Tauros",
-        "formeName": "Tauros-Paldea",
+        "formeName": "Tauros-Paldea-Combat",
         "baseStats": {
           "hp": 75,
           "atk": 110,
@@ -8957,7 +8957,7 @@
           "M": 1.0,
           "F": 0.0
         },
-        "alias": "taurospaldea",
+        "alias": "taurospaldeacombat",
         "formeNumber": 1,
         "height": 1.4,
         "weight": 115.0,
@@ -8975,12 +8975,12 @@
         "ultraBeast": false,
         "paradox": false,
         "cosmeticForme": true,
-        "sprite": "tauros-paldea",
+        "sprite": "tauros-paldea-combat",
         "spriteIndex": [34, 4]
       },
       {
         "name": "Tauros",
-        "formeName": "Tauros-Paldea-Fire",
+        "formeName": "Tauros-Paldea-Blaze",
         "baseStats": {
           "hp": 75,
           "atk": 110,
@@ -9001,7 +9001,7 @@
           "M": 1.0,
           "F": 0.0
         },
-        "alias": "taurospaldeafire",
+        "alias": "taurospaldeablaze",
         "formeNumber": 2,
         "height": 1.4,
         "weight": 85.0,
@@ -9019,12 +9019,12 @@
         "ultraBeast": false,
         "paradox": false,
         "cosmeticForme": true,
-        "sprite": "tauros-paldea-fire",
+        "sprite": "tauros-paldea-blaze",
         "spriteIndex": [35, 4]
       },
       {
         "name": "Tauros",
-        "formeName": "Tauros-Paldea-Water",
+        "formeName": "Tauros-Paldea-Aqua",
         "baseStats": {
           "hp": 75,
           "atk": 110,
@@ -9045,7 +9045,7 @@
           "M": 1.0,
           "F": 0.0
         },
-        "alias": "taurospaldeawater",
+        "alias": "taurospaldeaaqua",
         "formeNumber": 3,
         "height": 1.4,
         "weight": 110.0,
@@ -9063,7 +9063,7 @@
         "ultraBeast": false,
         "paradox": false,
         "cosmeticForme": true,
-        "sprite": "tauros-paldea-water",
+        "sprite": "tauros-paldea-aqua",
         "spriteIndex": [0, 5]
       }
     ],
@@ -31697,7 +31697,10 @@
         "isBattleOnly": false,
         "alias": "arceus",
         "types": ["Normal"],
-        "genderRatio": { "M": 0, "F": 0 },
+        "genderRatio": {
+          "M": 0,
+          "F": 0
+        },
         "baseStats": {
           "hp": 120,
           "atk": 120,
@@ -31713,7 +31716,9 @@
         "eggGroups": ["Undiscovered"],
         "gen": 4,
         "baseFriendship": 0,
-        "evYield": { "hp": 3 },
+        "evYield": {
+          "hp": 3
+        },
         "restrictedLegendary": false,
         "subLegendary": false,
         "mythical": true,
@@ -31733,7 +31738,10 @@
         "isBattleOnly": false,
         "alias": "arceusfighting",
         "types": ["Fighting"],
-        "genderRatio": { "M": 0, "F": 0 },
+        "genderRatio": {
+          "M": 0,
+          "F": 0
+        },
         "baseStats": {
           "hp": 120,
           "atk": 120,
@@ -31749,7 +31757,9 @@
         "eggGroups": ["Undiscovered"],
         "gen": 4,
         "baseFriendship": 0,
-        "evYield": { "hp": 3 },
+        "evYield": {
+          "hp": 3
+        },
         "restrictedLegendary": false,
         "subLegendary": false,
         "mythical": false,
@@ -31769,7 +31779,10 @@
         "isBattleOnly": false,
         "alias": "arceusflying",
         "types": ["Flying"],
-        "genderRatio": { "M": 0, "F": 0 },
+        "genderRatio": {
+          "M": 0,
+          "F": 0
+        },
         "baseStats": {
           "hp": 120,
           "atk": 120,
@@ -31785,7 +31798,9 @@
         "eggGroups": ["Undiscovered"],
         "gen": 4,
         "baseFriendship": 0,
-        "evYield": { "hp": 3 },
+        "evYield": {
+          "hp": 3
+        },
         "restrictedLegendary": false,
         "subLegendary": false,
         "mythical": false,
@@ -31805,7 +31820,10 @@
         "isBattleOnly": false,
         "alias": "arceuspoison",
         "types": ["Bug"],
-        "genderRatio": { "M": 0, "F": 0 },
+        "genderRatio": {
+          "M": 0,
+          "F": 0
+        },
         "baseStats": {
           "hp": 120,
           "atk": 120,
@@ -31821,7 +31839,9 @@
         "eggGroups": ["Undiscovered"],
         "gen": 4,
         "baseFriendship": 0,
-        "evYield": { "hp": 3 },
+        "evYield": {
+          "hp": 3
+        },
         "restrictedLegendary": false,
         "subLegendary": false,
         "mythical": false,
@@ -31841,7 +31861,10 @@
         "isBattleOnly": false,
         "alias": "arceusground",
         "types": ["Ground"],
-        "genderRatio": { "M": 0, "F": 0 },
+        "genderRatio": {
+          "M": 0,
+          "F": 0
+        },
         "baseStats": {
           "hp": 120,
           "atk": 120,
@@ -31857,7 +31880,9 @@
         "eggGroups": ["Undiscovered"],
         "gen": 4,
         "baseFriendship": 0,
-        "evYield": { "hp": 3 },
+        "evYield": {
+          "hp": 3
+        },
         "restrictedLegendary": false,
         "subLegendary": false,
         "mythical": false,
@@ -31877,7 +31902,10 @@
         "isBattleOnly": false,
         "alias": "arceusrock",
         "types": ["Rock"],
-        "genderRatio": { "M": 0, "F": 0 },
+        "genderRatio": {
+          "M": 0,
+          "F": 0
+        },
         "baseStats": {
           "hp": 120,
           "atk": 120,
@@ -31893,7 +31921,9 @@
         "eggGroups": ["Undiscovered"],
         "gen": 4,
         "baseFriendship": 0,
-        "evYield": { "hp": 3 },
+        "evYield": {
+          "hp": 3
+        },
         "restrictedLegendary": false,
         "subLegendary": false,
         "mythical": false,
@@ -31913,7 +31943,10 @@
         "isBattleOnly": false,
         "alias": "arceusbug",
         "types": ["Bug"],
-        "genderRatio": { "M": 0, "F": 0 },
+        "genderRatio": {
+          "M": 0,
+          "F": 0
+        },
         "baseStats": {
           "hp": 120,
           "atk": 120,
@@ -31929,7 +31962,9 @@
         "eggGroups": ["Undiscovered"],
         "gen": 4,
         "baseFriendship": 0,
-        "evYield": { "hp": 3 },
+        "evYield": {
+          "hp": 3
+        },
         "restrictedLegendary": false,
         "subLegendary": false,
         "mythical": false,
@@ -31949,7 +31984,10 @@
         "isBattleOnly": false,
         "alias": "arceusghost",
         "types": ["Ghost"],
-        "genderRatio": { "M": 0, "F": 0 },
+        "genderRatio": {
+          "M": 0,
+          "F": 0
+        },
         "baseStats": {
           "hp": 120,
           "atk": 120,
@@ -31965,7 +32003,9 @@
         "eggGroups": ["Undiscovered"],
         "gen": 4,
         "baseFriendship": 0,
-        "evYield": { "hp": 3 },
+        "evYield": {
+          "hp": 3
+        },
         "restrictedLegendary": false,
         "subLegendary": false,
         "mythical": false,
@@ -31985,7 +32025,10 @@
         "isBattleOnly": false,
         "alias": "arceussteel",
         "types": ["Steel"],
-        "genderRatio": { "M": 0, "F": 0 },
+        "genderRatio": {
+          "M": 0,
+          "F": 0
+        },
         "baseStats": {
           "hp": 120,
           "atk": 120,
@@ -32001,7 +32044,9 @@
         "eggGroups": ["Undiscovered"],
         "gen": 4,
         "baseFriendship": 0,
-        "evYield": { "hp": 3 },
+        "evYield": {
+          "hp": 3
+        },
         "restrictedLegendary": false,
         "subLegendary": false,
         "mythical": false,
@@ -32021,7 +32066,10 @@
         "isBattleOnly": false,
         "alias": "arceusfire",
         "types": ["Fire"],
-        "genderRatio": { "M": 0, "F": 0 },
+        "genderRatio": {
+          "M": 0,
+          "F": 0
+        },
         "baseStats": {
           "hp": 120,
           "atk": 120,
@@ -32037,7 +32085,9 @@
         "eggGroups": ["Undiscovered"],
         "gen": 4,
         "baseFriendship": 0,
-        "evYield": { "hp": 3 },
+        "evYield": {
+          "hp": 3
+        },
         "restrictedLegendary": false,
         "subLegendary": false,
         "mythical": false,
@@ -32057,7 +32107,10 @@
         "isBattleOnly": false,
         "alias": "arceuswater",
         "types": ["Water"],
-        "genderRatio": { "M": 0, "F": 0 },
+        "genderRatio": {
+          "M": 0,
+          "F": 0
+        },
         "baseStats": {
           "hp": 120,
           "atk": 120,
@@ -32073,7 +32126,9 @@
         "eggGroups": ["Undiscovered"],
         "gen": 4,
         "baseFriendship": 0,
-        "evYield": { "hp": 3 },
+        "evYield": {
+          "hp": 3
+        },
         "restrictedLegendary": false,
         "subLegendary": false,
         "mythical": false,
@@ -32093,7 +32148,10 @@
         "isBattleOnly": false,
         "alias": "arceusgrass",
         "types": ["Grass"],
-        "genderRatio": { "M": 0, "F": 0 },
+        "genderRatio": {
+          "M": 0,
+          "F": 0
+        },
         "baseStats": {
           "hp": 120,
           "atk": 120,
@@ -32109,7 +32167,9 @@
         "eggGroups": ["Undiscovered"],
         "gen": 4,
         "baseFriendship": 0,
-        "evYield": { "hp": 3 },
+        "evYield": {
+          "hp": 3
+        },
         "restrictedLegendary": false,
         "subLegendary": false,
         "mythical": false,
@@ -32129,7 +32189,10 @@
         "isBattleOnly": false,
         "alias": "arceuselectric",
         "types": ["Electric"],
-        "genderRatio": { "M": 0, "F": 0 },
+        "genderRatio": {
+          "M": 0,
+          "F": 0
+        },
         "baseStats": {
           "hp": 120,
           "atk": 120,
@@ -32145,7 +32208,9 @@
         "eggGroups": ["Undiscovered"],
         "gen": 4,
         "baseFriendship": 0,
-        "evYield": { "hp": 3 },
+        "evYield": {
+          "hp": 3
+        },
         "restrictedLegendary": false,
         "subLegendary": false,
         "mythical": false,
@@ -32165,7 +32230,10 @@
         "isBattleOnly": false,
         "alias": "arceuspsychic",
         "types": ["Psychic"],
-        "genderRatio": { "M": 0, "F": 0 },
+        "genderRatio": {
+          "M": 0,
+          "F": 0
+        },
         "baseStats": {
           "hp": 120,
           "atk": 120,
@@ -32181,7 +32249,9 @@
         "eggGroups": ["Undiscovered"],
         "gen": 4,
         "baseFriendship": 0,
-        "evYield": { "hp": 3 },
+        "evYield": {
+          "hp": 3
+        },
         "restrictedLegendary": false,
         "subLegendary": false,
         "mythical": false,
@@ -32201,7 +32271,10 @@
         "isBattleOnly": false,
         "alias": "arceusice",
         "types": ["Ice"],
-        "genderRatio": { "M": 0, "F": 0 },
+        "genderRatio": {
+          "M": 0,
+          "F": 0
+        },
         "baseStats": {
           "hp": 120,
           "atk": 120,
@@ -32217,7 +32290,9 @@
         "eggGroups": ["Undiscovered"],
         "gen": 4,
         "baseFriendship": 0,
-        "evYield": { "hp": 3 },
+        "evYield": {
+          "hp": 3
+        },
         "restrictedLegendary": false,
         "subLegendary": false,
         "mythical": false,
@@ -32237,7 +32312,10 @@
         "isBattleOnly": false,
         "alias": "arceusdragon",
         "types": ["Dragon"],
-        "genderRatio": { "M": 0, "F": 0 },
+        "genderRatio": {
+          "M": 0,
+          "F": 0
+        },
         "baseStats": {
           "hp": 120,
           "atk": 120,
@@ -32253,7 +32331,9 @@
         "eggGroups": ["Undiscovered"],
         "gen": 4,
         "baseFriendship": 0,
-        "evYield": { "hp": 3 },
+        "evYield": {
+          "hp": 3
+        },
         "restrictedLegendary": false,
         "subLegendary": false,
         "mythical": false,
@@ -32273,7 +32353,10 @@
         "isBattleOnly": false,
         "alias": "arceusdark",
         "types": ["Dark"],
-        "genderRatio": { "M": 0, "F": 0 },
+        "genderRatio": {
+          "M": 0,
+          "F": 0
+        },
         "baseStats": {
           "hp": 120,
           "atk": 120,
@@ -32289,7 +32372,9 @@
         "eggGroups": ["Undiscovered"],
         "gen": 4,
         "baseFriendship": 0,
-        "evYield": { "hp": 3 },
+        "evYield": {
+          "hp": 3
+        },
         "restrictedLegendary": false,
         "subLegendary": false,
         "mythical": false,
@@ -32309,7 +32394,10 @@
         "isBattleOnly": false,
         "alias": "arceusfairy",
         "types": ["Fairy"],
-        "genderRatio": { "M": 0, "F": 0 },
+        "genderRatio": {
+          "M": 0,
+          "F": 0
+        },
         "baseStats": {
           "hp": 120,
           "atk": 120,
@@ -32325,7 +32413,9 @@
         "eggGroups": ["Undiscovered"],
         "gen": 4,
         "baseFriendship": 0,
-        "evYield": { "hp": 3 },
+        "evYield": {
+          "hp": 3
+        },
         "restrictedLegendary": false,
         "subLegendary": false,
         "mythical": false,
@@ -32345,7 +32435,10 @@
         "isBattleOnly": false,
         "alias": "arceuslegend",
         "types": ["Normal"],
-        "genderRatio": { "M": 0, "F": 0 },
+        "genderRatio": {
+          "M": 0,
+          "F": 0
+        },
         "baseStats": {
           "hp": 120,
           "atk": 120,
@@ -32361,7 +32454,9 @@
         "eggGroups": ["Undiscovered"],
         "gen": 4,
         "baseFriendship": 0,
-        "evYield": { "hp": 3 },
+        "evYield": {
+          "hp": 3
+        },
         "restrictedLegendary": false,
         "subLegendary": false,
         "mythical": false,
@@ -60985,7 +61080,12 @@
         "abilityH": "Stalwart",
         "height": 1.8,
         "weight": 40,
-        "evos": [{ "dexNumber": 1018, "formeNumber": 0 }],
+        "evos": [
+          {
+            "dexNumber": 1018,
+            "formeNumber": 0
+          }
+        ],
         "eggGroups": ["Mineral", "Dragon"],
         "gen": 8,
         "restrictedLegendary": false,
@@ -62155,13 +62255,11 @@
         "cosmeticForme": true,
         "sprite": "ursaluna",
         "spriteIndex": [0, 33],
-        "isBaseForm": true,
-        "isLegendary": false,
-        "mythical": false
+        "isBaseForm": true
       },
       {
         "formeNumber": 1,
-        "name": "Ursaluna Bloodmoon",
+        "name": "Ursaluna",
         "formeName": "Ursaluna Bloodmoon",
         "alias": "ursaluna-bloodmoon",
         "isBaseForm": false,
@@ -62486,7 +62584,7 @@
         "ultraBeast": false,
         "paradox": false,
         "cosmeticForme": true,
-        "sprite": "enamorus",
+        "sprite": "enamorus-therian",
         "spriteIndex": [7, 33]
       }
     ],
@@ -68283,7 +68381,7 @@
     "formes": [
       {
         "name": "Koraidon",
-        "formeName": "Koraidon",
+        "formeName": "Koraidon-Apex",
         "baseStats": {
           "hp": 100,
           "atk": 135,
@@ -68302,7 +68400,7 @@
           "M": 0,
           "F": 0
         },
-        "alias": "koraidon",
+        "alias": "koraidonapex",
         "formeNumber": 0,
         "height": 2.5,
         "weight": 303.0,
@@ -68324,7 +68422,7 @@
       },
       {
         "name": "Koraidon",
-        "formeName": "Koraidon-1",
+        "formeName": "Koraidon-Limited",
         "baseStats": {
           "hp": 100,
           "atk": 135,
@@ -68343,7 +68441,7 @@
           "M": 0,
           "F": 0
         },
-        "alias": "koraidon1",
+        "alias": "koraidonlimited",
         "formeNumber": 1,
         "height": 3.5,
         "weight": 303.0,
@@ -68365,7 +68463,7 @@
       },
       {
         "name": "Koraidon",
-        "formeName": "Koraidon-2",
+        "formeName": "Koraidon-Sprinting",
         "baseStats": {
           "hp": 100,
           "atk": 135,
@@ -68384,7 +68482,7 @@
           "M": 0,
           "F": 0
         },
-        "alias": "koraidon2",
+        "alias": "koraidonsprinting",
         "formeNumber": 2,
         "height": 3.5,
         "weight": 303.0,
@@ -68406,7 +68504,7 @@
       },
       {
         "name": "Koraidon",
-        "formeName": "Koraidon-3",
+        "formeName": "Koraidon-Swimming",
         "baseStats": {
           "hp": 100,
           "atk": 135,
@@ -68425,7 +68523,7 @@
           "M": 0,
           "F": 0
         },
-        "alias": "koraidon3",
+        "alias": "koraidonswimming",
         "formeNumber": 3,
         "height": 3.5,
         "weight": 303.0,
@@ -68447,7 +68545,7 @@
       },
       {
         "name": "Koraidon",
-        "formeName": "Koraidon-4",
+        "formeName": "Koraidon-Gliding",
         "baseStats": {
           "hp": 100,
           "atk": 135,
@@ -68466,7 +68564,7 @@
           "M": 0,
           "F": 0
         },
-        "alias": "koraidon4",
+        "alias": "koraidongliding",
         "formeNumber": 4,
         "height": 3.5,
         "weight": 303.0,
@@ -68495,7 +68593,7 @@
     "formes": [
       {
         "name": "Miraidon",
-        "formeName": "Miraidon",
+        "formeName": "Miraidon-Ultimate",
         "baseStats": {
           "hp": 100,
           "atk": 85,
@@ -68514,7 +68612,7 @@
           "M": 0,
           "F": 0
         },
-        "alias": "miraidon",
+        "alias": "miraidonultimate",
         "formeNumber": 0,
         "height": 3.5,
         "weight": 240.0,
@@ -68536,7 +68634,7 @@
       },
       {
         "name": "Miraidon",
-        "formeName": "Miraidon-1",
+        "formeName": "Miraidon-Low-Power",
         "baseStats": {
           "hp": 100,
           "atk": 85,
@@ -68555,7 +68653,7 @@
           "M": 0,
           "F": 0
         },
-        "alias": "miraidon1",
+        "alias": "miraidonlowpower",
         "formeNumber": 1,
         "height": 2.8,
         "weight": 240.0,
@@ -68577,7 +68675,7 @@
       },
       {
         "name": "Miraidon",
-        "formeName": "Miraidon-2",
+        "formeName": "Miraidon-Drive",
         "baseStats": {
           "hp": 100,
           "atk": 85,
@@ -68596,7 +68694,7 @@
           "M": 0,
           "F": 0
         },
-        "alias": "miraidon2",
+        "alias": "miraidondrive",
         "formeNumber": 2,
         "height": 2.8,
         "weight": 240.0,
@@ -68618,7 +68716,7 @@
       },
       {
         "name": "Miraidon",
-        "formeName": "Miraidon-3",
+        "formeName": "Miraidon-Aquatic",
         "baseStats": {
           "hp": 100,
           "atk": 85,
@@ -68637,7 +68735,7 @@
           "M": 0,
           "F": 0
         },
-        "alias": "miraidon3",
+        "alias": "miraidonaquatic",
         "formeNumber": 3,
         "height": 2.8,
         "weight": 240.0,
@@ -68659,7 +68757,7 @@
       },
       {
         "name": "Miraidon",
-        "formeName": "Miraidon-4",
+        "formeName": "Miraidon-Glide",
         "baseStats": {
           "hp": 100,
           "atk": 85,
@@ -68678,7 +68776,7 @@
           "M": 0,
           "F": 0
         },
-        "alias": "miraidon4",
+        "alias": "miraidonglide",
         "formeNumber": 4,
         "height": 2.8,
         "weight": 240.0,
@@ -68813,7 +68911,12 @@
         "mythical": false,
         "height": 0.4,
         "weight": 9.7,
-        "evos": [{ "dexNumber": 1019, "formeNumber": 0 }],
+        "evos": [
+          {
+            "dexNumber": 1019,
+            "formeNumber": 0
+          }
+        ],
         "eggGroups": ["Grass", "Dragon"],
         "baseFriendship": 0,
         "genderRatio": {
@@ -68850,8 +68953,8 @@
       {
         "formeNumber": 0,
         "name": "Poltchageist",
-        "formeName": "Poltchageist",
-        "alias": "poltchageist",
+        "formeName": "Poltchageist-Counterfeit",
+        "alias": "poltchageistcounterfeit",
         "isBaseForm": true,
         "isMega": false,
         "isBattleOnly": false,
@@ -68889,8 +68992,8 @@
       {
         "formeNumber": 1,
         "name": "Poltchageist",
-        "formeName": "Poltchageist-Masterpiece",
-        "alias": "poltchageist-masterpiece",
+        "formeName": "Poltchageist-Artisan",
+        "alias": "poltchageist-artisan",
         "isBaseForm": true,
         "isMega": false,
         "isBattleOnly": false,
@@ -68923,7 +69026,7 @@
         "ability1": "Hospitality",
         "abilityH": "Heatproof",
         "spriteIndex": [17, 36],
-        "sprite": "poltchageist-masterpiece"
+        "sprite": "poltchageist-artisan"
       }
     ],
     "levelUpType": "Medium Fast"
@@ -68935,8 +69038,8 @@
       {
         "formeNumber": 0,
         "name": "Sinistcha",
-        "formeName": "Sinistcha",
-        "alias": "sinistcha",
+        "formeName": "Sinistcha-Unremarkable",
+        "alias": "sinistchaunremarkable",
         "isBaseForm": true,
         "isMega": false,
         "isBattleOnly": false,

@@ -39,7 +39,7 @@ const Ursaluna: Pokemon = {
       spriteIndex: [0, 33],
     },
     {
-      name: 'Ursaluna Bloodmoon',
+      name: 'Ursaluna',
       formeName: 'Ursaluna Bloodmoon',
       formeNumber: 1,
       isBaseForme: false,

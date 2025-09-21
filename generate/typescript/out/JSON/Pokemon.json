@@ -1647,7 +1647,6 @@
         "isMega": false,
         "isGMax": false,
         "isBattleOnly": false,
-        "regional": "Alola",
         "alias": "pikachustarter",
         "types": ["Electric"],
         "genderRatio": { "M": 0.5, "F": 0.5 },
@@ -7550,7 +7549,7 @@
       },
       {
         "name": "Tauros",
-        "formeName": "Tauros-Paldea",
+        "formeName": "Tauros-Paldea-Combat",
         "baseStats": {
           "hp": 75,
           "atk": 110,
@@ -7568,7 +7567,7 @@
         "isGMax": false,
         "isBattleOnly": false,
         "genderRatio": { "M": 1.0, "F": 0.0 },
-        "alias": "taurospaldea",
+        "alias": "taurospaldeacombat",
         "formeNumber": 1,
         "height": 1.4,
         "weight": 115.0,
@@ -7584,12 +7583,12 @@
         "ultraBeast": false,
         "paradox": false,
         "cosmeticForme": true,
-        "sprite": "tauros-paldea",
+        "sprite": "tauros-paldea-combat",
         "spriteIndex": [34, 4]
       },
       {
         "name": "Tauros",
-        "formeName": "Tauros-Paldea-Fire",
+        "formeName": "Tauros-Paldea-Blaze",
         "baseStats": {
           "hp": 75,
           "atk": 110,
@@ -7607,7 +7606,7 @@
         "isGMax": false,
         "isBattleOnly": false,
         "genderRatio": { "M": 1.0, "F": 0.0 },
-        "alias": "taurospaldeafire",
+        "alias": "taurospaldeablaze",
         "formeNumber": 2,
         "height": 1.4,
         "weight": 85.0,
@@ -7628,7 +7627,7 @@
       },
       {
         "name": "Tauros",
-        "formeName": "Tauros-Paldea-Water",
+        "formeName": "Tauros-Paldea-Aqua",
         "baseStats": {
           "hp": 75,
           "atk": 110,
@@ -7646,7 +7645,7 @@
         "isGMax": false,
         "isBattleOnly": false,
         "genderRatio": { "M": 1.0, "F": 0.0 },
-        "alias": "taurospaldeawater",
+        "alias": "taurospaldeaaqua",
         "formeNumber": 3,
         "height": 1.4,
         "weight": 110.0,
@@ -7662,7 +7661,7 @@
         "ultraBeast": false,
         "paradox": false,
         "cosmeticForme": true,
-        "sprite": "tauros-paldea-water",
+        "sprite": "tauros-paldea-aqua",
         "spriteIndex": [0, 5]
       }
     ],
@@ -53108,7 +53107,7 @@
       },
       {
         "formeNumber": 1,
-        "name": "Ursaluna Bloodmoon",
+        "name": "Ursaluna",
         "formeName": "Ursaluna Bloodmoon",
         "alias": "ursaluna-bloodmoon",
         "isBaseForm": false,
@@ -58289,7 +58288,7 @@
     "formes": [
       {
         "name": "Koraidon",
-        "formeName": "Koraidon",
+        "formeName": "Koraidon-Apex",
         "baseStats": {
           "hp": 100,
           "atk": 135,
@@ -58305,7 +58304,7 @@
         "isGMax": false,
         "isBattleOnly": false,
         "genderRatio": { "M": 0, "F": 0 },
-        "alias": "koraidon",
+        "alias": "koraidonapex",
         "formeNumber": 0,
         "height": 2.5,
         "weight": 303.0,
@@ -58325,7 +58324,7 @@
       },
       {
         "name": "Koraidon",
-        "formeName": "Koraidon-1",
+        "formeName": "Koraidon-Limited",
         "baseStats": {
           "hp": 100,
           "atk": 135,
@@ -58341,7 +58340,7 @@
         "isGMax": false,
         "isBattleOnly": false,
         "genderRatio": { "M": 0, "F": 0 },
-        "alias": "koraidon1",
+        "alias": "koraidonlimited",
         "formeNumber": 1,
         "height": 3.5,
         "weight": 303.0,
@@ -58361,7 +58360,7 @@
       },
       {
         "name": "Koraidon",
-        "formeName": "Koraidon-2",
+        "formeName": "Koraidon-Sprinting",
         "baseStats": {
           "hp": 100,
           "atk": 135,
@@ -58377,7 +58376,7 @@
         "isGMax": false,
         "isBattleOnly": false,
         "genderRatio": { "M": 0, "F": 0 },
-        "alias": "koraidon2",
+        "alias": "koraidonsprinting",
         "formeNumber": 2,
         "height": 3.5,
         "weight": 303.0,
@@ -58397,7 +58396,7 @@
       },
       {
         "name": "Koraidon",
-        "formeName": "Koraidon-3",
+        "formeName": "Koraidon-Swimming",
         "baseStats": {
           "hp": 100,
           "atk": 135,
@@ -58413,7 +58412,7 @@
         "isGMax": false,
         "isBattleOnly": false,
         "genderRatio": { "M": 0, "F": 0 },
-        "alias": "koraidon3",
+        "alias": "koraidonswimming",
         "formeNumber": 3,
         "height": 3.5,
         "weight": 303.0,
@@ -58433,7 +58432,7 @@
       },
       {
         "name": "Koraidon",
-        "formeName": "Koraidon-4",
+        "formeName": "Koraidon-Gliding",
         "baseStats": {
           "hp": 100,
           "atk": 135,
@@ -58449,7 +58448,7 @@
         "isGMax": false,
         "isBattleOnly": false,
         "genderRatio": { "M": 0, "F": 0 },
-        "alias": "koraidon4",
+        "alias": "koraidongliding",
         "formeNumber": 4,
         "height": 3.5,
         "weight": 303.0,
@@ -58476,7 +58475,7 @@
     "formes": [
       {
         "name": "Miraidon",
-        "formeName": "Miraidon",
+        "formeName": "Miraidon-Ultimate",
         "baseStats": {
           "hp": 100,
           "atk": 85,
@@ -58492,7 +58491,7 @@
         "isGMax": false,
         "isBattleOnly": false,
         "genderRatio": { "M": 0, "F": 0 },
-        "alias": "miraidon",
+        "alias": "miraidonultimate",
         "formeNumber": 0,
         "height": 3.5,
         "weight": 240.0,
@@ -58512,7 +58511,7 @@
       },
       {
         "name": "Miraidon",
-        "formeName": "Miraidon-1",
+        "formeName": "Miraidon-Low-Power",
         "baseStats": {
           "hp": 100,
           "atk": 85,
@@ -58528,7 +58527,7 @@
         "isGMax": false,
         "isBattleOnly": false,
         "genderRatio": { "M": 0, "F": 0 },
-        "alias": "miraidon1",
+        "alias": "miraidonlowpower",
         "formeNumber": 1,
         "height": 2.8,
         "weight": 240.0,
@@ -58548,7 +58547,7 @@
       },
       {
         "name": "Miraidon",
-        "formeName": "Miraidon-2",
+        "formeName": "Miraidon-Drive",
         "baseStats": {
           "hp": 100,
           "atk": 85,
@@ -58564,7 +58563,7 @@
         "isGMax": false,
         "isBattleOnly": false,
         "genderRatio": { "M": 0, "F": 0 },
-        "alias": "miraidon2",
+        "alias": "miraidondrive",
         "formeNumber": 2,
         "height": 2.8,
         "weight": 240.0,
@@ -58584,7 +58583,7 @@
       },
       {
         "name": "Miraidon",
-        "formeName": "Miraidon-3",
+        "formeName": "Miraidon-Aquatic",
         "baseStats": {
           "hp": 100,
           "atk": 85,
@@ -58600,7 +58599,7 @@
         "isGMax": false,
         "isBattleOnly": false,
         "genderRatio": { "M": 0, "F": 0 },
-        "alias": "miraidon3",
+        "alias": "miraidonaquatic",
         "formeNumber": 3,
         "height": 2.8,
         "weight": 240.0,
@@ -58620,7 +58619,7 @@
       },
       {
         "name": "Miraidon",
-        "formeName": "Miraidon-4",
+        "formeName": "Miraidon-Glide",
         "baseStats": {
           "hp": 100,
           "atk": 85,
@@ -58636,7 +58635,7 @@
         "isGMax": false,
         "isBattleOnly": false,
         "genderRatio": { "M": 0, "F": 0 },
-        "alias": "miraidon4",
+        "alias": "miraidonglide",
         "formeNumber": 4,
         "height": 2.8,
         "weight": 240.0,
@@ -58790,8 +58789,8 @@
       {
         "formeNumber": 0,
         "name": "Poltchageist",
-        "formeName": "Poltchageist",
-        "alias": "poltchageist",
+        "formeName": "Poltchageist-Counterfeit",
+        "alias": "poltchageistcounterfeit",
         "isBaseForm": true,
         "isMega": false,
         "isBattleOnly": false,
@@ -58821,8 +58820,8 @@
       {
         "formeNumber": 1,
         "name": "Poltchageist",
-        "formeName": "Poltchageist-Masterpiece",
-        "alias": "poltchageist-masterpiece",
+        "formeName": "Poltchageist-Artisan",
+        "alias": "poltchageistartisan",
         "isBaseForm": true,
         "isMega": false,
         "isBattleOnly": false,
@@ -58847,7 +58846,7 @@
         "ability1": "Hospitality",
         "abilityH": "Heatproof",
         "spriteIndex": [13, 36],
-        "sprite": "poltchageist-masterpiece"
+        "sprite": "poltchageist-artisan"
       }
     ],
     "levelUpType": "Medium Fast"
@@ -58859,7 +58858,7 @@
       {
         "formeNumber": 0,
         "name": "Sinistcha",
-        "formeName": "Sinistcha",
+        "formeName": "Sinistcha-Unremarkable",
         "alias": "sinistcha",
         "isBaseForm": true,
         "isMega": false,

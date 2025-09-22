@@ -10,3 +10,4 @@ yarn.lock
 dist
 
 **/*.DS_Store
+generate/typescript/out/*

@@ -92,7 +92,7 @@ const Basculin: Pokemon = {
       ],
       prevo: null,
       eggGroups: ['Water 2'],
-      gen: 5,
+      gen: 8,
       restrictedLegendary: false,
       regional: 'Hisui',
       subLegendary: false,

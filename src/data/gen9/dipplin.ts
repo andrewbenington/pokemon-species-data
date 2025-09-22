@@ -11,7 +11,7 @@ const Dipplin: Pokemon = {
       name: 'Dipplin',
       formeName: 'Dipplin',
       formeNumber: 0,
-      isBaseForme: false,
+      isBaseForme: true,
       isMega: false,
       isGMax: false,
       isBattleOnly: false,

@@ -57,7 +57,7 @@ const Ursaluna: Pokemon = {
       weight: 290,
       evos: [],
       prevo: null,
-      eggGroups: [],
+      eggGroups: ['Undiscovered'],
       gen: 8,
       restrictedLegendary: false,
       regional: null,

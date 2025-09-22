@@ -11,7 +11,7 @@ const Munkidori: Pokemon = {
       name: 'Munkidori',
       formeName: 'Munkidori',
       formeNumber: 0,
-      isBaseForme: false,
+      isBaseForme: true,
       isMega: false,
       isGMax: false,
       isBattleOnly: false,

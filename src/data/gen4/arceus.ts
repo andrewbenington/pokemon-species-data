@@ -585,7 +585,7 @@ const Arceus: Pokemon = {
       evos: [],
       prevo: null,
       eggGroups: ['Undiscovered'],
-      gen: 4,
+      gen: 8,
       restrictedLegendary: false,
       regional: null,
       subLegendary: false,

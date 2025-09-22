@@ -11,7 +11,7 @@ const Okidogi: Pokemon = {
       name: 'Okidogi',
       formeName: 'Okidogi',
       formeNumber: 0,
-      isBaseForme: false,
+      isBaseForme: true,
       isMega: false,
       isGMax: false,
       isBattleOnly: false,

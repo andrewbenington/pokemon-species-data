@@ -28,7 +28,7 @@ const Xerneas: Pokemon = {
       prevo: null,
       eggGroups: ['Undiscovered'],
       gen: 6,
-      restrictedLegendary: false,
+      restrictedLegendary: true,
       regional: null,
       subLegendary: false,
       mythical: false,

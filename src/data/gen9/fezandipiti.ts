@@ -11,7 +11,7 @@ const Fezandipiti: Pokemon = {
       name: 'Fezandipiti',
       formeName: 'Fezandipiti',
       formeNumber: 0,
-      isBaseForme: false,
+      isBaseForme: true,
       isMega: false,
       isGMax: false,
       isBattleOnly: false,
